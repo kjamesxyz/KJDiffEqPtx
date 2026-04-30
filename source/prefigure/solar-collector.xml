@@ -1,0 +1,13 @@
+<diagram dimensions="(300,300)" margins="5" xmlns="https://prefigure.org">
+    <definition> a=1 </definition>
+    <definition> b=1 </definition>
+    <definition> C(x,y) = (-x+sqrt(x*x+y*y))/y </definition>
+    <coordinates bbox="[-5,0,5,5]">
+        <grid-axes xlabel="x" ylabel="y" />
+        <graph function="C"/>
+        <tangent-line function="C" point="(a,b)"/>
+        <point p="(a,C(a,b))">
+            <m>(a,b)</m>
+        </point>
+    </coordinates>
+</diagram>
