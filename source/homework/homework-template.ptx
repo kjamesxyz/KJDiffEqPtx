@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="hwx">
+  <title>Homework X</title>
+    <introduction>
+      <p>
+          <alert>Due Date:</alert> This assignment is due at the beginning of class on --------.
+      </p>
+    </introduction>
+
+    <subsection xml:id="hwx-practice">
+      <title>Practice Problems</title>
+        <p> It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.
+          <ul>
+            <li><p> Exercises X.X [pg.XXX] # </p></li>
+          </ul>
+        </p>
+    </subsection>
+
+    <worksheet xml:id="hw1-assigned">
+      <title>Assigned Problems</title>
+      <introduction>
+        <p>
+          <alert>Instructions:</alert> Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
+        </p>
+      </introduction>
+
+      <exercise workspace="1in">
+        <statement>
+          <p>
+            
+          </p>
+        </statement>
+      </exercise>
+    </worksheet>
+</section>
