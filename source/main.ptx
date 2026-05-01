@@ -21,6 +21,29 @@
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
+    <chapter xml:id="maps">
+      <title>Module Maps</title>
+      <introduction>
+        <p>
+          Here you can find the roadmaps to each module for the semester.
+        </p>
+      </introduction>
+      
+      <xi:include href="./maps/U26_262_map_1.ptx" />
+    </chapter>
+
+    <chapter xml:id="preps">
+      <title>Prep Work</title>
+
+      <introduction>
+        <p>
+          Here you can find all prep work assignments for the semester.
+        </p>
+      </introduction>
+
+      <xi:include href="./prepwork/U26_262_prep_1.ptx"/>
+    </chapter>
+
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
 

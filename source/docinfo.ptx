@@ -30,7 +30,7 @@
   <!-- Specify the default type of cross reference: -->
   <!-- <cross-references text="type-global" /> -->
 
-  <prefigure-preamble xmlns="https://prefigure.org">
-  </prefigure-preamble>
+  <!-- <prefigure-preamble xmlns="https://prefigure.org">
+  </prefigure-preamble> -->
 
 </docinfo>

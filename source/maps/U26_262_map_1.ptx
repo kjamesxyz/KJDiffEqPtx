@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="map1">
+    <title>Module 1 Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>July 1st</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            If we’re going to spend an entire semester talking about differential equations, we should probably start with what differential equations are to begin with. In this module, we will define differential equations and establish some vocabulary to help us describe and classify them. We will also see some real-world problems that can be modeled with differential equations to hopefully build motivation to study them.
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Determine the order of differential equations. </p></li>
+                <li><p> Determine the linearity of differential equations. </p></li>
+                <li><p> Verify solutions to differential equations. </p></li>
+                <li><p> Find the interval of existance for solutions to differential equations. </p></li>
+                <li><p> Model simple real-world phenomena with first-order initial value problems. </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>3</alert> videos (total runtime). </p></li>
+                <li><p> Complete <alert>5</alert> checkpoints. </p></li>
+                <li><p> Add <alert>5</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all assigned problems in <alert>Homework 1</alert> </p></li>
+                <li><p> Finish any remaining work on <alert>Activity 0</alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+</section>

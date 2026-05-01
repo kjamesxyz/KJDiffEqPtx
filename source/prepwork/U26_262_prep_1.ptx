@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="prep1">
+  <title>Prep Work 1</title>
+    <introduction>
+      <p>
+          To receive full credit, please complete this prep work entry by the beginning of class <alert>July 1st</alert>. 
+      </p>
+    </introduction>
+
+    <subsection>
+        <title>Prompts</title>
+        <p>
+            Create a heading in your prep work journal for chapter 1. Then, use the lecture videos to record the following. 
+            <ol>
+                <li><p> Explain the difference between <alert>ordinary</alert> and <alert>partial</alert> differential equations. </p></li>
+                
+                <li><p> What is the <alert>order</alert> of a differential equations? </p></li>
+
+                <li><p> What does it mean for a differential equation to be <alert>linear</alert>?</p></li>
+
+                <li><p> A solution to a differential equation is incomplete without a <fillin characters="10"/> </p></li>
+
+                <li><p> What does it mean for a family of solutions to a differential equation to have <alert><m>n</m> parameters?</alert></p></li>
+
+                <li><p> Coming soon? </p></li>
+            </ol>
+        </p>
+    </subsection>
+</section>

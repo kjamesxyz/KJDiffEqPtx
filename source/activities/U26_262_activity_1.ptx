@@ -93,12 +93,12 @@
                     </p>
                 </statement>
 
-                <figure xml:id="act-1-solar-collector">
+                <!-- <figure xml:id="act-1-solar-collector">
                     <caption>The generating curve for the shape of a solar collector.</caption>
                     <prefigure xmlns="https://prefigure.org" label="prefig-solar-colelctor">
                         <xi:include href="../prefigure/solar-collector.xml" />
                     </prefigure>
-                </figure>
+                </figure> -->
             </task>
         </exercise>
     </page>

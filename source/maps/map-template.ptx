@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="mapx">
+    <title>Module X Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>class date</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            TL;DR
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Do some math </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>#</alert> videos (total runtime). </p></li>
+                <li><p> Complete <alert>#</alert> checkpoints. </p></li>
+                <li><p> Add <alert>#</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all assigned problems in <alert>Homework X</alert> </p></li>
+                <li><p> Finish any remaining work on <alert>Activity X</alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+</section>
