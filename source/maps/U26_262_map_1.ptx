@@ -21,8 +21,9 @@
         <p>
             After completing all work in this module, students will be able to...
             <ol>
+                <li><p> Distinguish between ordinary and partial differential equations </p></li>
                 <li><p> Determine the order of differential equations. </p></li>
-                <li><p> Determine the linearity of differential equations. </p></li>
+                <li><p> Distinguish between linear and nonlinear ordinary differential equations. </p></li>
                 <li><p> Verify solutions to differential equations. </p></li>
                 <li><p> Find the interval of existance for solutions to differential equations. </p></li>
                 <li><p> Model simple real-world phenomena with first-order initial value problems. </p></li>

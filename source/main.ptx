@@ -32,6 +32,17 @@
       <xi:include href="./maps/U26_262_map_1.ptx" />
     </chapter>
 
+    <chapter xml:id="lecs">
+      <title>Lectures</title>
+      <introduction>
+        <p>
+          Here you can find the viewing guides for lecture videos.
+        </p>
+      </introduction>
+      
+      <xi:include href="./lectures/U26_262_lecture_1.ptx" />
+    </chapter>
+
     <chapter xml:id="preps">
       <title>Prep Work</title>
 
@@ -43,6 +54,7 @@
 
       <xi:include href="./prepwork/U26_262_prep_1.ptx"/>
     </chapter>
+
 
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
