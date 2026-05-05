@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="act-1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Activity 1</title>
 
-  <!-- Optional introduction -->
   <introduction>
     <p>
       <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. 
