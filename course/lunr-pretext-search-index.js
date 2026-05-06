@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Module 1 Map",
-  "body": " Module 1 Map   All of the content in this module should be completed before July 1st .    The Big Picture  If we’re going to spend an entire semester talking about differential equations, we should probably start with what differential equations are to begin with. In this module, we will define differential equations and establish some vocabulary to help us describe and classify them. We will also see some real-world problems that can be modeled with differential equations to hopefully build motivation to study them.    Module Objectives  After completing all work in this module, students will be able to...  Distinguish between ordinary and partial differential equations  Determine the order of differential equations.  Distinguish between linear and nonlinear ordinary differential equations.  Verify solutions to differential equations.  Find the interval of existance for solutions to differential equations.  Model simple real-world phenomena with first-order initial value problems.      To Do List  In this module, you will...  Watch 3 videos (total runtime).  Complete 5 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 1   Finish any remaining work on Activity 0 .     "
+  "body": " Module 1 Map   All of the content in this module should be completed before July 1st .    The Big Picture  If we’re going to spend an entire semester talking about differential equations, we should probably start with what differential equations are to begin with. In this module, we will define differential equations and establish some vocabulary to help us describe and classify them. We will also see some real-world problems that can be modeled with differential equations to hopefully build motivation to study them.    Module Objectives  After completing all work in this module, students will be able to...  Distinguish between ordinary and partial differential equations  Determine the order of differential equations.  Distinguish between linear and nonlinear ordinary differential equations.  Verify solutions to differential equations and find their intervals of existence.  M10      To Do List  In this module, you will...  Watch 5 videos (approximately 29 minutes).  Complete 5 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 1   Finish any remaining work on Activity 0 .     "
 },
 {
   "id": "lec1",
@@ -109,6 +109,51 @@ var ptx_lunr_docs = [
   "body": "  Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.    "
 },
 {
+  "id": "activities-4",
+  "level": "1",
+  "url": "activities-4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Activity 2",
+  "body": " Activity 2    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Show that, when and , the Bernoulli equation is homogeneous.      Suppose and . Use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
+},
+{
+  "id": "act2-1",
+  "level": "2",
+  "url": "activities-4.html#act2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?    "
+},
+{
+  "id": "act2-2",
+  "level": "2",
+  "url": "activities-4.html#act2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?    "
+},
+{
+  "id": "act2-3",
+  "level": "2",
+  "url": "activities-4.html#act2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Show that, when and , the Bernoulli equation is homogeneous.      Suppose and . Use the substitution to reduce the Bernoulli equation to be linear.    "
+},
+{
+  "id": "act2-4",
+  "level": "2",
+  "url": "activities-4.html#act2-4",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Use the process outlined in question to find a general solution to    "
+},
+{
   "id": "hw1",
   "level": "1",
   "url": "hw1.html",
@@ -143,6 +188,24 @@ var ptx_lunr_docs = [
   "number": "3",
   "title": "",
   "body": "  A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.      Solve the initial value problem you created in the above problem.    "
+},
+{
+  "id": "hw2",
+  "level": "1",
+  "url": "hw2.html",
+  "type": "Section",
+  "number": "",
+  "title": "Homework 2",
+  "body": " Homework 2    Due Date: This assignment is due at the beginning of class on Monday, July 6.    Practice Problems  It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.  Exercises 2.2 [pg.50] #2-10 even, 24, 28.  Exercises 2.3 [pg.60] #2-12 even using both variation of parameters and integrating factors.  Exercises 2.4 [pg.68] #2-10 even, 22.  Exercises 2.5 [pg.74] #2-12 even.      Assigned Problems    Instructions: Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                                 "
+},
+{
+  "id": "hw2-assigned-3",
+  "level": "2",
+  "url": "hw2.html#hw2-assigned-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                               "
 }
 ]
 
