@@ -37,6 +37,15 @@ var ptx_lunr_docs = [
   "body": " Module 1 Map   All of the content in this module should be completed before July 1st .    The Big Picture  If we’re going to spend an entire semester talking about differential equations, we should probably start with what differential equations are to begin with. In this module, we will define differential equations and establish some vocabulary to help us describe and classify them. We will also see some real-world problems that can be modeled with differential equations to hopefully build motivation to study them.    Module Objectives  After completing all work in this module, students will be able to...  Distinguish between ordinary and partial differential equations  Determine the order of differential equations.  Distinguish between linear and nonlinear ordinary differential equations.  Verify solutions to differential equations and find their intervals of existence.  M10      To Do List  In this module, you will...  Watch 5 videos (approximately 29 minutes).  Complete 5 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 1   Finish any remaining work on Activity 0 .     "
 },
 {
+  "id": "map2",
+  "level": "1",
+  "url": "map2.html",
+  "type": "Section",
+  "number": "",
+  "title": "Module 2 Map",
+  "body": " Module 2 Map   All of the content in this module should be completed before July 6 .    The Big Picture  In chapter 1, we learned about differential equations for the first time. We saw some vocabulary and examples of when they become relevant to solving real-world problems. Though we have only just scratched the surface, we have already seen that discussing and solving differential equations require much finer attention to detail. Unfortunately, there is no one-size-fits-all method for solving differential equations. In practice, we identify classes of equations that share a convenient property that we can exploit. In this chapter, we will see this process in action for the first time and solve some of the simpler classes of differential equations.    Module Objectives  After completing all work in this module, students will be able to...  Classify differential equations as separable, exact, or homogeneous.  Find general solutions to separable first-order equations.  Use substitution to reduce homogeneous equations to separable equations.  Find general solutions to exact first-order equations.  Find general solutions to linear first-order equations through variation of parameters.  Find general solutions to linear first-order equations through integrating factors.      To Do List  In this module, you will...  Watch 9 videos (total runtime).  Complete 9 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 2   Finish any remaining work on Activity 1 .     "
+},
+{
   "id": "lec1",
   "level": "1",
   "url": "lec1.html",
@@ -53,6 +62,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "Prep Work 1",
   "body": " Prep Work 1   To receive full credit, please complete this prep work entry by the beginning of class July 1st .    Prompts  Create a heading in your prep work journal for chapter 1. Then, use the lecture videos to record the following.  Explain the difference between ordinary and partial differential equations.  What is the order of a differential equations?  What does it mean for a differential equation to be linear ?  A solution to a differential equation is incomplete without a   What does it mean for a family of solutions to a differential equation to have parameters?     "
+},
+{
+  "id": "prep2",
+  "level": "1",
+  "url": "prep2.html",
+  "type": "Section",
+  "number": "",
+  "title": "Prep Work 2",
+  "body": " Prep Work 2   To receive full credit, please complete this prep work entry by the beginning of class July 6th .    Prompts  Create a heading in your prep work journal for chapter 2. Then, use the lecture videos to fill in the blanks below. Record each item in your prep work journal.  A first-order differential equation is separable when it can be written in the form   A first-order linear differential equation is in standard form when it is written   The formula for the integrating factor for first-order linear equations is .  The equation is exact when .  The function is homogeneous when .     "
 },
 {
   "id": "activities-3",
