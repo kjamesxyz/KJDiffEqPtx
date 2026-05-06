@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Activity 1</title>
+
+  <introduction>
+    <p>
+      This is the introduction to the activity.
+    </p>
+  </introduction>
+
+  <!-- Exercises start here. -->
+  <page>
+    <exercise workspace="1in">
+      <introduction>
+        <p>
+          Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients <m>a_n(x)</m> as in the definition of linearity. 
+        </p>
+      </introduction>
+
+      <task>
+        <statement>
+          <p>
+            <m>y' + \cos(y) = x^3</m>
+          </p>
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+          <p>
+            <m>yy'' + y^2y' + \frac{1}{x} = y</m>
+          </p>
+        </statement>
+      </task>
+
+      <task>
+        <statement>
+          <p>
+            <m>e^{\sin(t^2)} \frac{d^2x}{dt^2} + \omega^2 t \frac{d^3}{x}{dt^3} = e^{-t}</m>
+          </p>
+        </statement>
+      </task>
+    </exercise>
+
+    <exercise workspace="1in">
+      <introduction>
+        <p>
+          Consider the family of functions defined by <md>
+            y = c_1x^{-1} + c_2x + c_3 x \ln(x) + 4x^2
+          </md>
+        </p>
+      </introduction>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            How many parameters does this family have?
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="2in">
+        <statement>
+          <p>
+            Verify that functions in this family are solutions to the differential equation <md>
+              x^3 \frac{d^3y}{dx^3} + 2x^2 \frac{dy^2}{dx^2} - x \frac{dy}{dx} + y = 12x^2.
+            </md>
+            Define an appropriate interval of existence for the solution. 
+          </p>
+        </statement>
+      </task>
+    </exercise>
+  </page> 
+
+  <page>
+    <exercise>
+      <introduction>
+        <p>
+          Consider the differential equation <md number="yes" xml:id="act1-p3">
+            \frac{dy}{dx} = - \frac{x}{y}
+          </md>
+        </p>
+      </introduction>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            Verify that <m>x^2 + y^2 = 25</m> is an implicit solution to <xref ref="act1-p3"/>.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="2in">
+        <statement>
+          <p>
+            Verify that <m>\phi_1(x) = \sqrt{25 - x^2}</m> and <m>\phi_2(x) = - \sqrt{25 - x^2}</m> are both solutions to <xref ref="act1-p3"/> on (-5,5). 
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="2in">
+        <statement>
+          <p>
+            Explain why the function <md>
+              \phi_3(x) = \begin{cases} \sqrt{25-x^2} \amp \text{if} \ -5 \lt x \lt 0 \\ -\sqrt{25-x^2} \amp \text{if} \ 0 \leq y \lt 5 \end{cases} 
+            </md>
+            is <alert>NOT</alert> a solution to <xref ref="act1-p3"/> on (-5,5). 
+          </p>
+        </statement>
+      </task>
+
+    </exercise>
+  </page>
+
+  <page>
+    <exercise>
+      <introduction>
+        <p>
+          <alert>Torricelli's law</alert> states that the speed <m>v</m> of the efflux (discharge/draining) of a fluid through a hole at the bottom of a tank filled to depth <m>h</m> is the same as the speed a solid body would attain from falling the same distance. 
+        </p>
+      </introduction>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation <md>
+              \text{Kinetic Energy} = \frac{1}{2} m v^2 = mgh = \text{Potential Energy}
+            </md> Solve this equation for <m>v</m>.
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area <m>A</m>. Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time. 
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid <m>V</m> in the tank at time <m>t</m>. 
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="0.5in">
+        <statement>
+          <p>
+            Adapt your model from part (c) to instead model the depth of the fluid. 
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            Suppose now that fluid is pumped into the tank at a constant rate of <m>V_{\text{in}}</m>. What changes does this make to your model from part (c)? From part (d)?
+          </p>
+        </statement>
+      </task>
+
+    </exercise>
+  </page>
+
+  <page>
+    <exercise xml:id="act1-p5">
+      <introduction>
+        <p>
+          Consider the differential equation <md>
+            x'' + 16x = 0.
+          </md>
+        </p>
+      </introduction>
+
+      <task workspace="2in">
+        <statement>
+          <p>
+            Verify that functions from the two-parameter family <md>
+              x = c_1 \cos(4t) + c_2 \sin(4t)
+            </md> are solutions to <xref ref="act1-p5"/> on <m>(-\infty,\infty)</m>
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            Suppose now that we add the initial condition that <m>x\left(\frac{\pi}{2}\right) = -2</m>. What new information can you learn about the solution(s) to <xref ref="act1-p5"/>? 
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="1in">
+        <statement>
+          <p>
+            Suppose now that we add the initial condition that <m>x'\left(\frac{\pi}{2}\right) = 1</m>. What new information can you learn about the solution(s) to <xref ref="act1-p5"/>? 
+          </p>
+        </statement>
+      </task>
+
+      <task workspace="2in">
+        <statement>
+          <p>
+            Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an <alert><m>n^{\text{th}}</m>-order</alert> IVP to require in order to have unique solutions? Write the general form of an <m>n^{\text{th}}</m>-order IVP below. 
+          </p>
+        </statement>
+      </task>
+    </exercise>
+  </page>
+</worksheet>

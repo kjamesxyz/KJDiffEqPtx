@@ -57,7 +57,7 @@
     </paragraphs>
 
     <paragraphs>
-      <title>Math \amp Physics Learning Center</title>
+      <title>Math and Physics Learning Center</title>
       <p>
         The Math \amp Physics Learning Center (MPLC) is located on the second floor of Zhanow Library. Their hours of operation are <alert>TBD</alert>. The cost of the MLPC is included in your tuition, meaning you have already paid to use it! The center has on-demand tutors and free refreshments, making it an ideal place to sit to work on your assignments in this class. You can also make a a free one-on-one appointment with a tutor by calling them at (989) 964-4648 or emailing them at <url href="mailto:mathtutor@svsu.edu">mathtutor@svsu.edu</url>.
       </p>
@@ -103,13 +103,235 @@
       </p>
     </paragraphs>
 
+    <paragraphs xml:id="syllabus-prereq">
+      <title>Prerequisites</title>
+      <p>
+        The completion of MATH-261 (Calculus 3) is required for enrollment in this course. 
+      </p>
+    </paragraphs>
+
+    <paragraphs xml:id="syllabus-mats">
+      <title>Required Materials</title>
+      <p>
+        The official text for the course is <alert>A First Course in Differential Equations with Modelling Applications</alert> [9e] by Dennis G. Zill. ISBN-13:978-0-495-10824-5. You do <alert>NOT</alert> need to purchase a copy of the textbook for the course. 
+      </p>
+      <p>
+        This is a hybrid course with a significant online, asynchronous work requirement. Hence, you will need access to a device with stable internet connection. You may use the computers in the Zhanow library to complete all online coursework if you do not have access to your own device. 
+      </p>
+      <p>
+        You will need an "empty journal" to use as a <alert>Prep Work Journal</alert> (see section below). The only requirement is that your prep work journal has only the allowed material inside. 
+      </p>
+    </paragraphs>
+
   </subsection>
 
-  <!-- Other subsections for larger dividers -->
-  <subsection xml:id="sec-assessments">
-    <title>Assessments and Grades</title>
-
+  <subsection xml:id="subsec-resources">
+    <title>Resources for Student Success</title>
     <p>
+      Many students struggle with studying for math classes. As previously mentioned, office hours are your single greatest resource for success in this class, followed by the MPLC. Outside of these resources, I have outlined some studying tips/tricks I would recommend for our class. 
+      <ol>
+        <li><p> Stay dilligent with your prep work. I would recommend filling out your prep work journal while watching lecture videos. </p></li>
+        <li><p> The pracitice problems section on each homework assignment is optional and will not be graded. However, I have selected these problems because they are more straight-forward ways to check your understanding of course material. I would recommend that you give some (or all) of them a try, especially for content you find particularly challenging. </p></li>
+        <li><p> Assigned problems on homework assignments are meant to mimic exam questions (or at least the formatting, difficulty, and expectations). Take them seriously, and ask questions about them! </p></li>
+        <li><p> Generative AI (like ChatGPT, Gemini, Copilot, etc.) are extremely powerful tools (even for learning), but they are not calculators nor oracles for homework solutions! When you ask them a math question, they <alert>guess</alert> what the solution should look like based on other math problem solutions its read online. While they now have much of the same functionality as a graphing calculator, the AI tool doesn't always use it when preparing your answer. While office hours and the MPLC will almost always be more helpful to you than AI, if you want to use these tools, please use them responsibly. They are excellent for generating more practice problems or answer conceptual questions regarding the material. </p></li>
+      </ol>
+
+      For additional help and resources, please consider using the below facilities on campus. 
+      <ul>
+        <li><p> Campus <url href="https://www.svsu.edu/mhwc/">Mental Health and Wellness Center</url> </p></li>
+        <li><p> List of all <url href="https://www.svsu.edu/academicandstudentaffairs/studentresources/">current student resources</url> available at SVSU. </p></li>
+      </ul>
     </p>
   </subsection>
+
+  <subsection xml:id="sec-assessments">
+    <title>Assessments and Grades</title>
+    <p>
+      Your overall grade in the course is a weighted average computed according to the table below.  
+    </p>
+    <table>
+      <title>Weighted Total Distribution</title>
+      <tabular>
+        <row header="yes">
+          <cell halign="right">Category</cell>
+          <cell halign="left">Weight</cell>
+        </row>
+        <row>
+          <cell halign="right">Engagement</cell>
+          <cell halign="left">12%</cell>
+        </row>
+        <row>
+          <cell halign="right">Homework</cell>
+          <cell halign="left">15%</cell>
+        </row>
+        <row>
+          <cell halign="right">Midterms</cell>
+          <cell halign="left">45%</cell>
+        </row>
+        <row>
+          <cell halign="right">Final</cell>
+          <cell halign="left">28%</cell>
+        </row>
+        <row>
+          <cell halign="right"><alert>Total</alert></cell>
+          <cell halign="left"><alert>100%</alert></cell>
+        </row>
+      </tabular>
+    </table>
+
+    <p>
+      The letter grade you earn in the course is determined by the table below. Please note that <alert>your weighted total will be rounded to the nearest integer</alert> before grades are reported. Also note that this is not a standard distribution and actually works in your favor! 
+    </p>
+
+    <table>
+      <title>Letter Grade Distribution</title>
+      <tabular>
+        <row header="yes">
+          <cell halign="right">Letter Grade</cell>
+          <cell halign="left">Required Score</cell>
+        </row>
+        <row>
+          <cell halign="right">A</cell>
+          <cell halign="left">93-100%</cell>
+        </row>
+        <row>
+          <cell halign="right">A-</cell>
+          <cell halign="left">85-92%</cell>
+        </row>
+        <row>
+          <cell halign="right">B+</cell>
+          <cell halign="left">81-84%</cell>
+        </row>
+        <row>
+          <cell halign="right">B</cell>
+          <cell halign="left">77-80%</cell>
+        </row>
+        <row>
+          <cell halign="right">B-</cell>
+          <cell halign="left">73-76%</cell>
+        </row>
+        <row>
+          <cell halign="right">C+</cell>
+          <cell halign="left">69-72%</cell>
+        </row>
+        <row>
+          <cell halign="right">C</cell>
+          <cell halign="left">61-68%</cell>
+        </row>
+        <row>
+          <cell halign="right">D</cell>
+          <cell halign="left">50-60%</cell>
+        </row>
+        <row>
+          <cell halign="right">F</cell>
+          <cell halign="left">0-49%</cell>
+        </row>
+      </tabular>
+    </table>
+
+    <paragraphs>
+      <title>Engagement</title>
+      <p>
+        Your engagement in the course will directly impact your grade and will be measured through 3 primary channels. 
+        <ol>
+          <li><p> <alert>Attendance:</alert> Your attendance in class will be measured using the name tags you will design on the first day! I will pass out name tags at the beginning of class (earning you 1 point), and I will collect them from you (earning you 1 point) for answering questions, asking questions, or dilligently working on in-class activities during class. </p></li>
+          <li><p> <alert>Prep Work:</alert> You will be given a prep work assignment to complete before each class. This assignment may involve you writing down definition, theorems, diagrams, etc. from lecture videos. I will check that your prep work journal has been updated on time at the beginning of each class. If so, you will earn 1 point. For added incentive, you will have access to your prep work journals during exams! </p></li>
+          <li><p> <alert>Activities:</alert> We will have an activity to work on every class day. These assignments are open-notes and collaboration with your classmates is highly encouraged. Each activity will be due at the beginning of the following class period and graded according to the rubric on Canvas. </p></li>
+        </ol>
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Homework</title>
+      <p>
+        There will be a homework assignment due every class day (except for following exam days). I will pass out a printed copies of homework assignments in class, but they will also be available on Canvas. Each homework assignment is worth 10 points and consists of two sections. 
+        <ol> 
+          <li><p> <alert>Practice Problems:</alert> These are more straight-forward shorter problems typically assigned from our course textbook. You do not need to submit these solutions as they will not be graded for credit. These are mostly here as study materials for exams and for helping solidify lecture video content. </p> </li>
+          <li><p> <alert>Assigned Problems:</alert> These 1-5 problems are assigned and will require handwritten solutions to be submitted in-person. </p></li>
+        </ol>
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Midterms</title>
+      <p>
+        There will be three midterm exams, each worth 15% of your grade (for a total of 45%). They are tentatively scheduled for July 8, July 22, and August 8 (all Wednesdays). You will need a writing utensil for the exams. You may use a scientific calculator and/or your prep work journal on exams. No other notes or electronic devices of any kind will be permitted during exams. Exams will be free response, worth 100 points, and will be graded with partial credit. 
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Final Exam</title>
+      <p>
+        The final exam has been scheduled prior to the beginning of the semester for <alert> Wednesday, August 12 from 5:45pm-7:45pm</alert>. Please make your best effort to clear your schedule now. You will need a writing utensil and you may use a scientific calculator as well as your prep work journal on the final. The exam will be cumulative, free response, worth 150 points, and will be graded with partial credit.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Late Policy</title>
+      <p>
+        Please observe the following late policies.
+        <ul>
+          <li><p><alert>Prep Work:</alert> Though you may not earn credit for prep work that is completed past the deadline, you may still use it as a reference on exams. </p></li>
+          <li><p><alert>Activities:</alert> You may turn in activities up to 2 class meetings late, but they will penalized by 1 point for each class meeting it is late.</p></li>
+          <li><p><alert>Homeworks:</alert> You may turn homeworks in up to one class meeting late, but they will be penalized by 4 points.</p></li>
+          <li><p><alert>Midterms:</alert> If you are unable to be present for a midterm exam, you are permitted one makeup exam over the course of the semester. You must notify me within 24 hours after the exam is held. </p></li>
+          <li><p><alert>Final Exam: </alert> There are no makeup final exams.</p></li>
+        </ul>
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Extra Credit Policy</title>
+      <p>
+        Please observe the following extra credit policies. 
+        <ul>
+          <li><p><alert>Attendance:</alert> I will drop 4 attendance points at the end of the semester.</p></li>
+          <li><p><alert>Midterms:</alert> Each midterm exam will have 110 points, but will only be graded out of 100. This means you can earn up to 110% on each midterm. </p></li>
+          <li><p><alert>Final Exam: </alert> The final exam will have 165 points, but will only be graded out of 150. This means you can earn up to 150% on each midterm. </p></li>
+        </ul>
+      </p>
+    </paragraphs>
+  </subsection>
+
+  <subsection xml:id="subsec-policy">
+    <title>Course Conduct &amp; Policies</title>
+    <paragraphs>
+      <title>Academic Integrity</title>
+      <p>
+        Collaboration and using a breadth of resources is essential to learning any subject, but it is important that all work that you submit in this class is ultimately your own. While I encourage you to work on coursework with your classmates or MPLC tutors, I do expect that the solution you write will be uniquely your own. You may borrow ideas, but not words from other sources. During exams, however, outside notes and resources are not permitted. Violations of this policy may result in a score of zero on the corresponding
+        assignment(s) or disciplinary action in accordance with university policy. If you are ever unsure regarding fair use of outside material, please ask! I am happy to answer those
+        questions. You should expect to struggle with difficult material (regardless of the discipline). Learning from those mistakes is a critical part of the educational process!
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Technology Policy</title>
+      <p>
+        Students may be permitted or expected to use electronic devices for in-class activities/group work. Outside of these activities, which will be given explicit introduction, no phones or laptops of any kind are allowed during class. Tablets are permissible so long as they are used for taking notes only. This policy is in place to respect your fellow classmates, so that they can participate in a distraction-free environment.
+      </p>
+      <p>
+        Artificial Intelligence is arguably the hottest topic in mathematics research today. Large-Language Models (LLMs) such as ChatGPT, Google Gemini, Deepseek, etc. are powerful tools designed to predicatively generate text, but please be careful while using them for our class. They do not compute anything! The ability for these tools to solve a math problem correctly is strictly based on whether a similar problem has been worked out on the internet somewhere, making their accuracy for problems in our class a coin flip at best. They can be very helpful study tools if used to generate practice problems or answer content-based questions, but they are not oracles for solutions to differential equations.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Civility in the Classroom</title>
+      <p>
+        A collaborative, calm, and distraction-free environment is critical to promoting learning when we are face-to-face. Incivility in the physical classroom is any action that interferes with or disrupts this order in the classroom. Incivility includes, but is not limited to consistently arriving late, consistently leaving early, using technology in a disruptive manner, excessive talking with classmates, dominating class discussion, using any language that makes others uncomfortable.
+      </p>
+      <p>
+        Similarly, when participating in online activities or communicating with members of this class virtually, you should be mindful of others' ideas, perspectives, and experiences. The more thoughtful and price you are when explaining your ideas or posing your questions, the more helpful others can be in their response. We all share the responsibility of maintaining a positive online experience. Below is an example of a sample email you could send.
+      </p>
+      <blockquote>
+        <p><q> SUBJECT: Absence from Class 7/1 </q></p> 
+        <p>Good Evening Kohl, </p>
+
+        <p> I am feeling under the weather today and I don't think I will be able to participate in class today. Attached is a picture of my compelted homework to show it was finished on time. May I please turn it in to you next class period? </p>
+
+        <p> Best Regards, </p>
+        <p> Student </p>
+      </blockquote>
+    </paragraphs>
+  </subsection>
+  
 </section>
