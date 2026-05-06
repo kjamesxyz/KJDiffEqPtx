@@ -191,7 +191,8 @@ eBookConfig.enable_chatcodes =  false;
 <ul class="structural toc-item-list">
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lec1.html#lec1-3" class="internal"><span class="title">1.1 - What are Differntial Equations?</span></a></div></li>
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lec1.html#lec1-4" class="internal"><span class="title">1.2 - What are Solutions to Differntial Equations?</span></a></div></li>
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lec1.html#lec1-5" class="internal"><span class="title">1.3 - Why Should I Care About Differential Equations?</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lec1.html#lec1-5" class="internal"><span class="title">1.3 - Is there a Guarantee we can do This?</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="lec1.html#lec1-6" class="internal"><span class="title">1.4 - Why Should I Care About Differential Equations?</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-section">
@@ -426,7 +427,7 @@ x^3 \frac{d^3y}{dx^3} + 2x^2 \frac{dy^2}{dx^2} - x \frac{dy}{dx} + y = 12x^2.
 <div class="introduction" id="act1-p5-1">
 <div class="para logical" id="act1-p5-1-1">
 <div class="para">Consider the differential equation</div>
-<div class="displaymath process-math" id="act1-p5-1-1-1">
+<div class="displaymath process-math" id="act1-p5-eqn">
 \begin{equation*}
 x'' + 16x = 0.
 \end{equation*}
@@ -437,12 +438,12 @@ x'' + 16x = 0.
 <article class="task exercise-like" id="act1-p5-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
 <div class="para logical" id="act1-p5-2-1-1">
 <div class="para">Verify that functions from the two-parameter family</div>
-<div class="displaymath process-math" data-contains-math-knowls="./knowl/xref/act1-p5.html" id="act1-p5-2-1-1-1">
+<div class="displaymath process-math" data-contains-math-knowls="./knowl/xref/act1-p5-eqn.html" id="act1-p5-2-1-1-1">
 \begin{equation*}
 x = c_1 \cos(4t) + c_2 \sin(4t)
 \end{equation*}
 </div>
-<div class="para">are solutions to <a href="activities-3.html#act1-p5" class="xref" data-knowl="./knowl/xref/act1-p5.html" data-reveal-label="Reveal" data-close-label="Close" title="Worksheet Exercise 5">Worksheet Exercise 5</a> on <span class="process-math">\((-\infty,\infty)\)</span>
+<div class="para">are solutions to <a href="activities-3.html#act1-p5-eqn" class="xref" data-knowl="./knowl/xref/act1-p5-eqn.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation">()</a> on <span class="process-math">\((-\infty,\infty)\)</span>
 </div>
 <div class="autopermalink" data-description="Paragraph"><a href="#act1-p5-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
@@ -450,13 +451,13 @@ x = c_1 \cos(4t) + c_2 \sin(4t)
 <div class="autopermalink" data-description="Task 5.a"><a href="#act1-p5-2" title="Copy heading and permalink for Task 5.a" aria-label="Copy heading and permalink for Task 5.a">🔗</a></div>
 </article>
 <article class="task exercise-like" id="act1-p5-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
-<div class="para" id="act1-p5-3-1-1">Suppose now that we add the initial condition that <span class="process-math">\(x\left(\frac{\pi}{2}\right) = -2\text{.}\)</span> What new information can you learn about the solution(s) to <a href="activities-3.html#act1-p5" class="xref" data-knowl="./knowl/xref/act1-p5.html" data-reveal-label="Reveal" data-close-label="Close" title="Worksheet Exercise 5">Worksheet Exercise 5</a>?<div class="autopermalink" data-description="Paragraph"><a href="#act1-p5-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="act1-p5-3-1-1">Suppose now that we add the initial condition that <span class="process-math">\(x\left(\frac{\pi}{2}\right) = -2\text{.}\)</span> What new information can you learn about the solution(s) to <a href="activities-3.html#act1-p5-eqn" class="xref" data-knowl="./knowl/xref/act1-p5-eqn.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation">()</a>?<div class="autopermalink" data-description="Paragraph"><a href="#act1-p5-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
 <div class="autopermalink" data-description="Task 5.b"><a href="#act1-p5-3" title="Copy heading and permalink for Task 5.b" aria-label="Copy heading and permalink for Task 5.b">🔗</a></div>
 </article>
 <article class="task exercise-like" id="act1-p5-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
-<div class="para" id="act1-p5-4-1-1">Suppose now that we add the initial condition that <span class="process-math">\(x'\left(\frac{\pi}{2}\right) = 1\text{.}\)</span> What new information can you learn about the solution(s) to <a href="activities-3.html#act1-p5" class="xref" data-knowl="./knowl/xref/act1-p5.html" data-reveal-label="Reveal" data-close-label="Close" title="Worksheet Exercise 5">Worksheet Exercise 5</a>?<div class="autopermalink" data-description="Paragraph"><a href="#act1-p5-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="act1-p5-4-1-1">Suppose now that we add the initial condition that <span class="process-math">\(x'\left(\frac{\pi}{2}\right) = 1\text{.}\)</span> What new information can you learn about the solution(s) to <a href="activities-3.html#act1-p5-eqn" class="xref" data-knowl="./knowl/xref/act1-p5-eqn.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation">()</a>?<div class="autopermalink" data-description="Paragraph"><a href="#act1-p5-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
 <div class="autopermalink" data-description="Task 5.c"><a href="#act1-p5-4" title="Copy heading and permalink for Task 5.c" aria-label="Copy heading and permalink for Task 5.c">🔗</a></div>
