@@ -67,6 +67,7 @@
 
       <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/U26_262_activity_1v2.ptx"/>
+      <xi:include href="./activities/U26_262_activity_2.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
@@ -79,8 +80,8 @@
         </p>
       </introduction>
 
-      <!-- Include homework files -->
       <xi:include href="./homework/U26_262_homework_1.ptx" />
+      <xi:include href="./homework/U26_262_homework_2.ptx" />
     </chapter>
 
     <!-- Include additional chapters for other categories -->

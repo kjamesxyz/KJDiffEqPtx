@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Activity 2</title>
+
+  <introduction>
+    <p>
+      <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. 
+    </p>
+  </introduction>
+
+  <exercise xml:id="act2-1">
+    <introduction>
+        <p>
+            Consider the differential equation <m>\dydx = y^2 - 4.</m>
+        </p>
+    </introduction>
+
+    <task workspace="0.5in">
+        <statement>
+            <p> Show that this equation is separable. </p>
+        </statement>
+    </task>
+
+    <task workspace="1.5in">
+        <statement>
+            <p> Solve the equation. </p>
+        </statement>
+    </task>
+
+    <task workspace="1in">
+        <statement>
+            <p> Notice that the equation can be written as <m>\dydx = (y-2)(y+2)</m>. Use this representation to find all trivial solutions. Does your answer to part (b) support this claim? </p>
+        </statement>
+    </task>
+  </exercise>
+
+  <exercise xml:id="act2-2">
+    <introduction>
+        <p>
+            Recall that linear equations can be written in the form <m>M(x,y) dx + N(x,y) dy = 0</m>. We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor <md>
+                \mu(x) = e^{\int \frac{M_y - N_x}{N} \, dx}
+            </md> or <md>
+                \mu(y) = e^{\int \frac{N_x - M_y}{M} \, dx}.
+            </md> Consider the equation <md number="yes" xml:id="act2-nonexact">
+                xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.
+            </md>
+            
+        </p>
+    </introduction> 
+
+    <task workspace="0.5in">
+        <statement>
+            <p> Show that <xref ref="act2-nonexact"/> is not exact. </p>
+        </statement>
+    </task> 
+
+    <task workspace="1in">
+        <statement>
+            <p> Compute <m> \mu(y) </m> as defined above. </p>
+        </statement>
+    </task> 
+
+    <task workspace="1in">
+        <statement>
+            <p> Multiply both sides of equation <xref ref="act2-nonexact"/> by <m>\mu(y)</m>. Show that the equation is now exact! </p>
+        </statement>
+    </task> 
+
+    <task workspace="1.5in">
+        <statement>
+            <p> What problems do you run into using <m>\mu(x)</m> instead of <m>\mu(y)</m>?  </p>
+        </statement>
+    </task> 
+  </exercise>
+
+  <exercise xml:id="act2-3">
+    <introduction>
+        <p>
+            Any differential equation of the form <md number="yes" xml:id="act2-bernoulli">
+                \dydx + P(x)y = Q(x) y^n
+            </md> where <m>n</m> is called a <alert>Bernoulli equation</alert>. 
+        </p>
+    </introduction>
+
+    <task>
+        <statement>
+            <p>
+               Show that, when <m>n=0</m>, the Bernoulli equation is linear.  
+            </p>
+        </statement>
+    </task>
+
+    <task>
+        <statement>
+            <p>
+                Show that, when <m>n=1</m>, the Bernoulli equation is linear. 
+            </p>
+        </statement>
+    </task>
+
+    <task>
+        <statement>
+            <p>
+                Show that, when <m>n\neq 0</m> and <m>n \neq 1</m>, the Bernoulli equation is homogeneous.
+            </p>
+        </statement>
+    </task>
+
+    <task>
+        <statement>
+            <p>
+                 Suppose <m>n\neq 0</m> and <m>n \neq 1</m>. Use the substitution <m>u = y^{n-1}</m> to <alert>reduce</alert> the Bernoulli equation to be linear. 
+            </p>
+        </statement>
+    </task>
+  </exercise>
+
+  <exercise xml:id="act2-4">
+    <statement>
+        <p>
+            Use the process outlined in question <xref ref="act2-4"/> to find a general solution to <md>
+                x \dydx + y = \frac{1}{y^2}.
+            </md>
+        </p>
+    </statement>
+  </exercise>
+
+</worksheet>
