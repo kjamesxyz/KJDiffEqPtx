@@ -30,6 +30,7 @@
       </introduction>
       
       <xi:include href="./maps/U26_262_map_1.ptx" />
+      <xi:include href="./maps/U26_262_map_2.ptx" />
     </chapter>
 
     <chapter xml:id="lecs">
@@ -53,6 +54,7 @@
       </introduction>
 
       <xi:include href="./prepwork/U26_262_prep_1.ptx"/>
+      <xi:include href="./prepwork/U26_262_prep_2.ptx"/>
     </chapter>
 
 
