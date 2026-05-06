@@ -42,6 +42,7 @@
       </introduction>
       
       <xi:include href="./lectures/U26_262_lecture_1.ptx" />
+      <xi:include href="./lectures/U26_262_lecture_2.ptx" />
     </chapter>
 
     <chapter xml:id="preps">

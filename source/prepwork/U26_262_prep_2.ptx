@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="prep2">
+  <title>Prep Work 2</title>
+    <introduction>
+      <p>
+          To receive full credit, please complete this prep work entry by the beginning of class <alert>July 6th</alert>. 
+      </p>
+    </introduction>
+
+    <subsection>
+        <title>Prompts</title>
+        <p>
+            Create a heading in your prep work journal for chapter 2. Then, use the lecture videos to fill in the blanks below. Record each item in your prep work journal. 
+            <ol>
+                <li><p> A first-order differential equation is <alert>separable</alert> when it can be written in the form <m>\dydx = </m><fillin characters="10"/> </p></li>
+                <li><p> A first-order linear differential equation is in <alert>standard form</alert> when it is written <fillin characters="10"/>  </p></li>
+                <li><p> The formula for the integrating factor for first-order linear equations is <m>\mu = </m><fillin characters="10"/>. </p></li>
+                <li><p> The equation <m>M(x,y)dx + N(x,y)dy = 0</m> is <alert>exact</alert> when <fillin characters="10"/>. </p></li>
+                <li><p> The function <m>f(x,y)</m> is <alert>homogeneous</alert> when <fillin characters="10"/>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+</section>

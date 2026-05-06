@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="map2">
+    <title>Module 2 Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>July 6</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            In chapter 1, we learned about differential equations for the first time. We saw some vocabulary and examples of when they become relevant to solving real-world problems. Though we have only just scratched the surface, we have already seen that discussing and solving differential equations require much finer attention to detail. Unfortunately, there is no one-size-fits-all method for solving differential equations. In practice, we identify classes of equations that share a convenient property that we can exploit. In this chapter, we will see this process in action for the first time and solve some of the simpler classes of differential equations. 
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Classify differential equations as separable, exact, or homogeneous. </p></li>
+                <li><p> Find general solutions to separable first-order equations. </p></li>
+                <li><p> Use substitution to reduce homogeneous equations to separable equations. </p></li>
+                <li><p> Find general solutions to exact first-order equations. </p></li>
+                <li><p> Find general solutions to linear first-order equations through variation of parameters. </p></li>
+                <li><p> Find general solutions to linear first-order equations through integrating factors. </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>9</alert> videos (total runtime). </p></li>
+                <li><p> Complete <alert>9</alert> checkpoints. </p></li>
+                <li><p> Add <alert>5</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all assigned problems in <alert>Homework 2</alert> </p></li>
+                <li><p> Finish any remaining work on <alert>Activity 1</alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+</section>
