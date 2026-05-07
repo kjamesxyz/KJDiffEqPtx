@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="lecx">
-    <title>Chapter X</title>
+    <title>How to Use Learning Loops</title>
 
     <introduction>
         <p>
-            This page will serve as a viewing guide for the lecture videos on Chapter 1.
+            This is an example of what a learning loop looks like for a chapter. 
         </p>
     </introduction>
 
     <subsection>
-        <title>1.1 - What are Differntial Equations?</title>
+        <title>
+            Example Learning Loop
+        </title>
+        
         <p>
-            <alert>Instructions:</alert> To complete module 1 objective 1, please accomplish the following tasks.
+            Learning loops are essentially viewing guides for online content. For each class day, you will typically need to repeat the below steps for each section we will cover.
             <ol>
-                <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 1.1</url>. </p></li>
-                <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344568">✅Checkpoint 1.1.1</url>. </p></li> 
-                <li><p> Try the list of 1.1 exercises from the <url href="https://canvas.svsu.edu/courses/93320/modules/items/3489211">📝Homework 1 Practice Problems </url>. </p></li>
+                <li><p> What a <url href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">🎥 Lecture Video</url> like this one. </p></li>
+                <li><p> Complete a <url href="https://canvas.svsu.edu/courses/93320/quizzes/347014">✅ Checkpoint</url> like this one. </p></li>
+                <li><p> You may need to repeat steps 1 and 2. </p></li>
+                <li><p> Try some of the practice problems from <url href="https://canvas.svsu.edu/courses/93320/modules/items/3489211">📝Homework Practice Problems </url>. </p></li>
             </ol>
         </p>
     </subsection>

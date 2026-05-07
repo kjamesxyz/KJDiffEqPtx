@@ -28,21 +28,10 @@
           Here you can find the roadmaps to each module for the semester.
         </p>
       </introduction>
-      
+
+      <xi:include href="./maps/map-template.ptx" />      
       <xi:include href="./maps/U26_262_map_1.ptx" />
       <xi:include href="./maps/U26_262_map_2.ptx" />
-    </chapter>
-
-    <chapter xml:id="lecs">
-      <title>Lectures</title>
-      <introduction>
-        <p>
-          Here you can find the viewing guides for lecture videos.
-        </p>
-      </introduction>
-      
-      <xi:include href="./lectures/U26_262_lecture_1.ptx" />
-      <xi:include href="./lectures/U26_262_lecture_2.ptx" />
     </chapter>
 
     <chapter xml:id="preps">
@@ -54,10 +43,37 @@
         </p>
       </introduction>
 
+      <xi:include href="./prepwork/prep-template.ptx"/>
       <xi:include href="./prepwork/U26_262_prep_1.ptx"/>
       <xi:include href="./prepwork/U26_262_prep_2.ptx"/>
     </chapter>
 
+    <chapter xml:id="lecs">
+      <title>Lectures</title>
+      <introduction>
+        <p>
+          Here you can find the viewing guides for lecture videos.
+        </p>
+      </introduction>
+      
+      <xi:include href="./lectures/lecture-template.ptx" />
+      <xi:include href="./lectures/U26_262_lecture_1.ptx" />
+      <xi:include href="./lectures/U26_262_lecture_2.ptx" />
+    </chapter>
+
+
+    <chapter xml:id="homework">
+      <title>Homework</title>
+      <introduction>
+        <p>
+          These are copies of the homework assignments distributed during the semester.
+        </p>
+      </introduction>
+
+      <xi:include href="./homework/homework-template.ptx" />
+      <xi:include href="./homework/U26_262_homework_1.ptx" />
+      <xi:include href="./homework/U26_262_homework_2.ptx" />
+    </chapter>
 
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
@@ -68,24 +84,12 @@
         </p>
       </introduction>
 
-      <!-- Remove the example and replace with your own activities -->
+      <xi:include href="./activities/activity-template.ptx"/>
       <xi:include href="./activities/U26_262_activity_1v2.ptx"/>
       <xi:include href="./activities/U26_262_activity_2.ptx"/>
 
-      <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
 
-    <chapter xml:id="homework">
-      <title>Homework</title>
-      <introduction>
-        <p>
-          These are copies of the homework assignments distributed during the semester.
-        </p>
-      </introduction>
-
-      <xi:include href="./homework/U26_262_homework_1.ptx" />
-      <xi:include href="./homework/U26_262_homework_2.ptx" />
-    </chapter>
 
     <!-- Include additional chapters for other categories -->
 

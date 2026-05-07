@@ -2,12 +2,15 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet>
-  <title>Activity Title</title>
+  <title>Activity Example</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      This is the introduction to the activity.
+      This is an example of an activity. It will have the <alert>due date</alert> at the top of the assignment. Note that these assignments have the same printing options as your homework. 
+    </p>
+    <p>
+      We will spend the latter half of each class day working on activities and they will be due the following class period. These worksheets will let you test the skills and knowledge you obtained from the learning loop on some fun, interesting, and challenging problems. 
     </p>
   </introduction>
 
@@ -15,7 +18,11 @@
   <exercise workspace="2in">
     <statement>
       <p>
-        This is the first exercise.
+        Activity problems will often be more challenging than exam questions. The purpose of the activities is two-fold: 
+        <ol> 
+          <li><p> To give you a list of "benchmark" problems. If you can solve and understand these problems, you are in a good spot for the exams! </p></li> 
+          <li><p> To show you cool and fun ways you may use the material from our class in your future courses and careers! After all, one of the most scientific questions one can ask is: "Why should I care about this?" </p></li> 
+        </ol>
       </p>
     </statement>
   </exercise>

@@ -5,39 +5,49 @@
     
     <introduction>
         <p>
-            All of the content in this module should be completed before <alert>class date</alert>.
+            This page is an example of a course roadmap. It will start by showing you the <alert>class date</alert> you should complete its content by.
         </p>
     </introduction>
 
     <subsection>
         <title>The Big Picture</title>
         <p>
-            TL;DR
+            You can think about these roadmaps as "checklists" to make sure you're doing everything you need to do online before coming to class. We have 14 face-to-face meetings over the semester, and 4 of those will be spent reviwing and taking exams. Since we have 9 chapters of content to cover, we will cover roughly one chapter of content per class period. 
+        </p> 
+        <p> 
+            This pacing will feel fast (as is the nature of summer courses), especially in preparing for Wednesday classes where you will have 1.5 days to prepare instead of 4.5 days to prepare. To cover this gap, I will try to lopside the content toward covering more ground on the Wednesday-to-Monday section. 
+        </p>
+    </subsection>
+
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            This is where your to-do list will appear! Most class days, you will need to...
+            <ol>
+                <li><p> Watch <alert>some</alert> videos (total runtime). </p></li>
+                <li><p> Complete <alert>some</alert> checkpoints. </p></li>
+                <li><p> Add <alert>some</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all assigned problems in the <alert>Homework</alert> assignment. </p></li>
+                <li><p> Finish any remaining work from the previous day's <alert>Activity</alert>. </p></li>
+            </ol>
         </p>
     </subsection>
 
     <subsection>
         <title>Module Objectives</title>
         <p>
-            After completing all work in this module, students will be able to...
+            This section will show you the skills and takeaways you should focus on for this material. In this module, students will...
             <ol>
-                <li><p> Do some math </p></li>
+                <li><p> Use roadmaps to guide their online learning. </p></li>
+                <li><p> Understand how to complete prep work assignments. </p></li>
+                <li><p> Use learning loops to engage with online content. </p></li>
+                <li><p> Access and complete checkpoints. </p></li>
+                <li><p> Understand homework assignment expectations. </p></li>
+                <li><p> Understand activity expectations. </p></li>
             </ol>
         </p>
     </subsection>
 
-    <subsection> 
-        <title>To Do List</title>
-        <p>
-            In this module, you will...
-            <ol>
-                <li><p> Watch <alert>#</alert> videos (total runtime). </p></li>
-                <li><p> Complete <alert>#</alert> checkpoints. </p></li>
-                <li><p> Add <alert>#</alert> items to your prep work book. </p></li>
-                <li><p> Write solutions to all assigned problems in <alert>Homework X</alert> </p></li>
-                <li><p> Finish any remaining work on <alert>Activity X</alert>. </p></li>
-            </ol>
-        </p>
-    </subsection>
         
 </section>
