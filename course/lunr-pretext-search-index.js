@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Homework 1",
-  "body": " Homework 1    Due Date: This assignment is due at the beginning of class on Wednesday, July 1.    Practice Problems  It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.   Exercises 1.1 [pg.10] #1-4, 11-12, 21-22, and 25.    Exercises 1.2 [pg.17] #1-2, 7-8, 11-12, 29, and 35-38.    Exercises 1.3 [pg.27] #1-2, 5, 7, 9-10, 13, 15.       Assigned Problems    Instructions: Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.      Provide an example of a second-order, linear differential equation. Justify your answer.      Find an interval on which the function is a solution to the differential equation         A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.      Solve the initial value problem you created in the above problem.       "
+  "body": " Homework 1    Due Date: This assignment is due at the beginning of class on Wednesday, July 1.    Practice Problems  It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.   Exercises 1.1 [pg.10] #1-4, 11-12, 21-22, and 25.    Exercises 1.2 [pg.17] #1-2, 7-8, 11-12, 29, and 35-38.    Exercises 1.3 [pg.27] #1-2, 5, 7, 9-10, 13, 15.       Assigned Problems    Instructions: Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.      Provide an example of a second-order, linear differential equation. Justify your answer.      Verify that the function is a solution to the differential equation and find its        A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min. The concentration of salt in the mixture is measured over time.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.       "
 },
 {
   "id": "hw1-assigned-3-1",
@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Find an interval on which the function is a solution to the differential equation    "
+  "body": "  Verify that the function is a solution to the differential equation and find its   "
 },
 {
   "id": "hw1-assigned-4-1",
@@ -160,7 +160,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.      Solve the initial value problem you created in the above problem.    "
+  "body": "  A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min. The concentration of salt in the mixture is measured over time.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.    "
 },
 {
   "id": "hw2",
@@ -205,43 +205,43 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Activity 1",
-  "body": " Activity 1   This is the introduction to the activity.       Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                           Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.         Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).          Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?         Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.      "
+  "body": " Activity 1   This is the introduction to the activity.     Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                           Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.       Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).        Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Assume the tank is cylindrical with radius . Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?       Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.     "
 },
 {
-  "id": "activities-4-3-1",
+  "id": "activities-4-3",
   "level": "2",
-  "url": "activities-4.html#activities-4-3-1",
+  "url": "activities-4.html#activities-4-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                        "
 },
 {
-  "id": "activities-4-3-2",
+  "id": "activities-4-4",
   "level": "2",
-  "url": "activities-4.html#activities-4-3-2",
+  "url": "activities-4.html#activities-4-4",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.    "
 },
 {
-  "id": "activities-4-4-1",
+  "id": "activities-4-5",
   "level": "2",
-  "url": "activities-4.html#activities-4-4-1",
+  "url": "activities-4.html#activities-4-5",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
   "body": "  Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).    "
 },
 {
-  "id": "activities-4-5-1",
+  "id": "activities-4-6",
   "level": "2",
-  "url": "activities-4.html#activities-4-5-1",
+  "url": "activities-4.html#activities-4-6",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "   Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?    "
+  "body": "   Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Assume the tank is cylindrical with radius . Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?    "
 },
 {
   "id": "act1-p5",
@@ -259,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "Activity 2",
-  "body": " Activity 2    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Show that, when and , the Bernoulli equation is homogeneous.      Suppose and . Use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
+  "body": " Activity 2    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Suppose and . First, divide both sides of by . Then use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
 },
 {
   "id": "act2-1",
@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Show that, when and , the Bernoulli equation is homogeneous.      Suppose and . Use the substitution to reduce the Bernoulli equation to be linear.    "
+  "body": "  Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Suppose and . First, divide both sides of by . Then use the substitution to reduce the Bernoulli equation to be linear.    "
 },
 {
   "id": "act2-4",

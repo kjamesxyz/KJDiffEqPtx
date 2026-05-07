@@ -305,7 +305,7 @@ eBookConfig.enable_chatcodes =  false;
 </div></section>
 <article class="exercise exercise-like" id="act2-1"><h3 class="heading"><span class="codenumber">1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
 <div class="introduction" id="act2-1-1">
-<div class="para" id="act2-1-1-1">Consider the differential equation <span class="process-math">\(\dydx = y^2 - 4.\)</span><div class="autopermalink" data-description="Paragraph"><a href="#act2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="act2-1-1-1">Consider the differential equation <span class="process-math">\(\dydx + 4 = y^2.\)</span><div class="autopermalink" data-description="Paragraph"><a href="#act2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 </div>
 <article class="task exercise-like" id="act2-1-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
@@ -345,14 +345,14 @@ eBookConfig.enable_chatcodes =  false;
 <div class="para">Consider the equation</div>
 <div class="displaymath process-math" id="act2-nonexact">
 \begin{equation}
-xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.\tag{2}
+xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.\tag{3}
 \end{equation}
 </div>
 <div class="autopermalink" data-description="Paragraph"><a href="#act2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 </div>
 <article class="task exercise-like" id="act2-2-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
-<div class="para" id="act2-2-2-1-1">Show that <a href="activities-5.html#act2-nonexact" class="xref" data-knowl="./knowl/xref/act2-nonexact.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 2">(2)</a> is not exact.<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="act2-2-2-1-1">Show that <a href="activities-5.html#act2-nonexact" class="xref" data-knowl="./knowl/xref/act2-nonexact.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 3">(3)</a> is not exact.<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="0.5in"></div>
 <div class="autopermalink" data-description="Task 2.a"><a href="#act2-2-2" title="Copy heading and permalink for Task 2.a" aria-label="Copy heading and permalink for Task 2.a">🔗</a></div>
@@ -364,7 +364,7 @@ xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.\tag{2}
 <div class="autopermalink" data-description="Task 2.b"><a href="#act2-2-3" title="Copy heading and permalink for Task 2.b" aria-label="Copy heading and permalink for Task 2.b">🔗</a></div>
 </article>
 <article class="task exercise-like" id="act2-2-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
-<div class="para" id="act2-2-4-1-1">Multiply both sides of equation <a href="activities-5.html#act2-nonexact" class="xref" data-knowl="./knowl/xref/act2-nonexact.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 2">(2)</a> by <span class="process-math">\(\mu(y)\text{.}\)</span> Show that the equation is now exact!<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="act2-2-4-1-1">Multiply both sides of equation <a href="activities-5.html#act2-nonexact" class="xref" data-knowl="./knowl/xref/act2-nonexact.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 3">(3)</a> by <span class="process-math">\(\mu(y)\text{.}\)</span> Show that the equation is now exact!<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
 <div class="autopermalink" data-description="Task 2.c"><a href="#act2-2-4" title="Copy heading and permalink for Task 2.c" aria-label="Copy heading and permalink for Task 2.c">🔗</a></div>
@@ -382,7 +382,7 @@ xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.\tag{2}
 <div class="para">Any differential equation of the form</div>
 <div class="displaymath process-math" id="act2-bernoulli">
 \begin{equation}
-\dydx + P(x)y = Q(x) y^n\tag{3}
+\dydx + P(x)y = Q(x) y^n\tag{4}
 \end{equation}
 </div>
 <div class="para">where <span class="process-math">\(n\)</span> is called a <em class="alert">Bernoulli equation</em>.</div>
@@ -392,22 +392,20 @@ xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.\tag{2}
 <article class="task exercise-like" id="act2-3-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
 <div class="para" id="act2-3-2-1-1">Show that, when <span class="process-math">\(n=0\text{,}\)</span> the Bernoulli equation is linear.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
+<div class="workspace" data-space="0.5in"></div>
 <div class="autopermalink" data-description="Task 3.a"><a href="#act2-3-2" title="Copy heading and permalink for Task 3.a" aria-label="Copy heading and permalink for Task 3.a">🔗</a></div>
 </article>
 <article class="task exercise-like" id="act2-3-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
 <div class="para" id="act2-3-3-1-1">Show that, when <span class="process-math">\(n=1\text{,}\)</span> the Bernoulli equation is linear.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
+<div class="workspace" data-space="0.5in"></div>
 <div class="autopermalink" data-description="Task 3.b"><a href="#act2-3-3" title="Copy heading and permalink for Task 3.b" aria-label="Copy heading and permalink for Task 3.b">🔗</a></div>
 </article>
 <article class="task exercise-like" id="act2-3-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
-<div class="para" id="act2-3-4-1-1">Show that, when <span class="process-math">\(n\neq 0\)</span> and <span class="process-math">\(n \neq 1\text{,}\)</span> the Bernoulli equation is homogeneous.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="act2-3-4-1-1">Suppose <span class="process-math">\(n\neq 0\)</span> and <span class="process-math">\(n \neq 1\text{.}\)</span> First, divide both sides of <a href="activities-5.html#act2-bernoulli" class="xref" data-knowl="./knowl/xref/act2-bernoulli.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 4">(4)</a> by <span class="process-math">\(y^n\text{.}\)</span> Then use the substitution <span class="process-math">\(u = y^{n-1}\)</span> to <em class="alert">reduce</em> the Bernoulli equation to be linear.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
+<div class="workspace" data-space="4in"></div>
 <div class="autopermalink" data-description="Task 3.c"><a href="#act2-3-4" title="Copy heading and permalink for Task 3.c" aria-label="Copy heading and permalink for Task 3.c">🔗</a></div>
-</article>
-<article class="task exercise-like" id="act2-3-5"><h4 class="heading"><span class="codenumber">(d)</span></h4>
-<div class="para" id="act2-3-5-1-1">Suppose <span class="process-math">\(n\neq 0\)</span> and <span class="process-math">\(n \neq 1\text{.}\)</span> Use the substitution <span class="process-math">\(u = y^{n-1}\)</span> to <em class="alert">reduce</em> the Bernoulli equation to be linear.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-5-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Task 3.d"><a href="#act2-3-5" title="Copy heading and permalink for Task 3.d" aria-label="Copy heading and permalink for Task 3.d">🔗</a></div>
 </article><div class="autopermalink" data-description="Worksheet Exercise 3"><a href="#act2-3" title="Copy heading and permalink for Worksheet Exercise 3" aria-label="Copy heading and permalink for Worksheet Exercise 3">🔗</a></div>
 </article>
 <article class="exercise exercise-like" id="act2-4"><h3 class="heading"><span class="codenumber">4<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
@@ -420,6 +418,7 @@ x \dydx + y = \frac{1}{y^2}.
 </div>
 <div class="autopermalink" data-description="Paragraph"><a href="#act2-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
+<div class="workspace" data-space="2in"></div>
 <div class="autopermalink" data-description="Worksheet Exercise 4"><a href="#act2-4" title="Copy heading and permalink for Worksheet Exercise 4" aria-label="Copy heading and permalink for Worksheet Exercise 4">🔗</a></div>
 </article><div class="autopermalink" data-description="Worksheet: Activity 2"><a href="#activities-5" title="Copy heading and permalink for Worksheet: Activity 2" aria-label="Copy heading and permalink for Worksheet: Activity 2">🔗</a></div>
 </section>
