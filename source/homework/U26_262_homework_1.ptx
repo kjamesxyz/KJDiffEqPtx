@@ -51,7 +51,7 @@
             <exercise workspace="2in">
                 <statement>
                     <p>
-                        Find an interval <m> I </m> on which the function <m>\sin(\ln(x))</m> is a solution to the differential equation <md> x^2 y''(x) + xy'(x) + y = 0. </md>
+                        Verify that the function <m>y = \sin(\ln(x))</m> is a solution to the differential equation <md> x^2 y''(x) + xy'(x) + y = 0 </md> and find its
                     </p>
                 </statement>
             </exercise>
@@ -60,7 +60,7 @@
             <exercise>
                 <introduction>
                     <p>
-                        A tank is holding 1000L of pure water. A brine solution (0.1 kg/L) is poured into the tank at a constant rate of 6L/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L/min.
+                        A tank is holding 1000L of pure water. A brine solution (0.1 kg/L) is poured into the tank at a constant rate of 6L/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L/min. The concentration of salt in the mixture is measured over time. 
                     </p>
                 </introduction>
 
@@ -80,18 +80,10 @@
                     </statement>
                 </task>
 
-                <task workspace="0.5in">
+                <task workspace="1in">
                     <statement>
                         <p>
                             Write an initial value problem that models the amount of salt in the tank over time. 
-                        </p>
-                    </statement>
-                </task>
-
-                <task workspace="2in">
-                    <statement>
-                        <p>
-                            Solve the initial value problem you created in the above problem. 
                         </p>
                     </statement>
                 </task>

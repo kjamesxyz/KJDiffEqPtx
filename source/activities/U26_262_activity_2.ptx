@@ -12,7 +12,7 @@
   <exercise xml:id="act2-1">
     <introduction>
         <p>
-            Consider the differential equation <m>\dydx = y^2 - 4.</m>
+            Consider the differential equation <m>\dydx + 4 = y^2.</m>
         </p>
     </introduction>
 
@@ -83,7 +83,7 @@
         </p>
     </introduction>
 
-    <task>
+    <task workspace="0.5in">
         <statement>
             <p>
                Show that, when <m>n=0</m>, the Bernoulli equation is linear.  
@@ -91,7 +91,7 @@
         </statement>
     </task>
 
-    <task>
+    <task workspace="0.5in">
         <statement>
             <p>
                 Show that, when <m>n=1</m>, the Bernoulli equation is linear. 
@@ -99,24 +99,16 @@
         </statement>
     </task>
 
-    <task>
+    <task workspace="4in">
         <statement>
             <p>
-                Show that, when <m>n\neq 0</m> and <m>n \neq 1</m>, the Bernoulli equation is homogeneous.
-            </p>
-        </statement>
-    </task>
-
-    <task>
-        <statement>
-            <p>
-                 Suppose <m>n\neq 0</m> and <m>n \neq 1</m>. Use the substitution <m>u = y^{n-1}</m> to <alert>reduce</alert> the Bernoulli equation to be linear. 
+                 Suppose <m>n\neq 0</m> and <m>n \neq 1</m>. First, divide both sides of <xref ref="act2-bernoulli"/> by <m>y^n</m>. Then use the substitution <m>u = y^{n-1}</m> to <alert>reduce</alert> the Bernoulli equation to be linear. 
             </p>
         </statement>
     </task>
   </exercise>
 
-  <exercise xml:id="act2-4">
+  <exercise workspace="2in" xml:id="act2-4">
     <statement>
         <p>
             Use the process outlined in question <xref ref="act2-4"/> to find a general solution to <md>

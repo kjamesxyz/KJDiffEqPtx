@@ -62,7 +62,7 @@
             <task>
                 <statement>
                     <p>
-                        <m>t \dot{\omega} = \omega e^{t/\omega} - t </m>
+                        <m>t \dot{x} - (1+t)x = tx^2 </m>
                     </p>
                 </statement>
             </task>
