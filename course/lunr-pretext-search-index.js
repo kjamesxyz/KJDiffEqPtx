@@ -28,6 +28,15 @@ var ptx_lunr_docs = [
   "body": " Letter Grade Distribution    Letter Grade  Required Score    A  93-100%    A-  85-92%    B+  81-84%    B  77-80%    B-  73-76%    C+  69-72%    C  61-68%    D  50-60%    F  0-49%    "
 },
 {
+  "id": "mapx",
+  "level": "1",
+  "url": "mapx.html",
+  "type": "Section",
+  "number": "",
+  "title": "Module X Map",
+  "body": " Module X Map   This page is an example of a course roadmap. It will start by showing you the class date you should complete its content by.    The Big Picture  You can think about these roadmaps as \"checklists\" to make sure you're doing everything you need to do online before coming to class. We have 14 face-to-face meetings over the semester, and 4 of those will be spent reviwing and taking exams. Since we have 9 chapters of content to cover, we will cover roughly one chapter of content per class period.  This pacing will feel fast (as is the nature of summer courses), especially in preparing for Wednesday classes where you will have 1.5 days to prepare instead of 4.5 days to prepare. To cover this gap, I will try to lopside the content toward covering more ground on the Wednesday-to-Monday section.    To Do List  This is where your to-do list will appear! Most class days, you will need to...  Watch some videos (total runtime).  Complete some checkpoints.  Add some items to your prep work book.  Write solutions to all assigned problems in the Homework assignment.  Finish any remaining work from the previous day's Activity .      Module Objectives  This section will show you the skills and takeaways you should focus on for this material. In this module, students will...  Use roadmaps to guide their online learning.  Understand how to complete prep work assignments.  Use learning loops to engage with online content.  Access and complete checkpoints.  Understand homework assignment expectations.  Understand activity expectations.     "
+},
+{
   "id": "map1",
   "level": "1",
   "url": "map1.html",
@@ -46,22 +55,13 @@ var ptx_lunr_docs = [
   "body": " Module 2 Map   All of the content in this module should be completed before July 6 .    The Big Picture  In chapter 1, we learned about differential equations for the first time. We saw some vocabulary and examples of when they become relevant to solving real-world problems. Though we have only just scratched the surface, we have already seen that discussing and solving differential equations require much finer attention to detail. Unfortunately, there is no one-size-fits-all method for solving differential equations. In practice, we identify classes of equations that share a convenient property that we can exploit. In this chapter, we will see this process in action for the first time and solve some of the simpler classes of differential equations.    Module Objectives  After completing all work in this module, students will be able to...  Classify differential equations as separable, exact, or homogeneous.  Find general solutions to separable first-order equations.  Use substitution to reduce homogeneous equations to separable equations.  Find general solutions to exact first-order equations.  Find general solutions to linear first-order equations through variation of parameters.  Find general solutions to linear first-order equations through integrating factors.      To Do List  In this module, you will...  Watch 9 videos (total runtime).  Complete 9 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 2   Finish any remaining work on Activity 1 .     "
 },
 {
-  "id": "lec1",
+  "id": "prepx",
   "level": "1",
-  "url": "lec1.html",
+  "url": "prepx.html",
   "type": "Section",
   "number": "",
-  "title": "Chapter 1",
-  "body": " Chapter 1   This page will serve as a viewing guide for the lecture videos on Chapter 1.    1.1 - What are Differntial Equations?   Module 1 Objective 1: Students can distinguish between ordinary and partial differential equations.  Watch 🎥Video 1.1.1 .  Complete the ✅Checkpoint 1.1.1 .     Module 1 Objective 2: Students can determine the order of differential equations.  Watch 🎥Video 1.1.2 .  Complete the ✅Checkpoint 1.1.2 .     Module 1 Objective 3: Students can distinguish between linear and nonlinear ordinary differential equations.  Watch 🎥Video 1.1.3 .  Complete the ✅Checkpoint 1.1.3 .  Try the list of 1.1 exercises from the 📝Homework 1 Practice Problems .      1.2 - What are Solutions to Differntial Equations?   Module 1 Objective 4: Students can verify solutions to differential equations and find their intervals of existence.  Watch 🎥Video 1.2.1 .  Complete the ✅Checkpoint 1.2.1   Watch 🎥Video 1.2.2 .  Complete the ✅Checkpoint 1.2.2   Try the list of 1.2 exercises from the 📝Homework 1 Practice Problems .      1.3 - Is there a Guarantee we can do This?   Module 1 Objective 5: Students can model verify solutions to IVPs and find their intervals of existence.  Watch 🎥Video 1.3.1 .  Complete the ✅Checkpoint 1.3.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .      1.4 - Why Should I Care About Differential Equations?   Module 1 Objective 5: Students can model simple real-world phenomena with first-order initial value problems.  Watch 🎥Video 1.4.1 .  Complete the ✅Checkpoint 1.4.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .     "
-},
-{
-  "id": "lec2",
-  "level": "1",
-  "url": "lec2.html",
-  "type": "Section",
-  "number": "",
-  "title": "Chapter 2",
-  "body": " Chapter 2   This page will serve as a viewing guide for the lecture videos on Chapter 2.    2.1 - Separable Equations  This section covers content regarding Module 2 Objectives 1 & 2  Watch 🎥Video 2.1.1 .  Complete the ✅Checkpoint 2.1.1 .  Watch 🎥Video 2.1.2 .  Complete the ✅Checkpoint 2.1.2 .  Try all exercises listed in bank 1 from 📝Homework 2 Practice Problems .      2.2 - Exact Equations  This section covers content regarding Module 2 Objectives 1 & 4  Watch 🎥Video 2.2.1 .  Complete the ✅Checkpoint 2.2.1 .  Watch 🎥Video 2.2.2 .  Complete the ✅Checkpoint 2.2.2 .  Try all exercises listed in bank 3 from 📝Homework 2 Practice Problems .      2.3 - Homogeneous Equations  This section covers content regarding Module 2 Objectives 1 & 3  Watch 🎥Video 2.3.1 .  Watch 🎥Video 2.3.2 .  Complete the ✅Checkpoint 2.3.1 .  Try all exercises listed in bank 4 from 📝Homework 2 Practice Problems .      2.4 - Linear Equations  This section covers content regarding Module 2 Objectives 5 & 6  Watch 🎥Video 2.4.1 .  Watch 🎥Video 2.4.2 .  Complete the ✅Checkpoint 2.4.1 .  Watch 🎥Video 2.4.3 .  Complete the ✅Checkpoint 2.4.2 .  Watch 🎥Video 2.4.4 .  Try all exercises listed in bank 2 from 📝Homework 2 Practice Problems .     "
+  "title": "How to Complete Prep Work Assignments",
+  "body": " How to Complete Prep Work Assignments   This is an example of a prep work assignment. It will show the due date here.    Prompts  Your prep work journal will essentially serve as a cheat-sheet for exams. I will provide a list of prompts on each prep work assignment. Typically, these will be definition or theorems. They may also be phrased as fill-in-the-blank questions. Each prompt can be answered using the content in the lecture videos or the course textbook.   WARNING: You may only write information designated in these assignments into your prep work book. On the class day before exams, I will collect your prep work book from you and scan through it to ensure only these items appear in your prep work. Assuming you have followed these directions, I will hand your prep work book back to you for the exam! If there is inelligble material in the book, I will hold it during the exam and point out the content that needs to be removed before the next exam.   "
 },
 {
   "id": "prep1",
@@ -82,103 +82,49 @@ var ptx_lunr_docs = [
   "body": " Prep Work 2   To receive full credit, please complete this prep work entry by the beginning of class July 6th .    Prompts  Create a heading in your prep work journal for chapter 2. Then, use the lecture videos to fill in the blanks below. Record each item in your prep work journal.  A first-order differential equation is separable when it can be written in the form   A first-order linear differential equation is in standard form when it is written   The formula for the integrating factor for first-order linear equations is .  The equation is exact when .  The function is homogeneous when .     "
 },
 {
-  "id": "activities-3",
+  "id": "lecx",
   "level": "1",
-  "url": "activities-3.html",
-  "type": "Worksheet",
+  "url": "lecx.html",
+  "type": "Section",
   "number": "",
-  "title": "Activity 1",
-  "body": " Activity 1   This is the introduction to the activity.       Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                           Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.         Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).          Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?         Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.      "
+  "title": "How to Use Learning Loops",
+  "body": " How to Use Learning Loops   This is an example of what a learning loop looks like for a chapter.    Example Learning Loop  Learning loops are essentially viewing guides for online content. For each class day, you will typically need to repeat the below steps for each section we will cover.  What a 🎥 Lecture Video like this one.  Complete a ✅ Checkpoint like this one.  You may need to repeat steps 1 and 2.  Try some of the practice problems from 📝Homework Practice Problems .     "
 },
 {
-  "id": "activities-3-3-1",
+  "id": "lec1",
+  "level": "1",
+  "url": "lec1.html",
+  "type": "Section",
+  "number": "",
+  "title": "Chapter 1",
+  "body": " Chapter 1   This page will serve as a viewing guide for the lecture videos on Chapter 1.    1.1 - What are Differntial Equations?   Module 1 Objective 1: Students can distinguish between ordinary and partial differential equations.  Watch 🎥Video 1.1.1 .  Complete the ✅Checkpoint 1.1.1 .     Module 1 Objective 2: Students can determine the order of differential equations.  Watch 🎥Video 1.1.2 .  Complete the ✅Checkpoint 1.1.2 .     Module 1 Objective 3: Students can distinguish between linear and nonlinear ordinary differential equations.  Watch 🎥Video 1.1.3 .  Complete the ✅Checkpoint 1.1.3 .  Try the list of 1.1 exercises from the 📝Homework 1 Practice Problems .      1.2 - What are Solutions to Differntial Equations?   Module 1 Objective 4: Students can verify solutions to differential equations and find their intervals of existence.  Watch 🎥Video 1.2.1 .  Complete the ✅Checkpoint 1.2.1   Watch 🎥Video 1.2.2 .  Complete the ✅Checkpoint 1.2.2   Try the list of 1.2 exercises from the 📝Homework 1 Practice Problems .      1.3 - Is there a Guarantee we can do This?   Module 1 Objective 5: Students can model verify solutions to IVPs and find their intervals of existence.  Watch 🎥Video 1.3.1 .  Complete the ✅Checkpoint 1.3.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .      1.4 - Why Should I Care About Differential Equations?   Module 1 Objective 5: Students can model simple real-world phenomena with first-order initial value problems.  Watch 🎥Video 1.4.1 .  Complete the ✅Checkpoint 1.4.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .     "
+},
+{
+  "id": "lec2",
+  "level": "1",
+  "url": "lec2.html",
+  "type": "Section",
+  "number": "",
+  "title": "Chapter 2",
+  "body": " Chapter 2   This page will serve as a viewing guide for the lecture videos on Chapter 2.    2.1 - Separable Equations  This section covers content regarding Module 2 Objectives 1 & 2  Watch 🎥Video 2.1.1 .  Complete the ✅Checkpoint 2.1.1 .  Watch 🎥Video 2.1.2 .  Complete the ✅Checkpoint 2.1.2 .  Try all exercises listed in bank 1 from 📝Homework 2 Practice Problems .      2.2 - Exact Equations  This section covers content regarding Module 2 Objectives 1 & 4  Watch 🎥Video 2.2.1 .  Complete the ✅Checkpoint 2.2.1 .  Watch 🎥Video 2.2.2 .  Complete the ✅Checkpoint 2.2.2 .  Try all exercises listed in bank 3 from 📝Homework 2 Practice Problems .      2.3 - Homogeneous Equations  This section covers content regarding Module 2 Objectives 1 & 3  Watch 🎥Video 2.3.1 .  Watch 🎥Video 2.3.2 .  Complete the ✅Checkpoint 2.3.1 .  Try all exercises listed in bank 4 from 📝Homework 2 Practice Problems .      2.4 - Linear Equations  This section covers content regarding Module 2 Objectives 5 & 6  Watch 🎥Video 2.4.1 .  Watch 🎥Video 2.4.2 .  Complete the ✅Checkpoint 2.4.1 .  Watch 🎥Video 2.4.3 .  Complete the ✅Checkpoint 2.4.2 .  Watch 🎥Video 2.4.4 .  Try all exercises listed in bank 2 from 📝Homework 2 Practice Problems .     "
+},
+{
+  "id": "hwx",
+  "level": "1",
+  "url": "hwx.html",
+  "type": "Section",
+  "number": "",
+  "title": "Homework Example",
+  "body": " Homework Example   This is an example of what homework assignments will look like in our class. The due date will be listed at the top of the assignment.    Practice Problems  These problems will not be graded, do not need to be submitted, and are \"technically optional\". However, I would strongly recommend giving at least some of these problems a try when you are directed to in learning loops. These are very straight-forward example problems (the type I might do with the class in a traditional lecture setting) to help you better understand and practice the key ideas and methods from our class. They will typically be banks of problems from our textbook. Please note that our section numbers may not align with the textbook.  Exercises X.X [pg.XXX] #A-Z      Assigned Problems    Instructions: These problem WILL BE GRADED . Though it may seem like a strange order, you will need to complete your homework assignments before the class when we cover the content. Each assignment will consist of at most 5 problems.  I will bring a printed copy of the assignment to pass out in class ahead of time. If you miss a class or would just like to print your own copy, the printer icon next to the \"Assigned Problems\" label gives you some different options. You can print out a copy with space to work on the page or you can just print the questions and work all solutions on a separate sheet of paper.  Your solutions should be handwritten, and - to add one last seamingly-arbitrary rule - please use ONLY PENCIL, BLUE INK, OR BLACK INK to write them. Each day, you will get 15 minutes to chat with your classmates about the homework assignment and you may make corrections to your homework based on your conversations using colored ink. These corrections will be graded with full credit.     Here's what a problem might look like!     "
+},
+{
+  "id": "hwx-assigned-3",
   "level": "2",
-  "url": "activities-3.html#activities-3-3-1",
+  "url": "hwx.html#hwx-assigned-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                        "
-},
-{
-  "id": "activities-3-3-2",
-  "level": "2",
-  "url": "activities-3.html#activities-3-3-2",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.    "
-},
-{
-  "id": "activities-3-4-1",
-  "level": "2",
-  "url": "activities-3.html#activities-3-4-1",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).    "
-},
-{
-  "id": "activities-3-5-1",
-  "level": "2",
-  "url": "activities-3.html#activities-3-5-1",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "   Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?    "
-},
-{
-  "id": "act1-p5",
-  "level": "2",
-  "url": "activities-3.html#act1-p5",
-  "type": "Worksheet Exercise",
-  "number": "5",
-  "title": "",
-  "body": "  Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.    "
-},
-{
-  "id": "activities-4",
-  "level": "1",
-  "url": "activities-4.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Activity 2",
-  "body": " Activity 2    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Show that, when and , the Bernoulli equation is homogeneous.      Suppose and . Use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
-},
-{
-  "id": "act2-1",
-  "level": "2",
-  "url": "activities-4.html#act2-1",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?    "
-},
-{
-  "id": "act2-2",
-  "level": "2",
-  "url": "activities-4.html#act2-2",
-  "type": "Worksheet Exercise",
-  "number": "2",
-  "title": "",
-  "body": "  Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?    "
-},
-{
-  "id": "act2-3",
-  "level": "2",
-  "url": "activities-4.html#act2-3",
-  "type": "Worksheet Exercise",
-  "number": "3",
-  "title": "",
-  "body": "  Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Show that, when and , the Bernoulli equation is homogeneous.      Suppose and . Use the substitution to reduce the Bernoulli equation to be linear.    "
-},
-{
-  "id": "act2-4",
-  "level": "2",
-  "url": "activities-4.html#act2-4",
-  "type": "Worksheet Exercise",
-  "number": "4",
-  "title": "",
-  "body": "  Use the process outlined in question to find a general solution to    "
+  "body": "  Here's what a problem might look like!   "
 },
 {
   "id": "hw1",
@@ -233,6 +179,123 @@ var ptx_lunr_docs = [
   "number": "1",
   "title": "",
   "body": "  Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                               "
+},
+{
+  "id": "activities-3",
+  "level": "1",
+  "url": "activities-3.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Activity Example",
+  "body": " Activity Example    This is an example of an activity. It will have the due date at the top of the assignment. Note that these assignments have the same printing options as your homework.  We will spend the latter half of each class day working on activities and they will be due the following class period. These worksheets will let you test the skills and knowledge you obtained from the learning loop on some fun, interesting, and challenging problems.      Activity problems will often be more challenging than exam questions. The purpose of the activities is two-fold:  To give you a list of \"benchmark\" problems. If you can solve and understand these problems, you are in a good spot for the exams!  To show you cool and fun ways you may use the material from our class in your future courses and careers! After all, one of the most scientific questions one can ask is: \"Why should I care about this?\"      "
+},
+{
+  "id": "activities-3-3",
+  "level": "2",
+  "url": "activities-3.html#activities-3-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Activity problems will often be more challenging than exam questions. The purpose of the activities is two-fold:  To give you a list of \"benchmark\" problems. If you can solve and understand these problems, you are in a good spot for the exams!  To show you cool and fun ways you may use the material from our class in your future courses and careers! After all, one of the most scientific questions one can ask is: \"Why should I care about this?\"     "
+},
+{
+  "id": "activities-4",
+  "level": "1",
+  "url": "activities-4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Activity 1",
+  "body": " Activity 1   This is the introduction to the activity.       Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                           Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.         Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).          Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?         Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.      "
+},
+{
+  "id": "activities-4-3-1",
+  "level": "2",
+  "url": "activities-4.html#activities-4-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                        "
+},
+{
+  "id": "activities-4-3-2",
+  "level": "2",
+  "url": "activities-4.html#activities-4-3-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.    "
+},
+{
+  "id": "activities-4-4-1",
+  "level": "2",
+  "url": "activities-4.html#activities-4-4-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).    "
+},
+{
+  "id": "activities-4-5-1",
+  "level": "2",
+  "url": "activities-4.html#activities-4-5-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "   Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?    "
+},
+{
+  "id": "act1-p5",
+  "level": "2",
+  "url": "activities-4.html#act1-p5",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.    "
+},
+{
+  "id": "activities-5",
+  "level": "1",
+  "url": "activities-5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "Activity 2",
+  "body": " Activity 2    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Show that, when and , the Bernoulli equation is homogeneous.      Suppose and . Use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
+},
+{
+  "id": "act2-1",
+  "level": "2",
+  "url": "activities-5.html#act2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?    "
+},
+{
+  "id": "act2-2",
+  "level": "2",
+  "url": "activities-5.html#act2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?    "
+},
+{
+  "id": "act2-3",
+  "level": "2",
+  "url": "activities-5.html#act2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Show that, when and , the Bernoulli equation is homogeneous.      Suppose and . Use the substitution to reduce the Bernoulli equation to be linear.    "
+},
+{
+  "id": "act2-4",
+  "level": "2",
+  "url": "activities-5.html#act2-4",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Use the process outlined in question to find a general solution to    "
 }
 ]
 
