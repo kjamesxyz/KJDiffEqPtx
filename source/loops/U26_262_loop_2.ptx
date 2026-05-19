@@ -13,33 +13,20 @@
 
     <subsection>
         <title>2.1 - Separable Equations</title>
-        <p> This section covers content regarding Module 2 Objectives 1 &amp; 2
+        <p> In this section, students will learn to classify and solve separable equations.
             <ol>
                 <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 2.1.1</url>. </p></li>
-                <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344568">✅Checkpoint 2.1.1</url>. </p></li> 
+                <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/346938">✅Checkpoint 2.1.1</url>. </p></li> 
                 <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 2.1.2</url>. </p></li>
-                <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344568">✅Checkpoint 2.1.2</url>. </p></li> 
-                <li><p> 🎯 <alert> Practice: </alert> Problems 2-10 (evens) in Exercises 2.2 (pg. 50). </p></li> 
+                <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/346944">✅Checkpoint 2.1.2</url>. </p></li> 
+                <li><p> 🎯 <alert> Practice: </alert> Problems 2-22 (alternating evens) in Exercises 2.2 (pg. 50). </p></li> 
             </ol>
         </p>
     </subsection>
 
     <subsection>
-        <title>2.2 - Exact Equations</title>
-        <p> This section covers content regarding Module 2 Objectives 1 &amp; 4
-            <ol>
-                <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 2.2.1</url>. </p></li>
-                <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344568">✅Checkpoint 2.2.1</url>. </p></li> 
-                <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 2.2.2</url>. </p></li>
-                <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344568">✅Checkpoint 2.2.2</url>. </p></li> 
-                <li><p> 🎯 <alert> Practice: </alert> Problems 2-24 (alternating evens) in Exercises 2.3 (pg. 60-61). </p></li> 
-            </ol>
-        </p>
-    </subsection>
-
-    <subsection>
-        <title>2.3 - Linear Equations</title>
-        <p> This section covers content regarding Module 2 Objectives 5 &amp; 6
+        <title>2.2 - Linear Equations</title>
+        <p> In this section, students will learn to write linear equations and standard form and find their general solutions by using integrating factors. 
             <ol>
                 <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 2.4.1</url>. </p></li>
                 <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 2.4.2</url>. </p></li>
@@ -51,5 +38,27 @@
             </ol>
         </p>
     </subsection>
-        
+
+    <subsection>
+        <title>2.3 - Exact Equations</title>
+        <p> In this section, students will learn to classify and solve exact equations. 
+            <ol>
+                <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 2.2.1</url>. </p></li>
+                <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/348022">✅Checkpoint 2.2.1</url>. </p></li> 
+                <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 2.2.2</url>. </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 2-24 (alternating evens) in Exercises 2.3 (pg. 60-61). </p></li> 
+            </ol>
+        </p>
+    </subsection>
+    
+
+    <subsection>
+        <title>2.4 - Substitution</title>
+        <p>
+            In this section, students will learn how to simplify first-order differential equations using substitution. 
+            <ol>
+                <li><p>🎯 <alert> Practice: </alert> Problems 2-22 (alternating evens) in Exercises 2.5 (pg. 74).</p></li>
+            </ol>
+        </p>
+    </subsection>
 </section>
