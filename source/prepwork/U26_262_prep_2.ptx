@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="prep2">
-  <title>Prep Work 2</title>
+  <title>✍️ Prep Work 2</title>
     <introduction>
       <p>
           To receive full credit, please complete this prep work entry by the beginning of class <alert>July 6th</alert>. 
@@ -17,7 +17,6 @@
                 <li><p> A first-order linear differential equation is in <alert>standard form</alert> when it is written <fillin characters="10"/>  </p></li>
                 <li><p> The formula for the integrating factor for first-order linear equations is <m>\mu = </m><fillin characters="10"/>. </p></li>
                 <li><p> The equation <m>M(x,y)dx + N(x,y)dy = 0</m> is <alert>exact</alert> when <fillin characters="10"/>. </p></li>
-                <li><p> The function <m>f(x,y)</m> is <alert>homogeneous</alert> when <fillin characters="10"/>. </p></li>
             </ol>
         </p>
     </subsection>

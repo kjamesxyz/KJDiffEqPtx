@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="map2">
-    <title>Module 2 Map</title>
+    <title>🗺️ Module 2 Map</title>
     
     <introduction>
         <p>
@@ -21,12 +21,11 @@
         <p>
             After completing all work in this module, students will be able to...
             <ol>
-                <li><p> Classify differential equations as separable, exact, or homogeneous. </p></li>
+                <li><p> Classify differential equations as separable, exact, and/or homogeneous. </p></li>
                 <li><p> Find general solutions to separable first-order equations. </p></li>
-                <li><p> Use substitution to reduce homogeneous equations to separable equations. </p></li>
                 <li><p> Find general solutions to exact first-order equations. </p></li>
-                <li><p> Find general solutions to linear first-order equations through variation of parameters. </p></li>
                 <li><p> Find general solutions to linear first-order equations through integrating factors. </p></li>
+                <li><p> Use substitution to reduce differential equations to separable, exact, or linear differential equations </p></li>
             </ol>
         </p>
     </subsection>
@@ -38,7 +37,7 @@
             <ol>
                 <li><p> Watch <alert>9</alert> videos (total runtime). </p></li>
                 <li><p> Complete <alert>9</alert> checkpoints. </p></li>
-                <li><p> Add <alert>5</alert> items to your prep work book. </p></li>
+                <li><p> Add <alert>4</alert> items to your prep work book. </p></li>
                 <li><p> Write solutions to all assigned problems in <alert>Homework 2</alert> </p></li>
                 <li><p> Finish any remaining work on <alert>Activity 1</alert>. </p></li>
             </ol>
