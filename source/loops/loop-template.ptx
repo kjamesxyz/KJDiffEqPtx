@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="loop-x">
-    <title>Example Learning Loops</title>
+    <title>Learning Loop Example</title>
 
     <introduction>
         <p>
@@ -19,8 +19,8 @@
             <ol>
                 <li><p> What a <url href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">🎥 Lecture Video</url> like this one. </p></li>
                 <li><p> Complete a <url href="https://canvas.svsu.edu/courses/93320/quizzes/347014">✅ Checkpoint</url> like this one. </p></li>
-                <li><p> You may need to repeat steps 1 and 2. </p></li>
-                <li><p> Try some of the practice problems from <url href="https://canvas.svsu.edu/courses/93320/modules/items/3489211">📝Homework Practice Problems </url>. </p></li>
+                <li><p> You may be asked to complete some 🎯 <alert> Practice </alert> problems from the <url href="https://ilkomitt.wordpress.com/wp-content/uploads/2016/01/dennis-g-zill_a-first-course-in-differential-equations-9th-ed.pdf"> Course Textbook </url>. </p></li>
+                <li><p> Repeat these types of steps as needed. </p></li>
             </ol>
         </p>
     </subsection>

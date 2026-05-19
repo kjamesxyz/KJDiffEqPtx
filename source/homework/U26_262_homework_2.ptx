@@ -1,72 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="hw2">
-    <title>Homework 2</title>
+<worksheet xml:id="hw2">
+    <title>📝 Homework 2</title>
     <introduction>
         <p>
-            <alert>Due Date:</alert> This assignment is due at the beginning of class on Monday, July 6.
+            <alert>Instructions:</alert> This assignment is due <alert>Monday, July 6</alert>. Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
         </p>
     </introduction>
-
-    <subsection xml:id="hw2-practice">
-        <title>Practice Problems</title>
-            <p>
-                It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.
-                <ol>
-                    <li><p> Exercises 2.2 [pg.50] #2-10 even, 24, 28. </p></li>
-                    <li><p> Exercises 2.3 [pg.60] #2-12 even using both variation of parameters and integrating factors. </p></li>
-                    <li><p> Exercises 2.4 [pg.68] #2-10 even, 22. </p></li>
-                    <li><p> Exercises 2.5 [pg.74] #2-12 even. </p></li>
-                </ol>
-            </p>
-</subsection>
-
-    <worksheet xml:id="hw2-assigned">
-        <title>Assigned Problems</title>
+    <exercise workspace="2in">
         <introduction>
             <p>
-                <alert>Instructions:</alert> Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
+                Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.
             </p>
         </introduction>
-        <exercise workspace="2in">
-            <introduction>
+
+        <task>
+            <statement>
                 <p>
-                    Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.
+                    <m>\dydx = \frac{x-y}{x}</m>
                 </p>
-            </introduction>
+            </statement>
+        </task>
 
-            <task>
-                <statement>
-                    <p>
-                        <m>\dydx = \frac{x-y}{x}</m>
-                    </p>
-                </statement>
-            </task>
+        <task>
+            <statement>
+                <p>
+                    <m>\left(x^2 + \frac{2y}{x} \right) dx = (3 - \ln(x^2)) dy</m>
+                </p>
+            </statement>
+        </task>
 
-            <task>
-                <statement>
-                    <p>
-                        <m>\left(x^2 + \frac{2y}{x} \right) dx = (3 - \ln(x^2)) dy</m>
-                    </p>
-                </statement>
-            </task>
+        <task>
+            <statement>
+                <p>
+                    <m>\frac{y}{x^2} \dydx + e^{2x^3 + y^2} = 0</m>
+                </p>
+            </statement>
+        </task>
 
-            <task>
-                <statement>
-                    <p>
-                        <m>\frac{y}{x^2} \dydx + e^{2x^3 + y^2} = 0</m>
-                    </p>
-                </statement>
-            </task>
-
-            <task>
-                <statement>
-                    <p>
-                        <m>t \dot{x} - (1+t)x = tx^2 </m>
-                    </p>
-                </statement>
-            </task>
-        </exercise>
-    </worksheet>
-    
-</section>
+        <task>
+            <statement>
+                <p>
+                    <m>t \dot{x} - (1+t)x = tx^2 </m>
+                </p>
+            </statement>
+        </task>
+    </exercise>
+</worksheet>

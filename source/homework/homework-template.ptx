@@ -1,42 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="hwx">
-  <title>Homework Example</title>
-    <introduction>
+<worksheet xml:id="hwx-assigned">
+  <title>Homework Example </title>
+  <introduction>
+    <p>
+      <alert>Instructions:</alert> These problem <alert>WILL BE GRADED</alert>. Though it may seem like a strange order, you will need to complete your homework assignments <alert>before</alert> the class when we cover the content. Each assignment will consist of at most 5 problems. 
+    </p>
+    <p>
+      I will bring a printed copy of the assignment to pass out in class ahead of time. If you miss a class or would just like to print your own copy, the printer icon next to the "Assigned Problems" label gives you some different options. You can print out a copy with space to work on the page or you can just print the questions and work all solutions on a separate sheet of paper. 
+    </p>
+    <p>
+      Your solutions should be handwritten, and - to add one last seamingly-arbitrary rule - please use <alert>ONLY PENCIL, BLUE INK, OR BLACK INK</alert> to write them. Each day, you will get 15 minutes to chat with your classmates about the homework assignment and you may make corrections to your homework based on your conversations using colored ink. These corrections will be graded with full credit.
+    </p>
+  </introduction>
+
+  <exercise workspace="1in">
+    <statement>
       <p>
-          This is an example of what homework assignments will look like in our class. The <alert>due date</alert> will be listed at the top of the assignment. 
+        Here's what a problem might look like!
       </p>
-    </introduction>
-
-    <subsection xml:id="hwx-practice">
-      <title>Practice Problems</title>
-        <p> These problems will not be graded, do not need to be submitted, and are "technically optional". However, I would strongly recommend giving at least some of these problems a try when you are directed to in learning loops. These are very straight-forward example problems (the type I might do with the class in a traditional lecture setting) to help you better understand and practice the key ideas and methods from our class. They will typically be banks of problems from our textbook. Please note that our section numbers may not align with the textbook. 
-          <ul>
-            <li><p> Exercises X.X [pg.XXX] #A-Z </p></li>
-          </ul>
-        </p>
-    </subsection>
-
-    <worksheet xml:id="hwx-assigned">
-      <title>Assigned Problems</title>
-      <introduction>
-        <p>
-          <alert>Instructions:</alert> These problem <alert>WILL BE GRADED</alert>. Though it may seem like a strange order, you will need to complete your homework assignments <alert>before</alert> the class when we cover the content. Each assignment will consist of at most 5 problems. 
-        </p>
-        <p>
-          I will bring a printed copy of the assignment to pass out in class ahead of time. If you miss a class or would just like to print your own copy, the printer icon next to the "Assigned Problems" label gives you some different options. You can print out a copy with space to work on the page or you can just print the questions and work all solutions on a separate sheet of paper. 
-        </p>
-        <p>
-          Your solutions should be handwritten, and - to add one last seamingly-arbitrary rule - please use <alert>ONLY PENCIL, BLUE INK, OR BLACK INK</alert> to write them. Each day, you will get 15 minutes to chat with your classmates about the homework assignment and you may make corrections to your homework based on your conversations using colored ink. These corrections will be graded with full credit.
-        </p>
-      </introduction>
-
-      <exercise workspace="1in">
-        <statement>
-          <p>
-            Here's what a problem might look like!
-          </p>
-        </statement>
-      </exercise>
-    </worksheet>
-</section>
+    </statement>
+  </exercise>
+</worksheet>
