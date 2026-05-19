@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Module 1 Map",
-  "body": " Module 1 Map   All of the content in this module should be completed before July 1st .    The Big Picture  If we’re going to spend an entire semester talking about differential equations, we should probably start with what differential equations are to begin with. In this module, we will define differential equations and establish some vocabulary to help us describe and classify them. We will also see some real-world problems that can be modeled with differential equations to hopefully build motivation to study them.    Module Objectives  After completing all work in this module, students will be able to...  Distinguish between ordinary and partial differential equations  Determine the order of differential equations.  Distinguish between linear and nonlinear ordinary differential equations.  Verify solutions to differential equations and find their intervals of existence.  Verify solutions to IVPs and find their intervals of existence.      To Do List  In this module, you will...  Watch 5 videos (approximately 29 minutes).  Complete 5 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 1   Finish any remaining work on Activity 0 .     "
+  "body": " Module 1 Map   All of the content in this module should be completed before July 1st .    The Big Picture  If we’re going to spend an entire semester talking about differential equations, we should probably start with what differential equations are to begin with. In this module, we will define differential equations and establish some vocabulary to help us describe and classify them. We will also see some real-world problems that can be modeled with differential equations to hopefully build motivation to study them.    Module Objectives  After completing all work in this module, students will be able to...  Distinguish between ordinary and partial differential equations  Determine the order of differential equations.  Distinguish between linear and nonlinear ordinary differential equations.  Verify solutions to differential equations and find their intervals of existence.  Verify solutions to IVPs and find their intervals of existence.      To Do List  In this module, you will...  Watch 8 videos (approximately 29 minutes).  Complete 7 checkpoints.  Add 5 items to your prep work book.  Complete Homework 1.  Finish any remaining work on Activity 0 - Review.     "
 },
 {
   "id": "map2",
@@ -87,8 +87,8 @@ var ptx_lunr_docs = [
   "url": "loop-x.html",
   "type": "Section",
   "number": "",
-  "title": "Example Learning Loops",
-  "body": " Example Learning Loops   This is an example of what a learning loop looks like for a chapter.    Example Learning Loop  Learning loops are essentially viewing guides for online content. For each class day, you will typically need to repeat the below steps for each section we will cover.  What a 🎥 Lecture Video like this one.  Complete a ✅ Checkpoint like this one.  You may need to repeat steps 1 and 2.  Try some of the practice problems from 📝Homework Practice Problems .     "
+  "title": "Learning Loop Example",
+  "body": " Learning Loop Example   This is an example of what a learning loop looks like for a chapter.    Example Learning Loop  Learning loops are essentially viewing guides for online content. For each class day, you will typically need to repeat the below steps for each section we will cover.  What a 🎥 Lecture Video like this one.  Complete a ✅ Checkpoint like this one.  You may be asked to complete some 🎯 Practice problems from the Course Textbook .  Repeat these types of steps as needed.     "
 },
 {
   "id": "loop-1",
@@ -96,8 +96,8 @@ var ptx_lunr_docs = [
   "url": "loop-1.html",
   "type": "Section",
   "number": "",
-  "title": "Chapter 1",
-  "body": " Chapter 1   This page will serve as a viewing guide for the lecture videos on Chapter 1.    1.1 - What are Differential Equations?   Module 1 Objective 1: Students can distinguish between ordinary and partial differential equations.  Watch 🎥Video 1.1.1 .  Complete the ✅Checkpoint 1.1.1 .     Module 1 Objective 2: Students can determine the order of differential equations.  Watch 🎥Video 1.1.2 .  Complete the ✅Checkpoint 1.1.2 .     Module 1 Objective 3: Students can distinguish between linear and nonlinear ordinary differential equations.  Watch 🎥Video 1.1.3 .  Complete the ✅Checkpoint 1.1.3 .  Try the list of 1.1 exercises from the 📝Homework 1 Practice Problems .      1.2 - What are Solutions to Differential Equations?   Module 1 Objective 4: Students can verify solutions to differential equations and find their intervals of existence.  Watch 🎥Video 1.2.1 .  Complete the ✅Checkpoint 1.2.1   Watch 🎥Video 1.2.2 .  Complete the ✅Checkpoint 1.2.2   Try the list of 1.2 exercises from the 📝Homework 1 Practice Problems .      1.3 - Is there a Guarantee we can do This?   Module 1 Objective 5: Students can model verify solutions to IVPs and find their intervals of existence.  Watch 🎥Video 1.3.1 .  Complete the ✅Checkpoint 1.3.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .      1.4 - Why Should I Care About Differential Equations?   Module 1 Objective 5: Students can model simple real-world phenomena with first-order initial value problems.  Watch 🎥Video 1.4.1 .  Complete the ✅Checkpoint 1.4.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .     "
+  "title": "🔎 Loop 1",
+  "body": " 🔎 Loop 1   This page will serve as a viewing guide for the lecture videos on Chapter 1.    1.1 - What are differential equations?   Module 1 Objective 1: Students can distinguish between ordinary and partial differential equations.  Watch 🎥Video 1.1.1 .  Complete the ✅Checkpoint 1.1.1 .     Module 1 Objective 2: Students can determine the order of differential equations.  Watch 🎥Video 1.1.2 .  Complete the ✅Checkpoint 1.1.2 .  🎯 Practice: Try finding the order of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10).     Module 1 Objective 3: Students can distinguish between linear and nonlinear ordinary differential equations.  Watch 🎥Video 1.1.3 .  Complete the ✅Checkpoint 1.1.3 .  Try the list of 1.1 exercises from the 📝Homework 1 Practice Problems .  🎯 Practice: Determine whether each of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10) are linear.      1.2 - What are solutions to differential equations?   Module 1 Objective 4: Students can verify solutions to differential equations and find their intervals of existence.  Watch 🎥Video 1.2.1 .  Complete the ✅Checkpoint 1.2.1   Watch 🎥Video 1.2.2 .  Complete the ✅Checkpoint 1.2.2   🎯 Practice: Problems 11, 13, 21, 23 in Exercises 1.1 (pg. 10).      1.3 - Can we find solutions to differential equations?   Module 1 Objective 5: Students can model verify solutions to IVPs and find their intervals of existence.  Watch 🎥Video 1.3.1 .  Complete the ✅Checkpoint 1.3.1   Watch 🎥Video 1.3.2 .  🎯 Practice: Problems 4-8 (evens), 18, 22 in Exercises 1.2 (pg. 17).      1.4 - Why should I find solutions to differential equations?   Module 1 Objective 5: Students can model simple real-world phenomena with first-order initial value problems.  Watch 🎥Video 1.4.1 .  Complete the ✅Checkpoint 1.4.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .  🎯 Practice: Problems 1, 3, 5, 9, 13 in Exercises 1.3 (pg. 28).     "
 },
 {
   "id": "loop-2",
@@ -105,40 +105,40 @@ var ptx_lunr_docs = [
   "url": "loop-2.html",
   "type": "Section",
   "number": "",
-  "title": "Chapter 2",
-  "body": " Chapter 2   This page will serve as a viewing guide for the lecture videos on Chapter 2.    2.1 - Separable Equations  This section covers content regarding Module 2 Objectives 1 & 2  Watch 🎥Video 2.1.1 .  Complete the ✅Checkpoint 2.1.1 .  Watch 🎥Video 2.1.2 .  Complete the ✅Checkpoint 2.1.2 .  Try all exercises listed in bank 1 from 📝Homework 2 Practice Problems .      2.2 - Exact Equations  This section covers content regarding Module 2 Objectives 1 & 4  Watch 🎥Video 2.2.1 .  Complete the ✅Checkpoint 2.2.1 .  Watch 🎥Video 2.2.2 .  Complete the ✅Checkpoint 2.2.2 .  Try all exercises listed in bank 3 from 📝Homework 2 Practice Problems .      2.3 - Homogeneous Equations  This section covers content regarding Module 2 Objectives 1 & 3  Watch 🎥Video 2.3.1 .  Watch 🎥Video 2.3.2 .  Complete the ✅Checkpoint 2.3.1 .  Try all exercises listed in bank 4 from 📝Homework 2 Practice Problems .      2.4 - Linear Equations  This section covers content regarding Module 2 Objectives 5 & 6  Watch 🎥Video 2.4.1 .  Watch 🎥Video 2.4.2 .  Complete the ✅Checkpoint 2.4.1 .  Watch 🎥Video 2.4.3 .  Complete the ✅Checkpoint 2.4.2 .  Watch 🎥Video 2.4.4 .  Try all exercises listed in bank 2 from 📝Homework 2 Practice Problems .     "
+  "title": "🔎 Loop 2",
+  "body": " 🔎 Loop 2   This page will serve as a viewing guide for the lecture videos on Chapter 2.    2.1 - Separable Equations  This section covers content regarding Module 2 Objectives 1 & 2  Watch 🎥Video 2.1.1 .  Complete the ✅Checkpoint 2.1.1 .  Watch 🎥Video 2.1.2 .  Complete the ✅Checkpoint 2.1.2 .  🎯 Practice: Problems 2-10 (evens) in Exercises 2.2 (pg. 50).      2.2 - Exact Equations  This section covers content regarding Module 2 Objectives 1 & 4  Watch 🎥Video 2.2.1 .  Complete the ✅Checkpoint 2.2.1 .  Watch 🎥Video 2.2.2 .  Complete the ✅Checkpoint 2.2.2 .  🎯 Practice: Problems 2-24 (alternating evens) in Exercises 2.3 (pg. 60-61).      2.3 - Linear Equations  This section covers content regarding Module 2 Objectives 5 & 6  Watch 🎥Video 2.4.1 .  Watch 🎥Video 2.4.2 .  Complete the ✅Checkpoint 2.4.1 .  Watch 🎥Video 2.4.3 .  Complete the ✅Checkpoint 2.4.2 .  Watch 🎥Video 2.4.4 .  Try all exercises listed in bank 2 from 📝Homework 2 Practice Problems .     "
 },
 {
-  "id": "hwx",
+  "id": "hwx-assigned",
   "level": "1",
-  "url": "hwx.html",
-  "type": "Section",
+  "url": "hwx-assigned.html",
+  "type": "Worksheet",
   "number": "",
   "title": "Homework Example",
-  "body": " Homework Example   This is an example of what homework assignments will look like in our class. The due date will be listed at the top of the assignment.    Practice Problems  These problems will not be graded, do not need to be submitted, and are \"technically optional\". However, I would strongly recommend giving at least some of these problems a try when you are directed to in learning loops. These are very straight-forward example problems (the type I might do with the class in a traditional lecture setting) to help you better understand and practice the key ideas and methods from our class. They will typically be banks of problems from our textbook. Please note that our section numbers may not align with the textbook.  Exercises X.X [pg.XXX] #A-Z      Assigned Problems    Instructions: These problem WILL BE GRADED . Though it may seem like a strange order, you will need to complete your homework assignments before the class when we cover the content. Each assignment will consist of at most 5 problems.  I will bring a printed copy of the assignment to pass out in class ahead of time. If you miss a class or would just like to print your own copy, the printer icon next to the \"Assigned Problems\" label gives you some different options. You can print out a copy with space to work on the page or you can just print the questions and work all solutions on a separate sheet of paper.  Your solutions should be handwritten, and - to add one last seamingly-arbitrary rule - please use ONLY PENCIL, BLUE INK, OR BLACK INK to write them. Each day, you will get 15 minutes to chat with your classmates about the homework assignment and you may make corrections to your homework based on your conversations using colored ink. These corrections will be graded with full credit.     Here's what a problem might look like!     "
+  "body": " Homework Example    Instructions: These problem WILL BE GRADED . Though it may seem like a strange order, you will need to complete your homework assignments before the class when we cover the content. Each assignment will consist of at most 5 problems.  I will bring a printed copy of the assignment to pass out in class ahead of time. If you miss a class or would just like to print your own copy, the printer icon next to the \"Assigned Problems\" label gives you some different options. You can print out a copy with space to work on the page or you can just print the questions and work all solutions on a separate sheet of paper.  Your solutions should be handwritten, and - to add one last seamingly-arbitrary rule - please use ONLY PENCIL, BLUE INK, OR BLACK INK to write them. Each day, you will get 15 minutes to chat with your classmates about the homework assignment and you may make corrections to your homework based on your conversations using colored ink. These corrections will be graded with full credit.     Here's what a problem might look like!    "
 },
 {
   "id": "hwx-assigned-3",
   "level": "2",
-  "url": "hwx.html#hwx-assigned-3",
+  "url": "hwx-assigned.html#hwx-assigned-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  Here's what a problem might look like!   "
 },
 {
-  "id": "hw1",
+  "id": "hw1-assigned",
   "level": "1",
-  "url": "hw1.html",
-  "type": "Section",
+  "url": "hw1-assigned.html",
+  "type": "Worksheet",
   "number": "",
-  "title": "Homework 1",
-  "body": " Homework 1    Due Date: This assignment is due at the beginning of class on Wednesday, July 1.    Practice Problems  It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.   Exercises 1.1 [pg.10] #1-4, 11-12, 21-22, and 25.    Exercises 1.2 [pg.17] #1-2, 7-8, 11-12, 29, and 35-38.    Exercises 1.3 [pg.27] #1-2, 5, 7, 9-10, 13, 15.       Assigned Problems    Instructions: Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.      Provide an example of a second-order, linear differential equation. Justify your answer.      Verify that the function is a solution to the differential equation and find its        A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min. The concentration of salt in the mixture is measured over time.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.       "
+  "title": "📝 Homework 1",
+  "body": " 📝 Homework 1    Instructions: This assignment is due Wednesday, July 1 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.      Provide an example of a second-order, linear differential equation. Justify your answer.      Verify that the function is a solution to the differential equation and find its        A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min. The concentration of salt in the mixture is measured over time.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.      "
 },
 {
   "id": "hw1-assigned-3-1",
   "level": "2",
-  "url": "hw1.html#hw1-assigned-3-1",
+  "url": "hw1-assigned.html#hw1-assigned-3-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
@@ -147,7 +147,7 @@ var ptx_lunr_docs = [
 {
   "id": "hw1-assigned-3-2",
   "level": "2",
-  "url": "hw1.html#hw1-assigned-3-2",
+  "url": "hw1-assigned.html#hw1-assigned-3-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
@@ -156,7 +156,7 @@ var ptx_lunr_docs = [
 {
   "id": "hw1-assigned-4-1",
   "level": "2",
-  "url": "hw1.html#hw1-assigned-4-1",
+  "url": "hw1-assigned.html#hw1-assigned-4-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
@@ -166,15 +166,15 @@ var ptx_lunr_docs = [
   "id": "hw2",
   "level": "1",
   "url": "hw2.html",
-  "type": "Section",
+  "type": "Worksheet",
   "number": "",
-  "title": "Homework 2",
-  "body": " Homework 2    Due Date: This assignment is due at the beginning of class on Monday, July 6.    Practice Problems  It is strongly recommended that you complete the below practice problems from the course textbook before beginning the assignment. These solutions do not need to be submitted and will not be graded.  Exercises 2.2 [pg.50] #2-10 even, 24, 28.  Exercises 2.3 [pg.60] #2-12 even using both variation of parameters and integrating factors.  Exercises 2.4 [pg.68] #2-10 even, 22.  Exercises 2.5 [pg.74] #2-12 even.      Assigned Problems    Instructions: Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                                 "
+  "title": "📝 Homework 2",
+  "body": " 📝 Homework 2    Instructions: This assignment is due Monday, July 6 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                                "
 },
 {
-  "id": "hw2-assigned-3",
+  "id": "hw2-3",
   "level": "2",
-  "url": "hw2.html#hw2-assigned-3",
+  "url": "hw2.html#hw2-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
