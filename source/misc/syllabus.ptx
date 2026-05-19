@@ -103,6 +103,86 @@
       </p>
     </paragraphs>
 
+    <paragraphs xml:id="syllabus-schedule">
+      <title>Tentative Course Schedule</title>
+      <p>
+        Below you will find a tentative schedule for our course. There is a row for each class meeting, a column for the content that will be covered, and a column for any important dates that week. Please note that each of the following dates are subject to change. 
+      </p>
+
+      <tabular>
+        <row header="yes" bottom="major">
+          <cell>Date</cell>
+          <cell>Content</cell> 
+          <cell>Due Dates</cell>
+        </row>
+        <row>
+          <cell>Mon. Jun 29</cell>
+          <cell>Course Intro + Review</cell> 
+          <cell>N/A</cell> 
+        </row>
+        <row>
+          <cell>Wed. Jul 1</cell>
+          <cell>Intro to Diff Eq &amp; Separable Eqns. </cell> 
+          <cell>Activity 0 &amp; Homework 1</cell> 
+        </row>
+        <row>
+          <cell>Mon. Jul 6</cell>
+          <cell>Solving &amp; Modelling 1st-Order ODEs</cell> 
+          <cell>Activity 1 &amp; Homework 2</cell> 
+        </row>
+        <row>
+          <cell>Wed. Jul 8</cell>
+          <cell>Modelling 1st-Order ODEs</cell> 
+          <cell>Activity 2 &amp; Homework 3</cell> 
+        </row>
+        <row>
+          <cell>Mon. Jul 13</cell>
+          <cell>Existence &amp; Uniquness Theory</cell> 
+          <cell>Activity 3 &amp; Homework 4</cell> 
+        </row>
+        <row>
+          <cell>Wed. Jul 15</cell>
+          <cell>Midterm 1</cell> 
+          <cell>Activity 4</cell> 
+        </row>
+        <row>
+          <cell>Mon. Jul 20</cell>
+          <cell>Solving Higher-Order ODEs</cell> 
+          <cell>Homework 5</cell> 
+        </row>
+        <row>
+          <cell>Wed. Jul 22</cell>
+          <cell>Modelling with Higher-Order ODEs</cell> 
+          <cell>Activity 5 &amp; Homework 6</cell> 
+        </row>
+        <row>
+          <cell>Mon. Jul 27</cell>
+          <cell>Laplace Transforms</cell> 
+          <cell>Activity 6 &amp; Homework 7</cell> 
+        </row>
+        <row>
+          <cell>Wed. Jul 29</cell>
+          <cell>Series Solutions to Linear ODEs</cell> 
+          <cell>Activity 7</cell> 
+        </row>
+        <row>
+          <cell>Mon. Aug 3</cell>
+          <cell>Midterm 2</cell> 
+          <cell>Homework 8</cell> 
+        </row>
+        <row>
+          <cell>Wed. Aug 5</cell>
+          <cell>Systems of 1st-Order ODEs &amp; Final Exam Review </cell> 
+          <cell>Activity 8 &amp; Homework 9</cell> 
+        </row>
+        <row>
+          <cell>Wed. Aug 12</cell>
+          <cell>Final Exam</cell> 
+          <cell>Activity 9</cell> 
+        </row>
+      </tabular>
+    </paragraphs>
+
     <paragraphs xml:id="syllabus-prereq">
       <title>Prerequisites</title>
       <p>
@@ -158,19 +238,19 @@
         </row>
         <row>
           <cell halign="right">Engagement</cell>
-          <cell halign="left">12%</cell>
+          <cell halign="left">14%</cell>
         </row>
         <row>
           <cell halign="right">Homework</cell>
-          <cell halign="left">15%</cell>
+          <cell halign="left">16%</cell>
         </row>
         <row>
           <cell halign="right">Midterms</cell>
-          <cell halign="left">45%</cell>
+          <cell halign="left">40%</cell>
         </row>
         <row>
           <cell halign="right">Final</cell>
-          <cell halign="left">28%</cell>
+          <cell halign="left">30%</cell>
         </row>
         <row>
           <cell halign="right"><alert>Total</alert></cell>
@@ -255,7 +335,7 @@
     <paragraphs>
       <title>Midterms</title>
       <p>
-        There will be three midterm exams, each worth 15% of your grade (for a total of 45%). They are tentatively scheduled for July 8, July 22, and August 8 (all Wednesdays). You will need a writing utensil for the exams. You may use a scientific calculator and/or your prep work journal on exams. No other notes or electronic devices of any kind will be permitted during exams. Exams will be free response, worth 100 points, and will be graded with partial credit. 
+        There will be two midterm exams, each worth 20% of your grade (for a total of 40%). They are tentatively scheduled for Wednesday, July 15 and Monday, Aug 3. You will need a writing utensil for the exams. You may use a scientific calculator and/or your prep work journal on exams. No other notes or electronic devices of any kind will be permitted during exams. Exams will be free response, worth 100 points, and will be graded with partial credit. 
       </p>
     </paragraphs>
 
