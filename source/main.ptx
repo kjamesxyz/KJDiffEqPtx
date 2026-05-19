@@ -85,6 +85,7 @@
       </introduction>
 
       <xi:include href="./activities/activity-template.ptx"/>
+      <xi:include href="./activities/U26_262_activity_0.ptx"/>
       <xi:include href="./activities/U26_262_activity_1.ptx"/>
       <xi:include href="./activities/U26_262_activity_2.ptx"/>
 

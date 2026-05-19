@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <worksheet>
-  <title>🙏 Activity 1 - What Are DEs?</title>
-
-  <introduction>
-    <p>
-      This is the introduction to the activity.
-    </p>
-  </introduction>
+  <title>🏫 Activity 1 - What Are DEs?</title>
 
   <exercise workspace="1in">
     <introduction>

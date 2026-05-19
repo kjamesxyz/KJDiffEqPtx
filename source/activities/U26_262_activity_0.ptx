@@ -2,29 +2,50 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="act0">
-  <title>🙏 Activity - Review</title>
+  <title>🏫 Activity 0 - Review</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      This is an example of an activity. It will have the <alert>due date</alert> at the top of the assignment. Note that these assignments have the same printing options as your homework. 
-    </p>
-    <p>
-      We will spend the latter half of each class day working on activities and they will be due the following class period. These worksheets will let you test the skills and knowledge you obtained from the learning loop on some fun, interesting, and challenging problems. 
+      This iactivity is due at the beginning of class on <alert>Wednesday, July 1</alert>. Please write all solutions on this sheet. If you need additional space, you may attach additional work to this sheet, but please clearly label your work with its corresponding problem. 
     </p>
   </introduction>
 
   <!-- Exercises start here. -->
-  <exercise workspace="2in">
-    <statement>
-      <p>
-        Activity problems will often be more challenging than exam questions. The purpose of the activities is two-fold: 
-        <ol> 
-          <li><p> To give you a list of "benchmark" problems. If you can solve and understand these problems, you are in a good spot for the exams! </p></li> 
-          <li><p> To show you cool and fun ways you may use the material from our class in your future courses and careers! After all, one of the most scientific questions one can ask is: "Why should I care about this?" </p></li> 
-        </ol>
-      </p>
-    </statement>
-  </exercise>
+  <sidebyside>
+    <exercise workspace="1in">
+      <statement>
+        <p>
+          Compute <md> \int \frac{1}{3x+2} \, dx. </md>
+        </p>
+      </statement>
+    </exercise>
+
+    <exercise workspace="1in">
+      <statement>
+        <p>
+          Compute <md> \int_1^2 x^3 \cos(x^4 + 3) \, dx. </md>
+        </p>
+      </statement>
+    </exercise>
+  </sidebyside>
+
+  <sidebyside>
+    <exercise workspace="1in">
+      <statement>
+        <p>
+          Compute <md> \int xe^{-x} \, dx. </md>
+        </p>
+      </statement>
+    </exercise>
+
+    <exercise workspace="1in">
+      <statement>
+        <p>
+          Compute <md> \int_{\frac{\pi}{12}}^{\frac{\pi}{6}} x^2 \cos(3x) \, dx. </md>
+        </p>
+      </statement>
+    </exercise>
+  </sidebyside>
 
 </worksheet>
