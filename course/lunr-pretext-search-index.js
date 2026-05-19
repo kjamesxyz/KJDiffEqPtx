@@ -199,45 +199,90 @@ var ptx_lunr_docs = [
   "body": "  Activity problems will often be more challenging than exam questions. The purpose of the activities is two-fold:  To give you a list of \"benchmark\" problems. If you can solve and understand these problems, you are in a good spot for the exams!  To show you cool and fun ways you may use the material from our class in your future courses and careers! After all, one of the most scientific questions one can ask is: \"Why should I care about this?\"     "
 },
 {
-  "id": "activities-4",
+  "id": "act0",
   "level": "1",
-  "url": "activities-4.html",
+  "url": "act0.html",
   "type": "Worksheet",
   "number": "",
-  "title": "🙏 Activity 1 - What Are DEs?",
-  "body": " 🙏 Activity 1 - What Are DEs?   This is the introduction to the activity.     Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                           Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.       Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).        Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Assume the tank is cylindrical with radius . Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?       Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.     "
+  "title": "🏫 Activity 0 - Review",
+  "body": " 🏫 Activity 0 - Review    This iactivity is due at the beginning of class on Wednesday, July 1 . Please write all solutions on this sheet. If you need additional space, you may attach additional work to this sheet, but please clearly label your work with its corresponding problem.       Compute       Compute         Compute       Compute      "
 },
 {
-  "id": "activities-4-3",
+  "id": "act0-3-1",
   "level": "2",
-  "url": "activities-4.html#activities-4-3",
+  "url": "act0.html#act0-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Compute    "
+},
+{
+  "id": "act0-3-2",
+  "level": "2",
+  "url": "act0.html#act0-3-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Compute    "
+},
+{
+  "id": "act0-4-1",
+  "level": "2",
+  "url": "act0.html#act0-4-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Compute    "
+},
+{
+  "id": "act0-4-2",
+  "level": "2",
+  "url": "act0.html#act0-4-2",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Compute    "
+},
+{
+  "id": "activities-5",
+  "level": "1",
+  "url": "activities-5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "🏫 Activity 1 - What Are DEs?",
+  "body": " 🏫 Activity 1 - What Are DEs?    Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                           Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.       Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).        Torricelli's law states that the speed of the efflux (discharge\/draining) of a fluid through a hole at the bottom of a tank filled to depth is the same as the speed a solid body would attain from falling the same distance.     Conservation of energy tells us that the speed the falling body would obtain can be found from solving the equation Solve this equation for .      Toricelli's law tells us that your solution for part (a) also represents how fast the water is passing through the hole. Suppose the hole in the bottom of the tank has area . Use this with your answer to part (a) to find an expression for how much water (a volume) passes through the hole per unit time.      Use your answer from part (b) to write a differential equation to model the rate of change of the amount of fluid in the tank at time .      Assume the tank is cylindrical with radius . Adapt your model from part (c) to instead model the depth of the fluid.      Suppose now that fluid is pumped into the tank at a constant rate of . What changes does this make to your model from part (c)? From part (d)?       Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.     "
+},
+{
+  "id": "activities-5-2",
+  "level": "2",
+  "url": "activities-5.html#activities-5-2",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  Classify each of the following differential equations as linear or nonlinear, then determine their orders. For each answer, write all coefficients as in the definition of linearity.                        "
 },
 {
-  "id": "activities-4-4",
+  "id": "activities-5-3",
   "level": "2",
-  "url": "activities-4.html#activities-4-4",
+  "url": "activities-5.html#activities-5-3",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Consider the family of functions defined by      How many parameters does this family have?      Verify that functions in this family are solutions to the differential equation Define an appropriate interval of existence for the solution.    "
 },
 {
-  "id": "activities-4-5",
+  "id": "activities-5-4",
   "level": "2",
-  "url": "activities-4.html#activities-4-5",
+  "url": "activities-5.html#activities-5-4",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
   "body": "  Consider the differential equation      Verify that is an implicit solution to .      Verify that and are both solutions to on (-5,5).      Explain why the function is NOT a solution to on (-5,5).    "
 },
 {
-  "id": "activities-4-6",
+  "id": "activities-5-5",
   "level": "2",
-  "url": "activities-4.html#activities-4-6",
+  "url": "activities-5.html#activities-5-5",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
@@ -246,25 +291,25 @@ var ptx_lunr_docs = [
 {
   "id": "act1-p5",
   "level": "2",
-  "url": "activities-4.html#act1-p5",
+  "url": "activities-5.html#act1-p5",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
   "body": "  Consider the differential equation      Verify that functions from the two-parameter family are solutions to on       Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Suppose now that we add the initial condition that . What new information can you learn about the solution(s) to ?      Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an -order IVP to require in order to have unique solutions? Write the general form of an -order IVP below.    "
 },
 {
-  "id": "activities-5",
+  "id": "activities-6",
   "level": "1",
-  "url": "activities-5.html",
+  "url": "activities-6.html",
   "type": "Worksheet",
   "number": "",
-  "title": "Activity 2",
-  "body": " Activity 2    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Suppose and . First, divide both sides of by . Then use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
+  "title": "🏫 Activity 2 - Solving First-Order Equations",
+  "body": " 🏫 Activity 2 - Solving First-Order Equations    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Suppose and . First, divide both sides of by . Then use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
 },
 {
   "id": "act2-1",
   "level": "2",
-  "url": "activities-5.html#act2-1",
+  "url": "activities-6.html#act2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
@@ -273,7 +318,7 @@ var ptx_lunr_docs = [
 {
   "id": "act2-2",
   "level": "2",
-  "url": "activities-5.html#act2-2",
+  "url": "activities-6.html#act2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
@@ -282,7 +327,7 @@ var ptx_lunr_docs = [
 {
   "id": "act2-3",
   "level": "2",
-  "url": "activities-5.html#act2-3",
+  "url": "activities-6.html#act2-3",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
@@ -291,7 +336,7 @@ var ptx_lunr_docs = [
 {
   "id": "act2-4",
   "level": "2",
-  "url": "activities-5.html#act2-4",
+  "url": "activities-6.html#act2-4",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
