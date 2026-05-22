@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="map3">
+    <title>🗺️ Module 3 Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>July 8</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            In chapter 2, we learned some tools for solving 1st-Order differential equations. Before moving on to more general equations, I think we have earned the right to do some fun stuff with out new tools! In this module, you will learn tricks for analyzing the behavior of systems and solve some applications problems where we can use 1st-Order DEs.
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Use 1st-Order equations to model phenomena with dynamic rates of change. </p></li>
+                <li><p> Use slope fields to understand the dynamics of systems. </p></li>
+                <li><p> Use phase portraits to understand the dynamics of systems. </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>4</alert> videos (runtime). </p></li>
+                <li><p> Complete <alert>4</alert> checkpoints. </p></li>
+                <li><p> Add <alert>4</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all assigned problems in <alert>Homework 3</alert> </p></li>
+                <li><p> Finish any remaining work on <alert>Activity 2</alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+</section>
