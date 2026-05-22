@@ -52,7 +52,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🗺️ Module 2 Map",
-  "body": " 🗺️ Module 2 Map   All of the content in this module should be completed before July 6 .    The Big Picture  In chapter 1, we learned about differential equations for the first time. We saw some vocabulary and examples of when they become relevant to solving real-world problems. Though we have only just scratched the surface, we have already seen that discussing and solving differential equations require much finer attention to detail. Unfortunately, there is no one-size-fits-all method for solving differential equations. In practice, we identify classes of equations that share a convenient property that we can exploit. In this chapter, we will see this process in action for the first time and solve some of the simpler classes of differential equations.    Module Objectives  After completing all work in this module, students will be able to...  Classify differential equations as separable, exact, and\/or homogeneous.  Find general solutions to separable first-order equations.  Find general solutions to exact first-order equations.  Find general solutions to linear first-order equations through integrating factors.  Use substitution to reduce differential equations to separable, exact, or linear differential equations      To Do List  In this module, you will...  Watch 9 videos (total runtime).  Complete 4 checkpoints.  Add 4 items to your prep work book.  Write solutions to all assigned problems in Homework 2   Finish any remaining work on Activity 1 .     "
+  "body": " 🗺️ Module 2 Map   All of the content in this module should be completed before July 6 .    The Big Picture  In chapter 1, we learned about differential equations for the first time. We saw some vocabulary and examples of when they become relevant to solving real-world problems. Though we have only just scratched the surface, we have already seen that discussing and solving differential equations require much finer attention to detail. Unfortunately, there is no one-size-fits-all method for solving differential equations. In practice, we identify classes of equations that share a convenient property that we can exploit. In this chapter, we will see this process in action for the first time and solve some of the simpler classes of differential equations.    Module Objectives  After completing all work in this module, students will be able to...  Classify differential equations as separable, exact, and\/or homogeneous.  Find general solutions to separable first-order equations.  Find general solutions to exact first-order equations.  Find general solutions to linear first-order equations through integrating factors.  Use substitution to reduce differential equations to separable, exact, or linear differential equations      To Do List  In this module, you will...  Watch 9 videos (abbout 45 minutes).  Complete 4 checkpoints.  Add 4 items to your prep work book.  Write solutions to all assigned problems in Homework 2   Finish any remaining work on Activity 1 .     "
+},
+{
+  "id": "map3",
+  "level": "1",
+  "url": "map3.html",
+  "type": "Section",
+  "number": "",
+  "title": "🗺️ Module 3 Map",
+  "body": " 🗺️ Module 3 Map   All of the content in this module should be completed before July 8 .    The Big Picture  In chapter 2, we learned some tools for solving 1st-Order differential equations. Before moving on to more general equations, I think we have earned the right to do some fun stuff with out new tools! In this module, you will learn tricks for analyzing the behavior of systems and solve some applications problems where we can use 1st-Order DEs.    Module Objectives  After completing all work in this module, students will be able to...  Use 1st-Order equations to model phenomena with dynamic rates of change.  Use slope fields to understand the dynamics of systems.  Use phase portraits to understand the dynamics of systems.      To Do List  In this module, you will...  Watch 4 videos (runtime).  Complete 4 checkpoints.  Add 4 items to your prep work book.  Write solutions to all assigned problems in Homework 3   Finish any remaining work on Activity 2 .     "
 },
 {
   "id": "prepx",
@@ -82,6 +91,15 @@ var ptx_lunr_docs = [
   "body": " ✍️ Prep Work 2   To receive full credit, please complete this prep work entry by the beginning of class July 6th .    Prompts  Create a heading in your prep work journal for chapter 2. Then, use the lecture videos to fill in the blanks below. Record each item in your prep work journal.  A first-order differential equation is separable when it can be written in the form   A first-order linear differential equation is in standard form when it is written   The formula for the integrating factor for first-order linear equations is .  The equation is exact when .     "
 },
 {
+  "id": "prep3",
+  "level": "1",
+  "url": "prep3.html",
+  "type": "Section",
+  "number": "",
+  "title": "✍️ Prep Work 3",
+  "body": " ✍️ Prep Work 3   To receive full credit, please complete this prep work entry by the beginning of class July 9 .    Prompts  Use the lecture videos to fill in the blanks below. Record each item in your prep work journal.  Write the logistic equation .  Define the slope function for a 1st-order differential equation.  Define isocline .  Define nullcline .     "
+},
+{
   "id": "loop-x",
   "level": "1",
   "url": "loop-x.html",
@@ -107,6 +125,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "🔎 Loop 2",
   "body": " 🔎 Loop 2   This page will serve as a viewing guide for the lecture videos on Chapter 2.    2.1 - Separable Equations  In this section, students will learn to classify and solve separable equations.  Watch 🎥Video 2.1.1 .  Complete the ✅Checkpoint 2.1.1 .  Watch 🎥Video 2.1.2 .  Complete the ✅Checkpoint 2.1.2 .  🎯 Practice: Problems 2-22 (alternating evens) in Exercises 2.2 (pg. 50).      2.2 - Linear Equations  In this section, students will learn to write linear equations and standard form and find their general solutions by using integrating factors.  Watch 🎥Video 2.2.1 .  Complete the ✅Checkpoint 2.2.1 .  Watch 🎥Video 2.2.2 .  Watch 🎥Video 2.2.3 .  Watch 🎥Video 2.2.4 .  🎯 Practice: Problems 2-24 (alternating evens) in Exercises 2.2 (pg. 60-61).      2.3 - Exact Equations  In this section, students will learn to classify and solve exact equations.  Watch 🎥Video 2.3.1 .  Complete the ✅Checkpoint 2.3.1 .  🎯 Practice: Problems 2-26 (alternating evens) in Exercises 2.3 (pg. 68-69).      2.4 - Substitution  In this section, students will learn how to simplify first-order differential equations using substitution.  Watch 🎥Video 2.4.1 .  🎯 Practice: Problems 2-10 (evens) in Exercises 2.5 (pg. 74).     "
+},
+{
+  "id": "loop-3",
+  "level": "1",
+  "url": "loop-3.html",
+  "type": "Section",
+  "number": "",
+  "title": "🔎 Loop 3",
+  "body": " 🔎 Loop 3   This is an example of what a learning loop looks like for a chapter.    2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs.  Watch 🎥 Video 2.5.1 (7:35).  Complete ✅ Checkpoint 2.5.1 .  Watch 🎥 Video 2.5.2 (11:30).  Complete ✅ Checkpoint 2.5.2 .  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).      2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs.   Watch 🎥 Video 2.6.1 .  Complete ✅ Checkpoint 2.6.1 .  Watch 🎥 Video 2.6.2 (17:46).  Complete ✅ Checkpoint 2.6.2 .  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).     "
 },
 {
   "id": "hwx-assigned",
@@ -179,6 +206,42 @@ var ptx_lunr_docs = [
   "number": "1",
   "title": "",
   "body": "  Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                               "
+},
+{
+  "id": "hw3",
+  "level": "1",
+  "url": "hw3.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "📝 Homework 3",
+  "body": " 📝 Homework 3    Instructions: This assignment is due Wednesday, July 8 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     The amount of a radioactive substance after years decays proportionally to itself. That is      Write a first-order linear differential equation that models the radioactive decay of a substance assuming their is an initial amount .      Find the solution to the differential equation in your model.      The half-life of a radioactive substance is the amount of time it takes to lose half of its mass (amount). Use your model to derive a formula for the half-life of a radioactive substance.       Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?      A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?     "
+},
+{
+  "id": "hw3-3",
+  "level": "2",
+  "url": "hw3.html#hw3-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  The amount of a radioactive substance after years decays proportionally to itself. That is      Write a first-order linear differential equation that models the radioactive decay of a substance assuming their is an initial amount .      Find the solution to the differential equation in your model.      The half-life of a radioactive substance is the amount of time it takes to lose half of its mass (amount). Use your model to derive a formula for the half-life of a radioactive substance.    "
+},
+{
+  "id": "hw3-4",
+  "level": "2",
+  "url": "hw3.html#hw3-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?   "
+},
+{
+  "id": "hw3-5",
+  "level": "2",
+  "url": "hw3.html#hw3-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?    "
 },
 {
   "id": "activities-3",
@@ -341,6 +404,33 @@ var ptx_lunr_docs = [
   "number": "4",
   "title": "",
   "body": "  Use the process outlined in question to find a general solution to    "
+},
+{
+  "id": "activities-7",
+  "level": "1",
+  "url": "activities-7.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "🏫 Activity 3 - Modelling First-Order Equations",
+  "body": " 🏫 Activity 3 - Modelling First-Order Equations    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     An circuit consists of an inductor with inductance 0.1 Henrys and a resistor with resistance 50 Ohms.  Kirchoff's second law tells us that the net electromotive force around a closed circuit is equal to the total potential drop across all elements of the circuit.  Ohm's law tells us that the potential drop across a resistor is where is the electric current.  Similarly, physics informs us that the potential drop across an inductor is   A 30V electromotive force is applied to the circuit when the circuit is at rest. Use the information above to model the current in the circuit at time . What does your model suggest about the current as ?      The velocity at time of a falling body with mass can be modelled by the differential equation where is acceleration due to gravity and is a constant of proportionality.     Assuming the body starts at rest, solve the differential equation above.      The terminal velocity of an object is the maximum velocity it can reach while falling. Use your answer from part (a) to determine the terminal velocity of the falling body.      How far does the body need to fall before reaching terminal velocity?      A skydiver jumps from a plane cruising at an altitude of 20,000 feet. After 25 seconds, he opens his parachute and observes her altitude to be 14,800 feet. Use your model above, together with . How fast is the skydiver falling at 15 seconds?     "
+},
+{
+  "id": "activities-7-3",
+  "level": "2",
+  "url": "activities-7.html#activities-7-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  An circuit consists of an inductor with inductance 0.1 Henrys and a resistor with resistance 50 Ohms.  Kirchoff's second law tells us that the net electromotive force around a closed circuit is equal to the total potential drop across all elements of the circuit.  Ohm's law tells us that the potential drop across a resistor is where is the electric current.  Similarly, physics informs us that the potential drop across an inductor is   A 30V electromotive force is applied to the circuit when the circuit is at rest. Use the information above to model the current in the circuit at time . What does your model suggest about the current as ?   "
+},
+{
+  "id": "activities-7-4",
+  "level": "2",
+  "url": "activities-7.html#activities-7-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  The velocity at time of a falling body with mass can be modelled by the differential equation where is acceleration due to gravity and is a constant of proportionality.     Assuming the body starts at rest, solve the differential equation above.      The terminal velocity of an object is the maximum velocity it can reach while falling. Use your answer from part (a) to determine the terminal velocity of the falling body.      How far does the body need to fall before reaching terminal velocity?      A skydiver jumps from a plane cruising at an altitude of 20,000 feet. After 25 seconds, he opens his parachute and observes her altitude to be 14,800 feet. Use your model above, together with . How fast is the skydiver falling at 15 seconds?    "
 }
 ]
 
