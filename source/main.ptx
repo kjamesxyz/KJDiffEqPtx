@@ -33,6 +33,7 @@
       <xi:include href="./maps/U26_262_map_1.ptx" />
       <xi:include href="./maps/U26_262_map_2.ptx" />
       <xi:include href="./maps/U26_262_map_3.ptx" />
+      <xi:include href="./maps/U26_262_map_4.ptx" />
     </chapter>
 
     <chapter xml:id="preps">
@@ -48,6 +49,7 @@
       <xi:include href="./prepwork/U26_262_prep_1.ptx"/>
       <xi:include href="./prepwork/U26_262_prep_2.ptx"/>
       <xi:include href="./prepwork/U26_262_prep_3.ptx"/>
+      <xi:include href="./prepwork/U26_262_prep_4.ptx"/>
     </chapter>
 
     <chapter xml:id="loops">
@@ -62,6 +64,7 @@
       <xi:include href="./loops/U26_262_loop_1.ptx" />
       <xi:include href="./loops/U26_262_loop_2.ptx" />
       <xi:include href="./loops/U26_262_loop_3.ptx" />
+      <xi:include href="./loops/U26_262_loop_4.ptx" />
     </chapter>
 
 
@@ -77,6 +80,7 @@
       <xi:include href="./homework/U26_262_homework_1.ptx" />
       <xi:include href="./homework/U26_262_homework_2.ptx" />
       <xi:include href="./homework/U26_262_homework_3.ptx" />
+      <xi:include href="./homework/U26_262_homework_4.ptx" />
     </chapter>
 
     <chapter xml:id="activities">
@@ -93,7 +97,7 @@
       <xi:include href="./activities/U26_262_activity_1.ptx"/>
       <xi:include href="./activities/U26_262_activity_2.ptx"/>
       <xi:include href="./activities/U26_262_activity_3.ptx"/>
-
+      <xi:include href="./activities/U26_262_activity_4.ptx"/>
     </chapter>
 
 

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="a4">
+  <title>🏫 Activity 4 - Solving Higher-Order Linear Equations </title>
+
+  <introduction>
+    <p>
+      <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. 
+    </p>
+  </introduction>
+
+  <exercise workspace="2in">
+        <statement>
+            <p>
+                When finding a complementary solution to an <m>n</m>th-order linear nonhomogeneous equation, we first find roots of the characteristic polynomial <m>\lambda_1, \ldots, \lambda_n</m>. We saw that these roots produce the fundamental solutions to the complementary equation. Summarize the different cases we may have for these roots and how they impact the structure of the complementary solution. 
+            </p>
+        </statement>
+    </exercise>
+
+  <exercise>
+        <introduction>
+            <p>
+                Consider the differential equation <md xml:id="a4-prob1" number="yes">
+                    u''' - 2u'' - u' + 2u = 2t^2 + 4t - 9.
+                </md>
+            </p>
+        </introduction>
+
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Find the complementary solution to <xref ref="a4-prob1"/>. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Find a particular solution of <xref ref="a4-prob1"/> through the method of undetermined coefficients. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Find a particular solution of <xref ref="a4-prob1"/> using an annhilator. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Find a particular solution of <xref ref="a4-prob1"/> through variation of parameters. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Write down the general solution to <xref ref="a4-prob1"/>. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.75in">
+            <statement>
+                <p>
+                    If this were an exam question, and you were able to use any method of your choice, which would you chose and why?
+                </p>
+            </statement>
+            <hint>
+                <p>
+                    These can be personal opinions ;D. 
+                </p>
+            </hint>
+        </task>
+    </exercise>
+
+    <exercise workspace="5in">
+        <statement>
+            <p>
+                Use variation of parameters to show that the function <md>
+                    y(t) = c_1 \cos(t) + c_2 \sin(t) + \int_0^t f(s) \sin(t-s) \, ds 
+                </md> is the general solution to the differential equation <md>
+                    y'' + y = f(t)
+                </md> where <m>f \in \Cee^1(-\infty,\infty).</m>
+            </p>
+        </statement>
+        <hint>
+            <p>
+                Recall that <m>\sin(t-s) = \sin(t) \cos(s) - \sin(s) \cos(t).</m>
+            </p>
+        </hint>
+    </exercise>
+    
+</worksheet>
+
+
+
+

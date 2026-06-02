@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="hw4">
+    <title>📝 Homework 4</title>
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> This assignment is due <alert>Monday, July 13</alert>. Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
+        </p>
+    </introduction>
+
+
+    <exercise workspace="3in">
+        <statement>
+            <p>
+                Find the general solution to <m>y'' - 3y' + 2y = e^x \sin(x)</m> using the method of undetermined coefficients. 
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise workspace="3in">
+        <statement>
+            <p>
+                Find the general solution to <m>z'' + z = 2e^{-t}; z(0) = z'(0) = 0 </m> using annhilators. 
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise workspace="3in">
+        <statement>
+            <p>
+                Find the general solution to <m>y'' - 6y' + 9y = x^{-3}e^{3x}</m> using variation of parameters. 
+            </p>
+        </statement>
+    </exercise>
+
+
+</worksheet>

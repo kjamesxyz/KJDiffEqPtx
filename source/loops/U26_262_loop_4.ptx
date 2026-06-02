@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="loop-4">
+    <title>🔎 Loop 4</title>
+
+    <introduction>
+        <p>
+            Students should complete all content in this loop before class <alert>Monday, July 13</alert>. 
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>
+            3.1 - Existence &amp; Uniqueness for Higher-Order Linear ODEs
+        </title>
+        
+        <p>
+            In this section, we will explore the existence and uniqueness of solution for higher-order linear ODEs. This section satisfies module objective 1. 
+            <ol>
+                <li><p> Watch <url href="https://youtu.be/Du_5upgbg3U">🎥 Video 3.1.1</url> (7:01). </p></li>
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/348128">✅ Checkpoint 3.1.1 </url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/zyqHfS8tWmI">🎥 Video 3.1.2</url> (5:45). </p></li>
+                <li><p> Watch <url href="https://youtu.be/ac10GR3TCSE">🎥 Video 3.1.3</url> (5:07). </p></li>
+                <li><p> Watch <url href="https://youtu.be/zyqHfS8tWmI">🎥 Video 3.1.4</url> (TBD) WRONG LINK. </p></li>
+                <li><p> Watch <url href="https://youtu.be/88U-xC9s2gs">🎥 Video 3.1.5</url> (18:06). </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90). </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>
+            3.2 - Method of Undetermined Coefficients
+        </title>
+        
+        <p>
+            In this section, students will learn to solve higher-order linear ODEs with the method of undetermined coefficients. This section satisfies module objectives 2 and 3.
+            <ol>
+                <li><p> Videos here </p></li> 
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>
+            3.3 - Variation of Parameters
+        </title>
+        
+        <p>
+            In this section, students will learn to solve higher-order linear ODEs through variation of parameters. This section satisfies module objective 4.
+            <ol>
+                <li><p> Videos here </p></li> 
+            </ol>
+        </p>
+    </subsection>
+        
+</section>
