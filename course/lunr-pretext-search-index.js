@@ -64,6 +64,15 @@ var ptx_lunr_docs = [
   "body": " 🗺️ Module 3 Map   All of the content in this module should be completed before July 8 .    The Big Picture  In chapter 2, we learned some tools for solving 1st-Order differential equations. Before moving on to more general equations, I think we have earned the right to do some fun stuff with out new tools! In this module, you will learn tricks for analyzing the behavior of systems and solve some applications problems where we can use 1st-Order DEs.    Module Objectives  After completing all work in this module, students will be able to...  Use 1st-Order equations to model phenomena with dynamic rates of change.  Use slope fields to understand the dynamics of systems.  Use phase portraits to understand the dynamics of systems.      To Do List  In this module, you will...  Watch 4 videos (runtime).  Complete 4 checkpoints.  Add 4 items to your prep work book.  Write solutions to all assigned problems in Homework 3   Finish any remaining work on Activity 2 .     "
 },
 {
+  "id": "map4",
+  "level": "1",
+  "url": "map4.html",
+  "type": "Section",
+  "number": "",
+  "title": "🗺️ Module 4 Map",
+  "body": " 🗺️ Module 4 Map   All of the content in this module should be completed before Monday, July 13 .    The Big Picture  We have now seen several ways to solve first-order ODEs and have built some motivation for dealing with the difficulties. This is the general pattern of learning and working with differential equations. We   Write down a new model.    Determine whether the equation has solutions. If so, are they unique?    If the problem is solveable, only then do we know it's worth solving. So we try to find a method by which to solve it.   In this section, we will expand the tools in our toolbelt to solve higher-order linear ODEs.    Module Objectives  After completing all work in this module, students will be able to...  Use the principle of superposition to build general solutions to linear nonhomogeneous ODEs.  Solve higher-order linear nonhomogeneous ODEs with the method of undetermined coefficients.  Solve higher-oder linear nonhomogeneous ODEs with annhilators.  Solve higher-oder linear nonhomogeneous ODEs with variation of parameters.      To Do List  In this module, you will...  Watch 4 videos (runtime).  Complete 4 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 4   Finish any remaining work on Activity 3 .     "
+},
+{
   "id": "prepx",
   "level": "1",
   "url": "prepx.html",
@@ -100,6 +109,15 @@ var ptx_lunr_docs = [
   "body": " ✍️ Prep Work 3   To receive full credit, please complete this prep work entry by the beginning of class July 9 .    Prompts  Use the lecture videos to fill in the blanks below. Record each item in your prep work journal.  Write the logistic equation .  Define the slope function for a 1st-order differential equation.  Define isocline .  Define nullcline .     "
 },
 {
+  "id": "prep4",
+  "level": "1",
+  "url": "prep4.html",
+  "type": "Section",
+  "number": "",
+  "title": "✍️ Prep Work 4",
+  "body": " ✍️ Prep Work 4   To receive full credit, please complete this prep work entry by the beginning of class Monday, July 19 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  Define the Wronskian of a set of functions.  When is a set of functions linearly independent? Write all definitions given in all videos.  Describe the role of a trial function in the method of undetermined coefficients.  Let for a function be a function. What does an annhilator of do?  Write down the formula to compute variable parameters in the method of variation of parameters.     "
+},
+{
   "id": "loop-x",
   "level": "1",
   "url": "loop-x.html",
@@ -134,6 +152,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "🔎 Loop 3",
   "body": " 🔎 Loop 3   This is an example of what a learning loop looks like for a chapter.    2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs.  Watch 🎥 Video 2.5.1 (7:35).  Complete ✅ Checkpoint 2.5.1 .  Watch 🎥 Video 2.5.2 (11:30).  Complete ✅ Checkpoint 2.5.2 .  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).      2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs.   Watch 🎥 Video 2.6.1 .  Complete ✅ Checkpoint 2.6.1 .  Watch 🎥 Video 2.6.2 (17:46).  Complete ✅ Checkpoint 2.6.2 .  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).     "
+},
+{
+  "id": "loop-4",
+  "level": "1",
+  "url": "loop-4.html",
+  "type": "Section",
+  "number": "",
+  "title": "🔎 Loop 4",
+  "body": " 🔎 Loop 4   Students should complete all content in this loop before class Monday, July 13 .    3.1 - Existence & Uniqueness for Higher-Order Linear ODEs  In this section, we will explore the existence and uniqueness of solution for higher-order linear ODEs. This section satisfies module objective 1.  Watch 🎥 Video 3.1.1 (7:01).  Complete ✅ Checkpoint 3.1.1 .  Watch 🎥 Video 3.1.2 (5:45).  Watch 🎥 Video 3.1.3 (5:07).  Watch 🎥 Video 3.1.4 (TBD) WRONG LINK.  Watch 🎥 Video 3.1.5 (18:06).  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).      3.2 - Method of Undetermined Coefficients  In this section, students will learn to solve higher-order linear ODEs with the method of undetermined coefficients. This section satisfies module objectives 2 and 3.  Videos here      3.3 - Variation of Parameters  In this section, students will learn to solve higher-order linear ODEs through variation of parameters. This section satisfies module objective 4.  Videos here     "
 },
 {
   "id": "hwx-assigned",
@@ -242,6 +269,42 @@ var ptx_lunr_docs = [
   "number": "3",
   "title": "",
   "body": "  A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?    "
+},
+{
+  "id": "hw4",
+  "level": "1",
+  "url": "hw4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "📝 Homework 4",
+  "body": " 📝 Homework 4    Instructions: This assignment is due Monday, July 13 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Find the general solution to using the method of undetermined coefficients.      Find the general solution to using annhilators.      Find the general solution to using variation of parameters.    "
+},
+{
+  "id": "hw4-3",
+  "level": "2",
+  "url": "hw4.html#hw4-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Find the general solution to using the method of undetermined coefficients.   "
+},
+{
+  "id": "hw4-4",
+  "level": "2",
+  "url": "hw4.html#hw4-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Find the general solution to using annhilators.   "
+},
+{
+  "id": "hw4-5",
+  "level": "2",
+  "url": "hw4.html#hw4-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Find the general solution to using variation of parameters.   "
 },
 {
   "id": "activities-3",
@@ -431,6 +494,42 @@ var ptx_lunr_docs = [
   "number": "2",
   "title": "",
   "body": "  The velocity at time of a falling body with mass can be modelled by the differential equation where is acceleration due to gravity and is a constant of proportionality.     Assuming the body starts at rest, solve the differential equation above.      The terminal velocity of an object is the maximum velocity it can reach while falling. Use your answer from part (a) to determine the terminal velocity of the falling body.      How far does the body need to fall before reaching terminal velocity?      A skydiver jumps from a plane cruising at an altitude of 20,000 feet. After 25 seconds, he opens his parachute and observes her altitude to be 14,800 feet. Use your model above, together with . How fast is the skydiver falling at 15 seconds?    "
+},
+{
+  "id": "a4",
+  "level": "1",
+  "url": "a4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "🏫 Activity 4 - Solving Higher-Order Linear Equations",
+  "body": " 🏫 Activity 4 - Solving Higher-Order Linear Equations    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     When finding a complementary solution to an th-order linear nonhomogeneous equation, we first find roots of the characteristic polynomial . We saw that these roots produce the fundamental solutions to the complementary equation. Summarize the different cases we may have for these roots and how they impact the structure of the complementary solution.      Consider the differential equation      Find the complementary solution to .      Find a particular solution of through the method of undetermined coefficients.      Find a particular solution of using an annhilator.      Find a particular solution of through variation of parameters.      Write down the general solution to .      If this were an exam question, and you were able to use any method of your choice, which would you chose and why?    These can be personal opinions ;D.       Use variation of parameters to show that the function is the general solution to the differential equation where     Recall that     "
+},
+{
+  "id": "a4-3",
+  "level": "2",
+  "url": "a4.html#a4-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  When finding a complementary solution to an th-order linear nonhomogeneous equation, we first find roots of the characteristic polynomial . We saw that these roots produce the fundamental solutions to the complementary equation. Summarize the different cases we may have for these roots and how they impact the structure of the complementary solution.   "
+},
+{
+  "id": "a4-4",
+  "level": "2",
+  "url": "a4.html#a4-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Consider the differential equation      Find the complementary solution to .      Find a particular solution of through the method of undetermined coefficients.      Find a particular solution of using an annhilator.      Find a particular solution of through variation of parameters.      Write down the general solution to .      If this were an exam question, and you were able to use any method of your choice, which would you chose and why?    These can be personal opinions ;D.    "
+},
+{
+  "id": "a4-5",
+  "level": "2",
+  "url": "a4.html#a4-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use variation of parameters to show that the function is the general solution to the differential equation where     Recall that    "
 }
 ]
 
