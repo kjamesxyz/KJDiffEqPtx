@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="hw5">
+    <title>📝 Homework 5</title>
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> This assignment is due <alert>Monday, July 20</alert>. Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
+        </p>
+    </introduction>
+
+
+    <exercise workspace="3in">
+        <statement>
+            <p>
+                A force of 400 N stretches a spring 2 m. A mass of 50 kg is attached to the end of a spring and is released from the equilibrium position with an upward velocity of 10 m/s. Find its equation of motion.
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise>
+        <introduction>
+            <p>
+                A mass of 20 kg is attached to a spring with <m>k = 20</m> N/m. It is released from the equilibrium position with an upward velocity of 10 m/s at the same time as the mass in problem 1. 
+            </p>
+        </introduction>
+
+        <task>
+            <statement>
+                <p>
+                    Which system experiences greater amplitude? Justify your answer
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    Which mass is moving faster at <m>t=\frac{\pi}{4}</m> seconds and why? At <m>t=\frac{\pi}{2}</m>?  
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+
+
+</worksheet>

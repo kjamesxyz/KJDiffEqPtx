@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="map5">
+    <title>🗺️ Module 5 Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>Monday, July 20</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            We have now seen several ways to solve higher-order linear ODEs. In this section, we will look at some applications and techniques for modelling real-world phenomena that are described by these types of systems.
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Use higher-order linear ODEs to describe real-world phenomena. </p></li>
+                <li><p> Understand and perform elementary sensitivity analysis on ODE models. </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>4</alert> videos (runtime). </p></li>
+                <li><p> Complete <alert>4</alert> checkpoints. </p></li>
+                <li><p> Add <alert>5</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all assigned problems in <alert>Homework 4</alert> </p></li>
+                <li><p> Finish any remaining work on <alert>Activity 3</alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+</section>

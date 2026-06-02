@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+    <!-- Include common macros etc: -->
+    <xi:include href="../docinfo.ptx" />
+    <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
+    <book>
+        <title>Differential Equations Exams</title>
+
+        <subtitle>MATH 262 Summer 2026</subtitle>
+
+        <xi:include href="../frontmatter.ptx" />
+
+        <chapter xml:id="exams">
+            <title>Exams</title>
+            <xi:include href="exam-template.ptx" />
+        </chapter>
+
+    </book>
+</pretext>
+
