@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="examx">
+  <title>Exams</title>
+  <introduction>
+    <p>
+      <alert>Instructions:</alert> You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct. 
+    </p>
+    <p>
+        For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of paper. You must use the colored paper provided during the exam. In this case, please clearly label which work corresponds to each exam question. If you are unsure of how to correctly answer a question, please list any relevant procedures, theorems, or definitions you are aware of that would be necessary for completing the problem.
+    </p>
+  </introduction>
+
+
+
+  <worksheet xml:id="exam-1">
+    <title>Exam 1</title>
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct. 
+        </p>
+        <p>
+            For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of paper. You must use the colored paper provided during the exam. In this case, please clearly label which work corresponds to each exam question. If you are unsure of how to correctly answer a question, please list any relevant procedures, theorems, or definitions you are aware of that would be necessary for completing the problem.
+        </p>
+    </introduction>
+    <page>
+        <exercise>
+            <introduction>
+                <p> Consider the differential equation <md> \frac{d^2y}{dx^2} - 2x \frac{dy}{dx} + 2y = 0.</md> </p> 
+            </introduction>
+            <task workspace="0.25in"> 
+                <p> Determine the order of the equation above. Justify your answer. </p> 
+            </task>
+            <task workspace="0.25in"> 
+                <p> Is the equation ordinary or partial? How do you know? </p> 
+            </task>
+            <task workspace="0.5in"> 
+                <p> Is the equation linear or nonlinear? How do you know? </p> 
+            </task>
+            <task workspace="0.5in"> 
+                <p> Is this equation homogeneous? How do you know? </p> 
+            </task>
+        </exercise>
+    </page>
+
+    <page>
+        <exercise workspace="2in">
+            <statement >
+                <p> Use separation of variables to find a solution to the initial-value problem <md> \frac{dy}{dx} = \frac{2x+1}{2y}; \hspace{10pt} y(-2)=-1. </md> </p>
+            </statement>
+        </exercise>
+
+        <exercise>
+            <introduction>
+                <p> Consider the differential equation <md> 4y \, dx = 4(x + y^6) \, dy </md> </p>
+            </introduction>
+            <task workspace="3in"> 
+                <p> Find the general solution of the equation by any method. </p> 
+            </task>
+            <task workspace="0.25in"> 
+                <p> Give the largest interval of existence for the solution you gave in part (a). </p> 
+            </task>
+        </exercise>
+    </page>
+
+    <page>
+        <exercise workspace="4in">
+            <statement>
+                <p> Solve the differential equation <md> (x + ye^{y/x}) \, dx - x e^{y/x} \, dy = 0. </md> using the substitution <m> u = y/x </m>.</p>
+            </statement>
+        </exercise>
+    </page> 
+
+    <page>
+        <exercise workspace="1in">
+            <introduction>
+                <p> Newton's Law of Cooling says that the rate at which a body cools is proportional to the difference in its temperature <m>T</m> and the ambient temperature <m>T_m</m>. </p>
+            </introduction>
+
+            <task workspace="0.25in">
+                <statement>
+                    <p> Write a differential equation that models Newton's Law of Cooling. </p>
+                </statement>
+            </task>
+
+            <task workspace="1in">
+                <statement>
+                    <p> Find a general solution to the model you wrote in part (a). </p> 
+                </statement>
+            </task>
+        
+            <task workspace="2in">
+                <statement>
+                    <p> Suppose a thermometer is taken out of a <m>70^\circ</m>F room and placed outside where the ambient temperature is <m>10^\circ</m>F. After 30 seconds, the thermometer has fallen to <m>50^\circ</m>F. Use your answer from part (b) to write a model for the temperature of the thermometer <m>T</m> after <m>t</m> seconds. </p> 
+                </statement>
+            </task>
+
+            <task workspace="1in">
+                <statement>
+                    <p> Determine how long will it take the thermometer to reach 15<m>^\circ</m>F. </p>
+                </statement>
+            </task>
+
+            <task workspace="1.5in">
+                <statement>
+                    <p> In your own words, explain the difference between the model you gave in part (a) and part (c). </p>
+                </statement>
+            </task>
+
+        </exercise>
+    </page>
+
+    <page>
+        <exercise>
+            <introduction> 
+                <p> The slope field for the differential equation <md> \frac{dy}{dx} = x(y-4)^2 - 2. </md> is shown below. </p> 
+            </introduction>
+
+            <task workspace="0.25in">
+                <statement> 
+                    <p> Identify the slope function of this differential equation. </p> 
+                </statement>
+            </task>
+        </exercise>
+            <!-- <task>
+                <introduction>
+                    <p> Describe the slope of the system on each of the curves below. </p>
+                </introduction>
+                <sidebyside>
+                    <task workspace="0.5in">
+                        <statement> <p> <m> x=0 </m> </p> </statement>
+                    </task>
+                    <task workspace="0.5in">
+                        <statement> <p> <m> y=4 </m> </p> </statement>
+                    </task>
+                </sidebyside>
+                <sidebyside>
+                    <task workspace="0.5in">
+                        <statement> <p> <m> y=3 </m> </p> </statement>
+                    </task>
+                    <task workspace="0.5in">
+                        <statement> <p> <m> y=5 </m> </p> </statement>
+                    </task>
+                </sidebyside>
+            </task>
+
+            <task>
+                <statement>
+                    <p> Use your answers from part (c) to sketch the graph of the slope field for this system in the axes provided below. Include at least two lineal elements (tiny line segment) that fall on each of the curves given in part (c). </p> 
+                    <image source="blankaxes.jpg" width="60%">
+                        <shortdescription>An blank set of axes for graphing.</shortdescription>
+                    </image>
+                </statement> 
+            </task> 
+        </exercise> -->
+    </page> 
+
+    <page>
+        <exercise>
+            <introduction>
+                <p> Consider the IVP <md> \frac{dy}{dx} = y^2 - 3y. </md> </p>
+            </introduction>
+
+            <task workspace="0.25in">
+                <statement> 
+                    <p> Identify the slope function of this differential equation. </p> 
+                </statement>
+            </task>
+            
+            <task workspace="0.5in">
+                <statement> 
+                    <p> Find all equilibria (nullclines) for the system. </p> 
+                </statement>
+            </task>
+
+            <task>
+                <statement> 
+                    <p> Use your answer(s) for part (b) to plot a phase portrait of the system on the set of axes below. Clearly sketch and label all equilibria and identify regions of increasing/descreasing slope. </p> 
+                    <image source="blankaxes.jpg" width="60%">
+                        <shortdescription>An blank set of axes for graphing.</shortdescription>
+                    </image>
+                </statement>
+            </task>
+
+            <task workspace="0.5in">
+                <statement> 
+                    <p> Classify the equilibria you found in part (b) as stable, unstable, or neither. Use the phase portrait your produced in part (c) to justify your answer. </p> 
+                </statement> 
+            </task> 
+        </exercise>
+    </page>
+
+  </worksheet>
+</section>
