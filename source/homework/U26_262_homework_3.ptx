@@ -42,6 +42,15 @@
     </task>
   </exercise>
 
+  <exercise workspace="5in">
+    <statement>
+        <p>
+            Newton's second law of motion gives that <md> mv' = F(t,v), </md> where <m> m </m> is the mass of the object and <m> v </m> is the velocity of the object at <m> t </m> seconds. A 50 kg object is shot from a cannon straight upward at 10 m/s off of a bridge 100 m high. Air resits the object at <m> 5v </m>. Determine the velocity of the object when it hits the ground (assume it does not collide with the bridge).  
+        </p>
+    </statement>
+  </exercise>
+
+
   <exercise workspace="3in">
     <statement>
         <p>

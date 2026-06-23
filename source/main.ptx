@@ -65,6 +65,8 @@
       <xi:include href="./loops/U26_262_loop_2.ptx" />
       <xi:include href="./loops/U26_262_loop_3.ptx" />
       <xi:include href="./loops/U26_262_loop_4.ptx" />
+      <xi:include href="./loops/U26_262_loop_6.ptx" />
+      <xi:include href="./loops/U26_262_loop_7.ptx" />
     </chapter>
 
 

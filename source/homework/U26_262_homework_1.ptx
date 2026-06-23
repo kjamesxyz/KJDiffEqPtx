@@ -11,7 +11,7 @@
         <exercise workspace="1in">
             <statement>
                 <p>
-                    Provide an example of a second-order, linear differential equation. Justify your answer.
+                    Provide an example of a second-order, linear ordinary differential equation. Justify your answer.
                 </p>
             </statement>
         </exercise>
@@ -19,7 +19,7 @@
         <exercise workspace="2in">
             <statement>
                 <p>
-                    Verify that the function <m>y = \sin(\ln(x))</m> is a solution to the differential equation <md> x^2 y''(x) + xy'(x) + y = 0 </md> and find its
+                    Verify that the function <m>y = \sin(\ln(x))</m> is a solution to the differential equation <md> x^2 y''(x) + xy'(x) + y = 0 </md> and find its largest interval of convergence.
                 </p>
             </statement>
         </exercise>
@@ -51,7 +51,7 @@
             <task workspace="1in">
                 <statement>
                     <p>
-                        Write an initial value problem that models the amount of salt in the tank over time. 
+                        Write (but do not solve) an initial value problem that models the amount of salt in the tank over time. 
                     </p>
                 </statement>
             </task>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="loop-7">
+    <title>🔎 Loop 7</title>
+
+    <introduction>
+        <p>
+            This page will serve as a viewing guide for content that will be required for class on <alert>Wednesday, July 22</alert>. 
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>
+            5.1 - Laplace Transforms
+        </title>
+        
+        <p>
+            In this section, we will learn to compute Laplace transforms. 
+            <ol>
+                <li><p> Watch <url href="https://youtu.be/l8gr3sFc--A">🎥 Video 5.1.1</url> (2:36). </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Verify all of the transforms showin in Theorem 7.1.1 (pg. 258). Then use these identities on preoblems 20-36 (evens) from Exercises 7.1 (pg. 261). </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>
+            5.2 - Inverse Laplace Transforms
+        </title>
+        
+        <p>
+            In this section, we will learn to compute inverse Laplace transforms.
+            <ol>
+                <li><p> Watch <url href="https://youtu.be/zUAs_OZPaA4"> 🎥 Video 5.2.1 </url> (4:07). </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 1-30 (alternating evens) in Exercises 7.2 (pg. 269-270). </p></li> 
+            </ol>
+        </p>
+    </subsection>
+        
+</section>
