@@ -133,7 +133,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 1",
-  "body": " 🔎 Loop 1   This page will serve as a viewing guide for the lecture videos on Chapter 1.    1.1 - What are differential equations?   Module 1 Objective 1: Students can distinguish between ordinary and partial differential equations.  Watch 🎥Video 1.1.1 .  Complete the ✅Checkpoint 1.1.1 .     Module 1 Objective 2: Students can determine the order of differential equations.  Watch 🎥Video 1.1.2 .  Complete the ✅Checkpoint 1.1.2 .  🎯 Practice: Try finding the order of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10).     Module 1 Objective 3: Students can distinguish between linear and nonlinear ordinary differential equations.  Watch 🎥Video 1.1.3 .  Complete the ✅Checkpoint 1.1.3 .  Try the list of 1.1 exercises from the 📝Homework 1 Practice Problems .  🎯 Practice: Determine whether each of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10) are linear.      1.2 - What are solutions to differential equations?   Module 1 Objective 4: Students can verify solutions to differential equations and find their intervals of existence.  Watch 🎥Video 1.2.1 .  Complete the ✅Checkpoint 1.2.1   Watch 🎥Video 1.2.2 .  Complete the ✅Checkpoint 1.2.2   🎯 Practice: Problems 11, 13, 21, 23 in Exercises 1.1 (pg. 10).      1.3 - Can we find solutions to differential equations?   Module 1 Objective 5: Students can model verify solutions to IVPs and find their intervals of existence.  Watch 🎥Video 1.3.1 .  Complete the ✅Checkpoint 1.3.1   Watch 🎥Video 1.3.2 .  🎯 Practice: Problems 4-8 (evens), 18, 22 in Exercises 1.2 (pg. 17).      1.4 - Why should I find solutions to differential equations?   Module 1 Objective 5: Students can model simple real-world phenomena with first-order initial value problems.  Watch 🎥Video 1.4.1 .  Complete the ✅Checkpoint 1.4.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .  🎯 Practice: Problems 1, 3, 5, 9, 13 in Exercises 1.3 (pg. 28).     "
+  "body": " 🔎 Loop 1   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 1 .    1.1 - What are differential equations?   Module 1 Objective 1: Students can distinguish between ordinary and partial differential equations.  Watch 🎥Video 1.1.1 .  Complete the ✅Checkpoint 1.1.1 .     Module 1 Objective 2: Students can determine the order of differential equations.  Watch 🎥Video 1.1.2 .  Complete the ✅Checkpoint 1.1.2 .  🎯 Practice: Try finding the order of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10).     Module 1 Objective 3: Students can distinguish between linear and nonlinear ordinary differential equations.  Watch 🎥Video 1.1.3 .  Complete the ✅Checkpoint 1.1.3 .  Try the list of 1.1 exercises from the 📝Homework 1 Practice Problems .  🎯 Practice: Determine whether each of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10) are linear.      1.2 - What are solutions to differential equations?   Module 1 Objective 4: Students can verify solutions to differential equations and find their intervals of existence.  Watch 🎥Video 1.2.1 .  Complete the ✅Checkpoint 1.2.1   Watch 🎥Video 1.2.2 .  Complete the ✅Checkpoint 1.2.2   🎯 Practice: Problems 11, 13, 21, 23 in Exercises 1.1 (pg. 10).      1.3 - Can we find solutions to differential equations?   Module 1 Objective 5: Students can model verify solutions to IVPs and find their intervals of existence.  Watch 🎥Video 1.3.1 .  Complete the ✅Checkpoint 1.3.1   Watch 🎥Video 1.3.2 .  🎯 Practice: Problems 4-8 (evens), 18, 22 in Exercises 1.2 (pg. 17).      1.4 - Why should I find solutions to differential equations?   Module 1 Objective 5: Students can model simple real-world phenomena with first-order initial value problems.  Watch 🎥Video 1.4.1 .  Complete the ✅Checkpoint 1.4.1 .  Try the list of 1.3 exercises from the 📝Homework 1 Practice Problems .  🎯 Practice: Problems 1, 3, 5, 9, 13 in Exercises 1.3 (pg. 28).     "
 },
 {
   "id": "loop-2",
@@ -142,7 +142,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 2",
-  "body": " 🔎 Loop 2   This page will serve as a viewing guide for the lecture videos on Chapter 2.    2.1 - Separable Equations  In this section, students will learn to classify and solve separable equations.  Watch 🎥Video 2.1.1 .  Complete the ✅Checkpoint 2.1.1 .  Watch 🎥Video 2.1.2 .  Complete the ✅Checkpoint 2.1.2 .  🎯 Practice: Problems 2-22 (alternating evens) in Exercises 2.2 (pg. 50).      2.2 - Linear Equations  In this section, students will learn to write linear equations and standard form and find their general solutions by using integrating factors.  Watch 🎥Video 2.2.1 .  Complete the ✅Checkpoint 2.2.1 .  Watch 🎥Video 2.2.2 .  Watch 🎥Video 2.2.3 .  Watch 🎥Video 2.2.4 .  🎯 Practice: Problems 2-24 (alternating evens) in Exercises 2.2 (pg. 60-61).      2.3 - Exact Equations  In this section, students will learn to classify and solve exact equations.  Watch 🎥Video 2.3.1 .  Complete the ✅Checkpoint 2.3.1 .  🎯 Practice: Problems 2-26 (alternating evens) in Exercises 2.3 (pg. 68-69).      2.4 - Substitution  In this section, students will learn how to simplify first-order differential equations using substitution.  Watch 🎥Video 2.4.1 .  🎯 Practice: Problems 2-10 (evens) in Exercises 2.5 (pg. 74).     "
+  "body": " 🔎 Loop 2   This page will serve as a viewing guide for content that will be required for class on Monday, July 6 .    2.1 - Separable Equations  In this section, students will learn to classify and solve separable equations.  Watch 🎥Video 2.1.1 .  Complete the ✅Checkpoint 2.1.1 .  Watch 🎥Video 2.1.2 .  Complete the ✅Checkpoint 2.1.2 .  🎯 Practice: Problems 2-22 (alternating evens) in Exercises 2.2 (pg. 50).      2.2 - Linear Equations  In this section, students will learn to write linear equations and standard form and find their general solutions by using integrating factors.  Watch 🎥Video 2.2.1 .  Complete the ✅Checkpoint 2.2.1 .  Watch 🎥Video 2.2.2 .  Watch 🎥Video 2.2.3 .  Watch 🎥Video 2.2.4 .  🎯 Practice: Problems 2-24 (alternating evens) in Exercises 2.2 (pg. 60-61).      2.3 - Exact Equations  In this section, students will learn to classify and solve exact equations.  Watch 🎥Video 2.3.1 .  Complete the ✅Checkpoint 2.3.1 .  🎯 Practice: Problems 2-26 (alternating evens) in Exercises 2.3 (pg. 68-69).      2.4 - Substitution  In this section, students will learn how to simplify first-order differential equations using substitution.  Watch 🎥Video 2.4.1 .  🎯 Practice: Problems 2-10 (evens) in Exercises 2.5 (pg. 74).     "
 },
 {
   "id": "loop-3",
@@ -151,7 +151,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 3",
-  "body": " 🔎 Loop 3   This is an example of what a learning loop looks like for a chapter.    2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs.  Watch 🎥 Video 2.5.1 (7:35).  Complete ✅ Checkpoint 2.5.1 .  Watch 🎥 Video 2.5.2 (11:30).  Complete ✅ Checkpoint 2.5.2 .  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).      2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs.   Watch 🎥 Video 2.6.1 .  Complete ✅ Checkpoint 2.6.1 .  Watch 🎥 Video 2.6.2 (17:46).  Complete ✅ Checkpoint 2.6.2 .  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).     "
+  "body": " 🔎 Loop 3   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 8 .    2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs.  Watch 🎥 Video 2.5.1 (7:35).  Complete ✅ Checkpoint 2.5.1 .  Watch 🎥 Video 2.5.2 (11:30).  Complete ✅ Checkpoint 2.5.2 .  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).      3.1 - Existence & Uniqueness for Higher-Order Linear ODEs  In this section, we will explore the existence and uniqueness of solution for higher-order linear ODEs. This section satisfies module objective 1.  Watch 🎥 Video 3.1.1 (7:01).  Complete ✅ Checkpoint 3.1.1 .  Watch 🎥 Video 3.1.2 (5:45).  Watch 🎥 Video 3.1.3 (5:07).  🎯 Practice: Problems 2,4 in Exercises 4.1 (pg. 128).  Watch 🎥 Video 3.1.4 (TBD) WRONG LINK.  🎯 Practice: Problems 5-6 in Exercises 4.1 (pg. 128).  Watch 🎥 Video 3.1.5 (18:06).  🎯 Practice: Problems 7-8 in Exercises 4.1 (pg. 128-129).     "
 },
 {
   "id": "loop-4",
@@ -160,7 +160,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 4",
-  "body": " 🔎 Loop 4   Students should complete all content in this loop before class Monday, July 13 .    3.1 - Existence & Uniqueness for Higher-Order Linear ODEs  In this section, we will explore the existence and uniqueness of solution for higher-order linear ODEs. This section satisfies module objective 1.  Watch 🎥 Video 3.1.1 (7:01).  Complete ✅ Checkpoint 3.1.1 .  Watch 🎥 Video 3.1.2 (5:45).  Watch 🎥 Video 3.1.3 (5:07).  Watch 🎥 Video 3.1.4 (TBD) WRONG LINK.  Watch 🎥 Video 3.1.5 (18:06).  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).      3.2 - Method of Undetermined Coefficients  In this section, students will learn to solve higher-order linear ODEs with the method of undetermined coefficients. This section satisfies module objectives 2 and 3.  Videos here      3.3 - Variation of Parameters  In this section, students will learn to solve higher-order linear ODEs through variation of parameters. This section satisfies module objective 4.  Videos here     "
+  "body": " 🔎 Loop 4   Students should complete all content in this loop before class Monday, July 13 .    3.2 - Higher-Order Homogeneous Equations  In this section, students will learn to solve higher-order linear homogeneous ODEs using their characteristic polynomials. This section satisfies module objectives 2 and 3.  Watch 🎥 Video 3.2.1   🎯 Practice: Find the characteristic polynomial for the differential equations in problems 2-28 (alternative evens) in Exercises 4.3 (pg. 138).  Watch 🎥 Video 3.2.2   🎯 Practice: Finish problems 2-28 (alternating evens) in Exercises 4.3 (pg. 138).      3.3 - Method of Undetermined Coefficients  In this section, students will learn to solve higher-order linear nonhomogeneous ODEs using the method of undetermined coefficients. This section satisfies module objective 4.  Watch 🎥 Video 3.3.1 .  🎯 Practice: Problems 2, 4, 8, 14, 16, 28 in Exercises 4.4 (pg.148).  Watch 🎥 Video 3.3.2 .  🎯 Practice: Problems 6, 10, 18, 24, 30 in Exercises 4.4 (pg.148).  🎥 Video 3.3.3 .  🎯 Practice: Problems 16-34 (evens) in Exercises 4.5 (pg.156-157).  🎥 Video 3.3.4 .  🎯 Practice: Problems 36-64 (alternating evens) in Exercises 4.5 (pg.156-157).      3.4 - Variation of Parameters  In this section, students will learn to solve higher-order linear nonhomogeneous ODEs using variation of parameters. This section satisfies module objective 4.  Watch 🎥 Video 3.4.1 .  Watch 🎥 Video 3.4.2 .  🎯 Practice: Problems 2-22 in Exercises 4.6 (pg.161-162).     "
+},
+{
+  "id": "loop-6",
+  "level": "1",
+  "url": "loop-6.html",
+  "type": "Section",
+  "number": "",
+  "title": "🔎 Loop 6",
+  "body": " 🔎 Loop 6   This page will serve as a viewing guide for content that will be required for class on Monday, July 20 .    4.1 - Review of Power Series.  In this section, we will review properties of power series that will be necessary for finding series solutions.  Watch 🎥 Video 4.1.1 (4:21).  🎯 Practice: Problems 1-8 from Exercises 6.1 (pg. 230).  Watch 🎥 Video 4.1.1 (4:42).  🎯 Practice: Problems 9-14 from Exercises 6.1 (pg. 230).      4.2 - Series Solutions about Ordinary Points  In this section, we will identify ordinary and singular points. We will also develop series solutions for linear ODEs  Watch 🎥 Video 4.2.1 (17:55).  🎯 Practice: Problems 18-28 (evens) in Exercises 6.1 (pg.230).  Watch 🎥 Video 4.2.2 (9:19).  🎯 Practice: Problems 33-34 (evens) in Exercises 6.1 (pg.230).      4.3 - Series Solutions about Singular Points  In this section, we will identify ordinary and singular points. We will also develop series solutions for linear ODEs  Watch .  🎯 Practice: Problems 16-24 (evens) in Exercises 6.2 (pg.239).     "
+},
+{
+  "id": "loop-7",
+  "level": "1",
+  "url": "loop-7.html",
+  "type": "Section",
+  "number": "",
+  "title": "🔎 Loop 7",
+  "body": " 🔎 Loop 7   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 22 .    5.1 - Laplace Transforms  In this section, we will learn to compute Laplace transforms.  Watch 🎥 Video 5.1.1 (2:36).  🎯 Practice: Verify all of the transforms showin in Theorem 7.1.1 (pg. 258). Then use these identities on preoblems 20-36 (evens) from Exercises 7.1 (pg. 261).      5.2 - Inverse Laplace Transforms  In this section, we will learn to compute inverse Laplace transforms.  Watch 🎥 Video 5.2.1 (4:07).  🎯 Practice: Problems 1-30 (alternating evens) in Exercises 7.2 (pg. 269-270).     "
 },
 {
   "id": "hwx-assigned",
@@ -187,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "📝 Homework 1",
-  "body": " 📝 Homework 1    Instructions: This assignment is due Wednesday, July 1 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.      Provide an example of a second-order, linear differential equation. Justify your answer.      Verify that the function is a solution to the differential equation and find its        A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min. The concentration of salt in the mixture is measured over time.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.      "
+  "body": " 📝 Homework 1    Instructions: This assignment is due Wednesday, July 1 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.      Provide an example of a second-order, linear ordinary differential equation. Justify your answer.      Verify that the function is a solution to the differential equation and find its largest interval of convergence.        A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min. The concentration of salt in the mixture is measured over time.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write (but do not solve) an initial value problem that models the amount of salt in the tank over time.      "
 },
 {
   "id": "hw1-assigned-3-1",
@@ -196,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Provide an example of a second-order, linear differential equation. Justify your answer.   "
+  "body": "  Provide an example of a second-order, linear ordinary differential equation. Justify your answer.   "
 },
 {
   "id": "hw1-assigned-3-2",
@@ -205,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Verify that the function is a solution to the differential equation and find its   "
+  "body": "  Verify that the function is a solution to the differential equation and find its largest interval of convergence.   "
 },
 {
   "id": "hw1-assigned-4-1",
@@ -214,7 +232,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min. The concentration of salt in the mixture is measured over time.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write an initial value problem that models the amount of salt in the tank over time.    "
+  "body": "  A tank is holding 1000L of pure water. A brine solution (0.1 kg\/L) is poured into the tank at a constant rate of 6L\/min. The solution in the tank is always kept well-stirred and is drained out of the tank at 6 L\/min. The concentration of salt in the mixture is measured over time.     Draw a picture of the scenario.      Identify and label the dependent and independent variabels in the scenario.      Write (but do not solve) an initial value problem that models the amount of salt in the tank over time.    "
 },
 {
   "id": "hw2",
@@ -223,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "📝 Homework 2",
-  "body": " 📝 Homework 2    Instructions: This assignment is due Monday, July 6 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                                "
+  "body": " 📝 Homework 2    Instructions: This assignment is due Monday, July 6 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method. I would recommend trying multiple methods to get more diverse feedback.                                "
 },
 {
   "id": "hw2-3",
@@ -232,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                               "
+  "body": "  Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method. I would recommend trying multiple methods to get more diverse feedback.                               "
 },
 {
   "id": "hw3",
@@ -241,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "📝 Homework 3",
-  "body": " 📝 Homework 3    Instructions: This assignment is due Wednesday, July 8 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     The amount of a radioactive substance after years decays proportionally to itself. That is      Write a first-order linear differential equation that models the radioactive decay of a substance assuming their is an initial amount .      Find the solution to the differential equation in your model.      The half-life of a radioactive substance is the amount of time it takes to lose half of its mass (amount). Use your model to derive a formula for the half-life of a radioactive substance.       Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?      A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?     "
+  "body": " 📝 Homework 3    Instructions: This assignment is due Wednesday, July 8 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     The amount of a radioactive substance after years decays proportionally to itself. That is      Write a first-order linear differential equation that models the radioactive decay of a substance assuming their is an initial amount .      Find the solution to the differential equation in your model.      The half-life of a radioactive substance is the amount of time it takes to lose half of its mass (amount). Use your model to derive a formula for the half-life of a radioactive substance.       Newton's second law of motion gives that where is the mass of the object and is the velocity of the object at seconds. A 50 kg object is shot from a cannon straight upward at 10 m\/s off of a bridge 100 m high. Air resits the object at . Determine the velocity of the object when it hits the ground (assume it does not collide with the bridge).      Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?      A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?     "
 },
 {
   "id": "hw3-3",
@@ -259,7 +277,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?   "
+  "body": "  Newton's second law of motion gives that where is the mass of the object and is the velocity of the object at seconds. A 50 kg object is shot from a cannon straight upward at 10 m\/s off of a bridge 100 m high. Air resits the object at . Determine the velocity of the object when it hits the ground (assume it does not collide with the bridge).   "
 },
 {
   "id": "hw3-5",
@@ -267,6 +285,15 @@ var ptx_lunr_docs = [
   "url": "hw3.html#hw3-5",
   "type": "Worksheet Exercise",
   "number": "3",
+  "title": "",
+  "body": "  Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?   "
+},
+{
+  "id": "hw3-6",
+  "level": "2",
+  "url": "hw3.html#hw3-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
   "title": "",
   "body": "  A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?    "
 },
