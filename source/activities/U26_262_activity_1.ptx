@@ -102,6 +102,50 @@
 
   </exercise>
 
+  <exercise xml:id="act1-p5">
+    <introduction>
+      <p>
+        Consider the differential equation <md number="yes" xml:id="act1-p5-eqn">
+          x'' + 16x = 0.
+        </md>
+      </p>
+    </introduction>
+
+    <task workspace="2in">
+      <statement>
+        <p>
+          Verify that functions from the two-parameter family <md>
+            x = c_1 \cos(4t) + c_2 \sin(4t)
+          </md> are solutions to <xref ref="act1-p5-eqn"/> on <m>(-\infty,\infty)</m>
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="1in">
+      <statement>
+        <p>
+          Suppose now that we add the initial condition that <m>x\left(\frac{\pi}{2}\right) = -2</m>. What new information can you learn about the solution(s) to <xref ref="act1-p5-eqn"/>? 
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="1in">
+      <statement>
+        <p>
+          Suppose now that we add the initial condition that <m>x'\left(\frac{\pi}{2}\right) = 1</m>. What new information can you learn about the solution(s) to <xref ref="act1-p5-eqn"/>? 
+        </p>
+      </statement>
+    </task>
+
+    <task workspace="2in">
+      <statement>
+        <p>
+          Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an <alert><m>n^{\text{th}}</m>-order</alert> IVP to require in order to have unique solutions? Write the general form of an <m>n^{\text{th}}</m>-order IVP below. 
+        </p>
+      </statement>
+    </task>
+  </exercise>
+  
   <exercise>
     <introduction>
       <p>
@@ -153,47 +197,5 @@
 
   </exercise>
 
-  <exercise xml:id="act1-p5">
-    <introduction>
-      <p>
-        Consider the differential equation <md number="yes" xml:id="act1-p5-eqn">
-          x'' + 16x = 0.
-        </md>
-      </p>
-    </introduction>
-
-    <task workspace="2in">
-      <statement>
-        <p>
-          Verify that functions from the two-parameter family <md>
-            x = c_1 \cos(4t) + c_2 \sin(4t)
-          </md> are solutions to <xref ref="act1-p5-eqn"/> on <m>(-\infty,\infty)</m>
-        </p>
-      </statement>
-    </task>
-
-    <task workspace="1in">
-      <statement>
-        <p>
-          Suppose now that we add the initial condition that <m>x\left(\frac{\pi}{2}\right) = -2</m>. What new information can you learn about the solution(s) to <xref ref="act1-p5-eqn"/>? 
-        </p>
-      </statement>
-    </task>
-
-    <task workspace="1in">
-      <statement>
-        <p>
-          Suppose now that we add the initial condition that <m>x'\left(\frac{\pi}{2}\right) = 1</m>. What new information can you learn about the solution(s) to <xref ref="act1-p5-eqn"/>? 
-        </p>
-      </statement>
-    </task>
-
-    <task workspace="2in">
-      <statement>
-        <p>
-          Notice that first-order IVPs require one initial condition to have unique solutions. Second-order IVPs require two initial conditions to have unique solutions. How many initial conditions do you suspect an <alert><m>n^{\text{th}}</m>-order</alert> IVP to require in order to have unique solutions? Write the general form of an <m>n^{\text{th}}</m>-order IVP below. 
-        </p>
-      </statement>
-    </task>
-  </exercise>
+  
 </worksheet>

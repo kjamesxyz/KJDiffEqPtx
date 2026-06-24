@@ -16,7 +16,6 @@
                 <li><p> A first-order differential equation is <alert>separable</alert> when it can be written in the form <m>\dydx = </m><fillin characters="10"/> </p></li>
                 <li><p> A first-order linear differential equation is in <alert>standard form</alert> when it is written <fillin characters="10"/>  </p></li>
                 <li><p> The formula for the integrating factor for first-order linear equations is <m>\mu = </m><fillin characters="10"/>. </p></li>
-                <li><p> The equation <m>M(x,y)dx + N(x,y)dy = 0</m> is <alert>exact</alert> when <fillin characters="10"/>. </p></li>
             </ol>
         </p>
     </subsection>
