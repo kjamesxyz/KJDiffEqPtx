@@ -36,11 +36,11 @@ window.MathJax = {
     "packages": {
       "[+]": [
         "base",
+        "extpfeil",
         "ams",
         "amscd",
         "color",
         "newcommand",
-        "textmacros",
         "knowl"
       ]
     }
@@ -56,10 +56,10 @@ window.MathJax = {
   "loader": {
     "load": [
       "input/asciimath",
+      "[tex]/extpfeil",
       "[tex]/amscd",
       "[tex]/color",
       "[tex]/newcommand",
-      "[tex]/textmacros",
       "[pretext]/mathjaxknowl3.js"
     ],
     "paths": {
@@ -247,8 +247,7 @@ eBookConfig.enable_chatcodes =  false;
 <ul class="structural toc-item-list active">
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-1.html#loop-1-3" class="internal"><span class="title">1.1 - What are differential equations?</span></a></div></li>
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-1.html#loop-1-4" class="internal"><span class="title">1.2 - What are solutions to differential equations?</span></a></div></li>
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-1.html#loop-1-5" class="internal"><span class="title">1.3 - Can we find solutions to differential equations?</span></a></div></li>
-<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-1.html#loop-1-6" class="internal"><span class="title">1.4 - Why should I find solutions to differential equations?</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-1.html#loop-1-5" class="internal"><span class="title">1.3 - Why should I find solutions to differential equations?</span></a></div></li>
 </ul>
 </li>
 <li class="toc-item toc-section">
@@ -314,192 +313,141 @@ eBookConfig.enable_chatcodes =  false;
 </ul>
 </li>
 </ul></nav></div>
-<main class="ptx-main"><div id="ptx-content" class="ptx-content">
-<section class="section" id="loop-1">
-<h2 class="heading hide-type">
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="loop-1"><h2 class="heading hide-type">
 <span class="type">Section</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">🔎 Loop 1</span>
 </h2>
-<section class="introduction" id="loop-1-2">
-<div class="para" id="loop-1-2-1">This page will serve as a viewing guide for content that will be required for class on <em class="alert">Wednesday, July 1</em>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></section>
-<section class="subsection" id="loop-1-3">
-<h3 class="heading hide-type">
+<section class="introduction" id="loop-1-2"><div class="para" id="loop-1-2-1">This page will serve as a viewing guide for content that will be required for class on <em class="alert">Wednesday, July 1</em>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></section><section class="subsection" id="loop-1-3"><h3 class="heading hide-type">
 <span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">1.1 - What are differential equations?</span>
 </h3>
 <div class="para logical" id="loop-1-3-2">
-<div class="para">
-<em class="alert">Module 1 Objective 1:</em> Students can distinguish between ordinary and partial differential equations.</div>
-<ol class="decimal" id="loop-1-3-2-2">
-<li id="loop-1-3-2-2-1">
-<div class="para" id="loop-1-3-2-2-1-1">Watch <a class="external" href="https://youtu.be/zs-1vviWWJY" target="_blank">🎥Video 1.1.1</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para">In this section, we will learn language to describe and classify differential equations. This section satisfies module objectives 1-3.</div>
+<ol class="decimal" id="loop-1-3-2-1">
+<li id="loop-1-3-2-1-1">
+<div class="para" id="loop-1-3-2-1-1-1">Watch <a class="external" href="https://youtu.be/zs-1vviWWJY" target="_blank">🎥Video 1.1.1</a> (1:43).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 1"><a href="#loop-1-3-2-2-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+<div class="autopermalink" data-description="Item 1"><a href="#loop-1-3-2-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
 </li>
-<li id="loop-1-3-2-2-2">
-<div class="para" id="loop-1-3-2-2-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344568" target="_blank">✅Checkpoint 1.1.1</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="loop-1-3-2-1-2">
+<div class="para" id="loop-1-3-2-1-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344568" target="_blank">✅Checkpoint 1.1.1</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2"><a href="#loop-1-3-2-2-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+<div class="autopermalink" data-description="Item 2"><a href="#loop-1-3-2-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+</li>
+<li id="loop-1-3-2-1-3">
+<div class="para" id="loop-1-3-2-1-3-1">Watch <a class="external" href="https://youtu.be/x-mNPZuX33Y" target="_blank">🎥Video 1.1.2</a> (2:02).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 3"><a href="#loop-1-3-2-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+</li>
+<li id="loop-1-3-2-1-4">
+<div class="para" id="loop-1-3-2-1-4-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344570" target="_blank">✅Checkpoint 1.1.2</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 4"><a href="#loop-1-3-2-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+</li>
+<li id="loop-1-3-2-1-5">
+<div class="para" id="loop-1-3-2-1-5-1">🎯 <em class="alert">Practice:</em> Try finding the order of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 5"><a href="#loop-1-3-2-1-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
+</li>
+<li id="loop-1-3-2-1-6">
+<div class="para" id="loop-1-3-2-1-6-1">Watch <a class="external" href="https://youtu.be/Db-199xwWcw" target="_blank">🎥Video 1.1.3</a> (4:51).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 6"><a href="#loop-1-3-2-1-6" title="Copy heading and permalink for Item 6" aria-label="Copy heading and permalink for Item 6">🔗</a></div>
+</li>
+<li id="loop-1-3-2-1-7">
+<div class="para" id="loop-1-3-2-1-7-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344572" target="_blank">✅Checkpoint 1.1.3</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-1-7-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 7"><a href="#loop-1-3-2-1-7" title="Copy heading and permalink for Item 7" aria-label="Copy heading and permalink for Item 7">🔗</a></div>
+</li>
+<li id="loop-1-3-2-1-8">
+<div class="para" id="loop-1-3-2-1-8-1">🎯 <em class="alert">Practice:</em> Determine whether each of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10) are linear.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2-1-8-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 8"><a href="#loop-1-3-2-1-8" title="Copy heading and permalink for Item 8" aria-label="Copy heading and permalink for Item 8">🔗</a></div>
 </li>
 </ol>
+<div class="para">After completing this list, you can complete problem 1 from homework 1.</div>
 <div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="para logical" id="loop-1-3-3">
-<div class="para">
-<em class="alert">Module 1 Objective 2:</em> Students can determine the order of differential equations.</div>
-<ol class="decimal" id="loop-1-3-3-2">
-<li id="loop-1-3-3-2-1">
-<div class="para" id="loop-1-3-3-2-1-1">Watch <a class="external" href="https://youtu.be/x-mNPZuX33Y" target="_blank">🎥Video 1.1.2</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-3-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1"><a href="#loop-1-3-3-2-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
-</li>
-<li id="loop-1-3-3-2-2">
-<div class="para" id="loop-1-3-3-2-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344570" target="_blank">✅Checkpoint 1.1.2</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-3-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 2"><a href="#loop-1-3-3-2-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
-</li>
-<li id="loop-1-3-3-2-3">
-<div class="para" id="loop-1-3-3-2-3-1">🎯 <em class="alert">Practice:</em> Try finding the order of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-3-2-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 3"><a href="#loop-1-3-3-2-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
-</li>
-</ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-3" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="para logical" id="loop-1-3-4">
-<div class="para">
-<em class="alert">Module 1 Objective 3:</em> Students can distinguish between linear and nonlinear ordinary differential equations.</div>
-<ol class="decimal" id="loop-1-3-4-2">
-<li id="loop-1-3-4-2-1">
-<div class="para" id="loop-1-3-4-2-1-1">Watch <a class="external" href="https://youtu.be/Db-199xwWcw" target="_blank">🎥Video 1.1.3</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-4-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1"><a href="#loop-1-3-4-2-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
-</li>
-<li id="loop-1-3-4-2-2">
-<div class="para" id="loop-1-3-4-2-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344572" target="_blank">✅Checkpoint 1.1.3</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-4-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 2"><a href="#loop-1-3-4-2-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
-</li>
-<li id="loop-1-3-4-2-3">
-<div class="para" id="loop-1-3-4-2-3-1">Try the list of 1.1 exercises from the <a class="external" href="https://canvas.svsu.edu/courses/93320/modules/items/3489211" target="_blank">📝Homework 1 Practice Problems</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-4-2-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 3"><a href="#loop-1-3-4-2-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
-</li>
-<li id="loop-1-3-4-2-4">
-<div class="para" id="loop-1-3-4-2-4-1">🎯 <em class="alert">Practice:</em> Determine whether each of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10) are linear.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-4-2-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 4"><a href="#loop-1-3-4-2-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
-</li>
-</ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-3-4" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Subsection: 1.1 - What are differential equations?"><a href="#loop-1-3" title="Copy heading and permalink for Subsection: 1.1 - What are differential equations?" aria-label="Copy heading and permalink for Subsection: 1.1 - What are differential equations?">🔗</a></div>
-</section>
-<section class="subsection" id="loop-1-4">
-<h3 class="heading hide-type">
+<div class="autopermalink" data-description="Subsection: 1.1 - What are differential equations?"><a href="#loop-1-3" title="Copy heading and permalink for Subsection: 1.1 - What are differential equations?" aria-label="Copy heading and permalink for Subsection: 1.1 - What are differential equations?">🔗</a></div></section><section class="subsection" id="loop-1-4"><h3 class="heading hide-type">
 <span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">1.2 - What are solutions to differential equations?</span>
 </h3>
 <div class="para logical" id="loop-1-4-2">
-<div class="para">
-<em class="alert">Module 1 Objective 4:</em> Students can verify solutions to differential equations and find their intervals of existence.</div>
-<ol class="decimal" id="loop-1-4-2-2">
-<li id="loop-1-4-2-2-1">
-<div class="para" id="loop-1-4-2-2-1-1">Watch <a class="external" href="https://youtu.be/3hIATXSFkuM" target="_blank">🎥Video 1.2.1</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para">In this section, we will learn what solutions to differential equations look like. We will also learn how to verify them and check for intervals of existence. This section satisfies module objectives 4-5.</div>
+<ol class="decimal" id="loop-1-4-2-1">
+<li id="loop-1-4-2-1-1">
+<div class="para" id="loop-1-4-2-1-1-1">Watch <a class="external" href="https://youtu.be/3hIATXSFkuM" target="_blank">🎥Video 1.2.1</a> (7:46).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 1"><a href="#loop-1-4-2-2-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+<div class="autopermalink" data-description="Item 1"><a href="#loop-1-4-2-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
 </li>
-<li id="loop-1-4-2-2-2">
-<div class="para" id="loop-1-4-2-2-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344574" target="_blank">✅Checkpoint 1.2.1</a><div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="loop-1-4-2-1-2">
+<div class="para" id="loop-1-4-2-1-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344574" target="_blank">✅Checkpoint 1.2.1</a><div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2"><a href="#loop-1-4-2-2-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+<div class="autopermalink" data-description="Item 2"><a href="#loop-1-4-2-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
 </li>
-<li id="loop-1-4-2-2-3">
-<div class="para" id="loop-1-4-2-2-3-1">Watch <a class="external" href="https://youtu.be/BhrCFH-tUhQ" target="_blank">🎥Video 1.2.2</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-2-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="loop-1-4-2-1-3">
+<div class="para" id="loop-1-4-2-1-3-1">Watch <a class="external" href="https://youtu.be/BhrCFH-tUhQ" target="_blank">🎥Video 1.2.2</a> (4:16).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 3"><a href="#loop-1-4-2-2-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
+<div class="autopermalink" data-description="Item 3"><a href="#loop-1-4-2-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
 </li>
-<li id="loop-1-4-2-2-4">
-<div class="para" id="loop-1-4-2-2-4-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/346580" target="_blank">✅Checkpoint 1.2.2</a><div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-2-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="loop-1-4-2-1-4">
+<div class="para" id="loop-1-4-2-1-4-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/346580" target="_blank">✅Checkpoint 1.2.2</a><div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 4"><a href="#loop-1-4-2-2-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+<div class="autopermalink" data-description="Item 4"><a href="#loop-1-4-2-1-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
 </li>
-<li id="loop-1-4-2-2-5">
-<div class="para" id="loop-1-4-2-2-5-1">🎯 <em class="alert">Practice:</em> Problems 11, 13, 21, 23 in Exercises 1.1 (pg. 10).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-2-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="loop-1-4-2-1-5">
+<div class="para" id="loop-1-4-2-1-5-1">🎯 <em class="alert">Practice:</em> Problems 11, 13, 21, 23 in Exercises 1.1 (pg. 10).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-5-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 5"><a href="#loop-1-4-2-2-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
+<div class="autopermalink" data-description="Item 5"><a href="#loop-1-4-2-1-5" title="Copy heading and permalink for Item 5" aria-label="Copy heading and permalink for Item 5">🔗</a></div>
+</li>
+<li id="loop-1-4-2-1-6">
+<div class="para" id="loop-1-4-2-1-6-1">Watch <a class="external" href="https://youtu.be/He43eYE0o8A" target="_blank">🎥Video 1.2.3</a> (3:28).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-6-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 6"><a href="#loop-1-4-2-1-6" title="Copy heading and permalink for Item 6" aria-label="Copy heading and permalink for Item 6">🔗</a></div>
+</li>
+<li id="loop-1-4-2-1-7">
+<div class="para" id="loop-1-4-2-1-7-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/348018344574" target="_blank">✅Checkpoint 1.3.1</a><div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-7-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 7"><a href="#loop-1-4-2-1-7" title="Copy heading and permalink for Item 7" aria-label="Copy heading and permalink for Item 7">🔗</a></div>
+</li>
+<li id="loop-1-4-2-1-8">
+<div class="para" id="loop-1-4-2-1-8-1">Watch <a class="external" href="https://youtu.be/f8O8pxoDhU8" target="_blank">🎥Video 1.2.4</a> (3:27).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-8-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 8"><a href="#loop-1-4-2-1-8" title="Copy heading and permalink for Item 8" aria-label="Copy heading and permalink for Item 8">🔗</a></div>
+</li>
+<li id="loop-1-4-2-1-9">
+<div class="para" id="loop-1-4-2-1-9-1">🎯 <em class="alert">Practice:</em> Problems 4-8 (evens), 18, 22 in Exercises 1.2 (pg. 17).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2-1-9-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="autopermalink" data-description="Item 9"><a href="#loop-1-4-2-1-9" title="Copy heading and permalink for Item 9" aria-label="Copy heading and permalink for Item 9">🔗</a></div>
 </li>
 </ol>
+<div class="para">After completing this list, you can complete problem 2 from homework 1.</div>
 <div class="autopermalink" data-description="Paragraph"><a href="#loop-1-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Subsection: 1.2 - What are solutions to differential equations?"><a href="#loop-1-4" title="Copy heading and permalink for Subsection: 1.2 - What are solutions to differential equations?" aria-label="Copy heading and permalink for Subsection: 1.2 - What are solutions to differential equations?">🔗</a></div>
-</section>
-<section class="subsection" id="loop-1-5">
-<h3 class="heading hide-type">
-<span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">1.3 - Can we find solutions to differential equations?</span>
+<div class="autopermalink" data-description="Subsection: 1.2 - What are solutions to differential equations?"><a href="#loop-1-4" title="Copy heading and permalink for Subsection: 1.2 - What are solutions to differential equations?" aria-label="Copy heading and permalink for Subsection: 1.2 - What are solutions to differential equations?">🔗</a></div></section><section class="subsection" id="loop-1-5"><h3 class="heading hide-type">
+<span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">1.3 - Why should I find solutions to differential equations?</span>
 </h3>
 <div class="para logical" id="loop-1-5-2">
-<div class="para">
-<em class="alert">Module 1 Objective 5:</em> Students can model verify solutions to IVPs and find their intervals of existence.</div>
-<ol class="decimal" id="loop-1-5-2-2">
-<li id="loop-1-5-2-2-1">
-<div class="para" id="loop-1-5-2-2-1-1">Watch <a class="external" href="https://youtu.be/He43eYE0o8A" target="_blank">🎥Video 1.3.1</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-5-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para">In this section, we will model some simple real-world phenomena using differential equations. We will also investigate the additional context we can glean from using differential equations (as opposed to algebraic equations) in these models.</div>
+<ol class="decimal" id="loop-1-5-2-1">
+<li id="loop-1-5-2-1-1">
+<div class="para" id="loop-1-5-2-1-1-1">Watch <a class="external" href="https://youtu.be/bzhYY0xXufM" target="_blank">🎥Video 1.4.1</a> (7:38).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-5-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 1"><a href="#loop-1-5-2-2-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
+<div class="autopermalink" data-description="Item 1"><a href="#loop-1-5-2-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
 </li>
-<li id="loop-1-5-2-2-2">
-<div class="para" id="loop-1-5-2-2-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/348018344574" target="_blank">✅Checkpoint 1.3.1</a><div class="autopermalink" data-description="Paragraph"><a href="#loop-1-5-2-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="loop-1-5-2-1-2">
+<div class="para" id="loop-1-5-2-1-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344576" target="_blank">✅Checkpoint 1.4.1</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-5-2-1-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 2"><a href="#loop-1-5-2-2-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
+<div class="autopermalink" data-description="Item 2"><a href="#loop-1-5-2-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
 </li>
-<li id="loop-1-5-2-2-3">
-<div class="para" id="loop-1-5-2-2-3-1">Watch <a class="external" href="https://youtu.be/f8O8pxoDhU8" target="_blank">🎥Video 1.3.2</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-5-2-2-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<li id="loop-1-5-2-1-3">
+<div class="para" id="loop-1-5-2-1-3-1">🎯 <em class="alert">Practice:</em> Problems 1, 3, 5, 9, 13 in Exercises 1.3 (pg. 28).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-5-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Item 3"><a href="#loop-1-5-2-2-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
-</li>
-<li id="loop-1-5-2-2-4">
-<div class="para" id="loop-1-5-2-2-4-1">🎯 <em class="alert">Practice:</em> Problems 4-8 (evens), 18, 22 in Exercises 1.2 (pg. 17).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-5-2-2-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 4"><a href="#loop-1-5-2-2-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
+<div class="autopermalink" data-description="Item 3"><a href="#loop-1-5-2-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
 </li>
 </ol>
+<div class="para">After completing this list, you can complete problem 3 from homework 1.</div>
 <div class="autopermalink" data-description="Paragraph"><a href="#loop-1-5-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Subsection: 1.3 - Can we find solutions to differential equations?"><a href="#loop-1-5" title="Copy heading and permalink for Subsection: 1.3 - Can we find solutions to differential equations?" aria-label="Copy heading and permalink for Subsection: 1.3 - Can we find solutions to differential equations?">🔗</a></div>
-</section>
-<section class="subsection" id="loop-1-6">
-<h3 class="heading hide-type">
-<span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">1.4 - Why should I find solutions to differential equations?</span>
-</h3>
-<div class="para logical" id="loop-1-6-2">
-<div class="para">
-<em class="alert">Module 1 Objective 5:</em> Students can model simple real-world phenomena with first-order initial value problems.</div>
-<ol class="decimal" id="loop-1-6-2-2">
-<li id="loop-1-6-2-2-1">
-<div class="para" id="loop-1-6-2-2-1-1">Watch <a class="external" href="https://youtu.be/bzhYY0xXufM" target="_blank">🎥Video 1.4.1</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-6-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 1"><a href="#loop-1-6-2-2-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
-</li>
-<li id="loop-1-6-2-2-2">
-<div class="para" id="loop-1-6-2-2-2-1">Complete the <a class="external" href="https://canvas.svsu.edu/courses/93320/quizzes/344576" target="_blank">✅Checkpoint 1.4.1</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-6-2-2-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 2"><a href="#loop-1-6-2-2-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
-</li>
-<li id="loop-1-6-2-2-3">
-<div class="para" id="loop-1-6-2-2-3-1">Try the list of 1.3 exercises from the <a class="external" href="https://canvas.svsu.edu/courses/93320/modules/items/3489211" target="_blank">📝Homework 1 Practice Problems</a>.<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-6-2-2-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 3"><a href="#loop-1-6-2-2-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
-</li>
-<li id="loop-1-6-2-2-4">
-<div class="para" id="loop-1-6-2-2-4-1">🎯 <em class="alert">Practice:</em> Problems 1, 3, 5, 9, 13 in Exercises 1.3 (pg. 28).<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-6-2-2-4-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Item 4"><a href="#loop-1-6-2-2-4" title="Copy heading and permalink for Item 4" aria-label="Copy heading and permalink for Item 4">🔗</a></div>
-</li>
-</ol>
-<div class="autopermalink" data-description="Paragraph"><a href="#loop-1-6-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="autopermalink" data-description="Subsection: 1.4 - Why should I find solutions to differential equations?"><a href="#loop-1-6" title="Copy heading and permalink for Subsection: 1.4 - Why should I find solutions to differential equations?" aria-label="Copy heading and permalink for Subsection: 1.4 - Why should I find solutions to differential equations?">🔗</a></div>
-</section><div class="autopermalink" data-description="Section: 🔎 Loop 1"><a href="#loop-1" title="Copy heading and permalink for Section: 🔎 Loop 1" aria-label="Copy heading and permalink for Section: 🔎 Loop 1">🔗</a></div>
-</section>
-</div>
+<div class="autopermalink" data-description="Subsection: 1.3 - Why should I find solutions to differential equations?"><a href="#loop-1-5" title="Copy heading and permalink for Subsection: 1.3 - Why should I find solutions to differential equations?" aria-label="Copy heading and permalink for Subsection: 1.3 - Why should I find solutions to differential equations?">🔗</a></div></section><div class="autopermalink" data-description="Section: 🔎 Loop 1"><a href="#loop-1" title="Copy heading and permalink for Section: 🔎 Loop 1" aria-label="Copy heading and permalink for Section: 🔎 Loop 1">🔗</a></div></section></div>
 <div id="ptx-content-footer" class="ptx-content-footer">
 <a class="previous-button button" href="loop-x.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="loop-2.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
 </div></main>
