@@ -5,7 +5,7 @@
     
     <introduction>
         <p>
-            All of the content in this module should be completed before <alert>July 8</alert>.
+            All of the content in this module should be completed before <alert>Wednesday, July 8</alert>.
         </p>
     </introduction>
 
@@ -24,6 +24,7 @@
                 <li><p> Use 1st-Order equations to model phenomena with dynamic rates of change. </p></li>
                 <li><p> Use slope fields to understand the dynamics of systems. </p></li>
                 <li><p> Use phase portraits to understand the dynamics of systems. </p></li>
+                <li><p> Show existence and uniqueness of solutions to linear ODEs. </p></li>
             </ol>
         </p>
     </subsection>

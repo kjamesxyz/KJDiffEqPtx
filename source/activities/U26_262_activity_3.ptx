@@ -68,4 +68,61 @@
             
   </exercise>
 
+
+  <exercise>
+    <introduction>
+        <p>
+            After spring break, 100 students came to campus with the flu. Suppose the campus has 8000 students.
+        </p>
+    </introduction>
+
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                The rate at which the disease spreads is proportional to both the number of infected students <m> I </m> and the number of susceptible (uninfected) <m> S </m> students. This can be modeled by the PDE <md> \frac{\partial I}{\partial t} = k I S. </md> Explain why we multiply <m> I,S </m> instead of adding them. 
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="0.5in">
+        <statement>
+            <p>
+                Explain how we can reduce the PDE model above into the ODE model <md> \frac{\partial I}{\partial t} = k I (8000 - I). </md>
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="0.25in">
+        <statement>
+            <p>
+                Find appropriate initial conditions for the model. 
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="2in">
+        <statement>
+            <p>
+                Solve the IVP you have built in parts (a)-(c). 
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="1in">
+        <statement>
+            <p>
+                How many students would you expect to become infected after 10 days? 
+            </p>
+        </statement>
+    </task>
+
+    <task workspace="1in">
+        <statement>
+            <p>
+                Describe the long-term behavior of the flu according to this model. Do your findings sounds true to real life? If not, discuss potential missing factors from the model that could improve its accuracy and write them below. 
+            </p>
+        </statement>
+    </task>
+  </exercise>
+
 </worksheet>

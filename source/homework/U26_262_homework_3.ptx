@@ -98,4 +98,12 @@
         </statement>
     </task>
   </exercise>
+
+  <exercise workspace="2in">
+    <statement>
+        <p>
+            Verify that <md> u(t) = c_1 \cos(t) + c_2 \sin(t) + t \sin(t) + \cos(t) \ln(t) </md> is the general solution to the nonhomogeneous equation <md> y'' + y = \sec(x) </md> on the interval <m> (-\pi / 2, \pi / 2) </m>, then label its fundamental, complementary, and particular solutions. 
+        </p>
+    </statement>
+  </exercise>
 </worksheet>
