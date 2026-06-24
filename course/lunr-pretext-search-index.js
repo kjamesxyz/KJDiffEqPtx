@@ -358,7 +358,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "🏫 Activity 0 - Review",
-  "body": " 🏫 Activity 0 - Review    This iactivity is due at the beginning of class on Wednesday, July 1 . Please write all solutions on this sheet. If you need additional space, you may attach additional work to this sheet, but please clearly label your work with its corresponding problem.       Compute       Compute         Compute       Compute      "
+  "body": " 🏫 Activity 0 - Review    This iactivity is due at the beginning of class on Wednesday, July 1 . Please write all solutions on this sheet. If you need additional space, you may attach additional work to this sheet, but please clearly label your work with its corresponding problem.       Use substitution to compute       Use substitution to compute         Use integration by parts to compute       Use integration by parts to compute        Use partial fraction decomposition to compute .      Write the system of equations as an augmented matrix. Then solve the system with Gaussian elimination (elementary row operations).    "
 },
 {
   "id": "act0-3-1",
@@ -367,7 +367,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Compute    "
+  "body": "  Use substitution to compute    "
 },
 {
   "id": "act0-3-2",
@@ -376,7 +376,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Compute    "
+  "body": "  Use substitution to compute    "
 },
 {
   "id": "act0-4-1",
@@ -385,7 +385,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Compute    "
+  "body": "  Use integration by parts to compute    "
 },
 {
   "id": "act0-4-2",
@@ -394,7 +394,25 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  Compute    "
+  "body": "  Use integration by parts to compute    "
+},
+{
+  "id": "act0-5",
+  "level": "2",
+  "url": "act0.html#act0-5",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Use partial fraction decomposition to compute .   "
+},
+{
+  "id": "act0-6",
+  "level": "2",
+  "url": "act0.html#act0-6",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Write the system of equations as an augmented matrix. Then solve the system with Gaussian elimination (elementary row operations).   "
 },
 {
   "id": "activities-5",
