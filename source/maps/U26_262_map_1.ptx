@@ -5,7 +5,7 @@
     
     <introduction>
         <p>
-            All of the content in this module should be completed before <alert>July 1st</alert>.
+            All of the content in this module should be completed before <alert>Monday, July 1st</alert>.
         </p>
     </introduction>
 
@@ -26,6 +26,7 @@
                 <li><p> Distinguish between linear and nonlinear ordinary differential equations. </p></li>
                 <li><p> Verify solutions to differential equations and find their intervals of existence. </p></li>
                 <li><p> Verify solutions to IVPs and find their intervals of existence. </p></li>
+                <li><p> Model real-world phenomena using 1st-order linear differential equations. </p></li> 
             </ol>
         </p>
     </subsection>
@@ -35,7 +36,7 @@
         <p>
             In this module, you will...
             <ol>
-                <li><p> Watch <alert>8</alert> videos (approximately 29 minutes). </p></li>
+                <li><p> Watch <alert>8</alert> videos (approximately 35 minutes). </p></li>
                 <li><p> Complete <alert>7</alert> checkpoints. </p></li>
                 <li><p> Add <alert>5</alert> items to your prep work book. </p></li>
                 <li><p> Complete Homework 1.  </p></li>

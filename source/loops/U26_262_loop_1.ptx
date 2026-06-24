@@ -12,68 +12,50 @@
     <subsection>
         <title>1.1 - What are differential equations?</title>
         <p>
-            <alert>Module 1 Objective 1:</alert> Students can distinguish between ordinary and partial differential equations. 
+            In this section, we will learn language to describe and classify differential equations. This section satisfies module objectives 1-3.
             <ol>
-                <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 1.1.1</url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/zs-1vviWWJY">🎥Video 1.1.1</url> (1:43). </p></li>
                 <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344568">✅Checkpoint 1.1.1</url>. </p></li> 
-            </ol>
-        </p> 
-        <p>
-            <alert>Module 1 Objective 2:</alert> Students can determine the order of differential equations.
-            <ol>
-                <li><p> Watch <url href="https://youtu.be/x-mNPZuX33Y">🎥Video 1.1.2</url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/x-mNPZuX33Y">🎥Video 1.1.2</url> (2:02). </p></li>
                 <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344570">✅Checkpoint 1.1.2</url>. </p></li> 
                 <li><p> 🎯 <alert> Practice: </alert> Try finding the order of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10). </p></li>
-            </ol>
-        </p>
-        <p>
-            <alert>Module 1 Objective 3:</alert> Students can distinguish between linear and nonlinear ordinary differential equations.
-            <ol>
-                <li><p> Watch <url href="https://youtu.be/Db-199xwWcw">🎥Video 1.1.3</url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/Db-199xwWcw">🎥Video 1.1.3</url> (4:51). </p></li>
                 <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344572">✅Checkpoint 1.1.3</url>. </p></li> 
-                <li><p> Try the list of 1.1 exercises from the <url href="https://canvas.svsu.edu/courses/93320/modules/items/3489211">📝Homework 1 Practice Problems </url>. </p></li>
                 <li><p> 🎯 <alert> Practice: </alert> Determine whether each of the diffential equations given in problems 1-8 in Exercises 1.1 (pg. 10) are linear. </p></li>
             </ol>
+            After completing this list, you can complete problem 1 from homework 1. 
         </p>
     </subsection>
 
     <subsection>
         <title>1.2 - What are solutions to differential equations?</title>
         <p>
-            <alert>Module 1 Objective 4:</alert> Students can verify solutions to differential equations and find their intervals of existence.
+            In this section, we will learn what solutions to differential equations look like. We will also learn how to verify them and check for intervals of existence. This section satisfies module objectives 4-5. 
             <ol> 
-                <li><p> Watch <url href="https://youtu.be/3hIATXSFkuM">🎥Video 1.2.1</url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/3hIATXSFkuM">🎥Video 1.2.1</url> (7:46). </p></li>
                 <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344574">✅Checkpoint 1.2.1</url> </p></li> 
-                <li><p> Watch <url href="https://youtu.be/BhrCFH-tUhQ">🎥Video 1.2.2</url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/BhrCFH-tUhQ">🎥Video 1.2.2</url> (4:16). </p></li>
                 <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/346580">✅Checkpoint 1.2.2</url> </p></li> 
                 <li><p> 🎯 <alert> Practice: </alert> Problems 11, 13, 21, 23 in Exercises 1.1 (pg. 10).</p></li>
-            </ol>
-        </p>
-    </subsection>
-
-    <subsection>
-        <title>1.3 - Can we find solutions to differential equations?</title>
-        <p>
-            <alert>Module 1 Objective 5:</alert> Students can model verify solutions to IVPs and find their intervals of existence.
-            <ol>
-                <li><p> Watch <url href="https://youtu.be/He43eYE0o8A">🎥Video 1.3.1</url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/He43eYE0o8A">🎥Video 1.2.3</url> (3:28). </p></li>
                 <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/348018344574">✅Checkpoint 1.3.1</url> </p></li> 
-                <li><p> Watch <url href="https://youtu.be/f8O8pxoDhU8">🎥Video 1.3.2</url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/f8O8pxoDhU8">🎥Video 1.2.4</url> (3:27). </p></li>
                 <li><p> 🎯 <alert> Practice: </alert> Problems 4-8 (evens), 18, 22 in Exercises 1.2 (pg. 17). </p></li> 
             </ol>
+            After completing this list, you can complete problem 2 from homework 1.
         </p>
     </subsection>
 
     <subsection>
-        <title>1.4 - Why should I find solutions to differential equations?</title>
+        <title>1.3 - Why should I find solutions to differential equations?</title>
         <p>
-            <alert>Module 1 Objective 5:</alert> Students can model simple real-world phenomena with first-order initial value problems.
+            In this section, we will model some simple real-world phenomena using differential equations. We will also investigate the additional context we can glean from using differential equations (as opposed to algebraic equations) in these models. 
             <ol>
-                <li><p> Watch <url href="https://youtu.be/bzhYY0xXufM">🎥Video 1.4.1</url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/bzhYY0xXufM">🎥Video 1.4.1</url> (7:38). </p></li>
                 <li><p> Complete the <url href="https://canvas.svsu.edu/courses/93320/quizzes/344576">✅Checkpoint 1.4.1</url>. </p></li> 
-                <li><p> Try the list of 1.3 exercises from the <url href="https://canvas.svsu.edu/courses/93320/modules/items/3489211">📝Homework 1 Practice Problems </url>. </p></li>
                 <li><p> 🎯 <alert> Practice: </alert> Problems 1, 3, 5, 9, 13 in Exercises 1.3 (pg. 28). </p></li> 
             </ol>
+            After completing this list, you can complete problem 3 from homework 1. 
         </p>
     </subsection>
         
