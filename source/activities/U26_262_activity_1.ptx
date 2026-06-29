@@ -93,7 +93,7 @@
       <statement>
         <p>
           Explain why the function <md>
-            \phi_3(x) = \begin{cases} \sqrt{25-x^2} \amp \text{if} \ -5 \lt x \lt 0 \\ -\sqrt{25-x^2} \amp \text{if} \ 0 \leq y \lt 5 \end{cases} 
+            \phi_3(x) = \begin{cases} \sqrt{25-x^2} \amp \text{if} \ -5 \lt x \lt 0 \\ -\sqrt{25-x^2} \amp \text{if} \ 0 \leq x \lt 5 \end{cases} 
           </md>
           is <alert>NOT</alert> a solution to <xref ref="act1-p3"/> on (-5,5). 
         </p>
