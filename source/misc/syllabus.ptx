@@ -57,9 +57,9 @@
     </paragraphs>
 
     <paragraphs>
-      <title>Math and Physics Learning Center</title>
+      <title>Math &amp; Physics Learning Center</title>
       <p>
-        The Math \amp Physics Learning Center (MPLC) is located on the second floor of Zhanow Library. Their hours of operation are <alert>TBD</alert>. The cost of the MLPC is included in your tuition, meaning you have already paid to use it! The center has on-demand tutors and free refreshments, making it an ideal place to sit to work on your assignments in this class. You can also make a a free one-on-one appointment with a tutor by calling them at (989) 964-4648 or emailing them at <url href="mailto:mathtutor@svsu.edu">mathtutor@svsu.edu</url>.
+        The Math &amp; Physics Learning Center (MPLC) is located on the second floor of Zhanow Library. Their hours of operation are <alert>TBD</alert>. The cost of the MLPC is included in your tuition, meaning you have already paid to use it! The center has on-demand tutors and free refreshments, making it an ideal place to sit to work on your assignments in this class. You can also make a a free one-on-one appointment with a tutor by calling them at (989) 964-4648 or emailing them at <url href="mailto:mathtutor@svsu.edu">mathtutor@svsu.edu</url>.
       </p>
     </paragraphs>
 
@@ -127,17 +127,17 @@
         </row>
         <row>
           <cell>Mon. Jul 6</cell>
-          <cell>Solving &amp; Modelling 1st-Order ODEs</cell> 
+          <cell>Solving 1st-Order ODEs</cell> 
           <cell>Activity 1 &amp; Homework 2</cell> 
         </row>
         <row>
           <cell>Wed. Jul 8</cell>
-          <cell>Modelling 1st-Order ODEs</cell> 
+          <cell>Modelling 1st-Order ODEs + Existence &amp; Uniquness Theory</cell> 
           <cell>Activity 2 &amp; Homework 3</cell> 
         </row>
         <row>
           <cell>Mon. Jul 13</cell>
-          <cell>Existence &amp; Uniquness Theory</cell> 
+          <cell>Solving Higher-Order Linear ODEs</cell> 
           <cell>Activity 3 &amp; Homework 4</cell> 
         </row>
         <row>
@@ -147,12 +147,12 @@
         </row>
         <row>
           <cell>Mon. Jul 20</cell>
-          <cell>Solving Higher-Order ODEs</cell> 
+          <cell>Modelling with Higher-Order ODEs + Review of Power Series</cell> 
           <cell>Homework 5</cell> 
         </row>
         <row>
           <cell>Wed. Jul 22</cell>
-          <cell>Modelling with Higher-Order ODEs</cell> 
+          <cell>Series Solutions to ODEs</cell> 
           <cell>Activity 5 &amp; Homework 6</cell> 
         </row>
         <row>
@@ -162,7 +162,7 @@
         </row>
         <row>
           <cell>Wed. Jul 29</cell>
-          <cell>Series Solutions to Linear ODEs</cell> 
+          <cell>Introduction to Systems of ODEs</cell> 
           <cell>Activity 7</cell> 
         </row>
         <row>
@@ -172,7 +172,7 @@
         </row>
         <row>
           <cell>Wed. Aug 5</cell>
-          <cell>Systems of 1st-Order ODEs &amp; Final Exam Review </cell> 
+          <cell>Solving systems of 1st-Order ODEs &amp; Final Exam Review </cell> 
           <cell>Activity 8 &amp; Homework 9</cell> 
         </row>
         <row>
