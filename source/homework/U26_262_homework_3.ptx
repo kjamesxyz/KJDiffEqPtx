@@ -42,15 +42,6 @@
     </task>
   </exercise>
 
-  <exercise workspace="5in">
-    <statement>
-        <p>
-            Newton's second law of motion gives that <md> mv' = F(t,v), </md> where <m> m </m> is the mass of the object and <m> v </m> is the velocity of the object at <m> t </m> seconds. A 50 kg object is shot from a cannon straight upward at 10 m/s off of a bridge 100 m high. Air resits the object at <m> 5v </m>. Determine the velocity of the object when it hits the ground (assume it does not collide with the bridge).  
-        </p>
-    </statement>
-  </exercise>
-
-
   <exercise workspace="3in">
     <statement>
         <p>
@@ -102,7 +93,7 @@
   <exercise workspace="2in">
     <statement>
         <p>
-            Verify that <md> u(t) = c_1 \cos(t) + c_2 \sin(t) + t \sin(t) + \cos(t) \ln(t) </md> is the general solution to the nonhomogeneous equation <md> y'' + y = \sec(x) </md> on the interval <m> (-\pi / 2, \pi / 2) </m>, then label its fundamental, complementary, and particular solutions. 
+            Verify that <md> u(t) = c_1 \cos(t) + c_2 \sin(t) + t \sin(t) + \cos(t) \ln(t) </md> is the general solution to the nonhomogeneous equation <md> u'' + u = (2-t^{-2})\cos(t) - 2t^{-1}\sin(t) </md> on the interval <m> (-\pi / 2, \pi / 2) </m>, then label its fundamental, complementary, and particular solutions. 
         </p>
     </statement>
   </exercise>

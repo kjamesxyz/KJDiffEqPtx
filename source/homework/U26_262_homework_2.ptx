@@ -41,7 +41,7 @@
         <task>
             <statement>
                 <p>
-                    <m> t dx = x dt </m>
+                    <m> t dx + x dt = 0</m>
                 </p>
             </statement>
         </task>

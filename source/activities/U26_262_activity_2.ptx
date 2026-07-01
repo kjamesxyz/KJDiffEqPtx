@@ -41,7 +41,7 @@
             Recall that linear equations can be written in the form <m>M(x,y) dx + N(x,y) dy = 0</m>. We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor <md>
                 \mu(x) = e^{\int \frac{M_y - N_x}{N} \, dx}
             </md> or <md>
-                \mu(y) = e^{\int \frac{N_x - M_y}{M} \, dx}.
+                \mu(y) = e^{\int \frac{N_x - M_y}{M} \, dy}.
             </md> Consider the equation <md number="yes" xml:id="act2-nonexact">
                 xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.
             </md>
@@ -67,9 +67,9 @@
         </statement>
     </task> 
 
-    <task workspace="1.5in">
+    <task workspace="0.5in">
         <statement>
-            <p> What problems do you run into using <m>\mu(x)</m> instead of <m>\mu(y)</m>?  </p>
+            <p> Why might it be less-preferable to use <m>\mu(x)</m> instead of <m>\mu(y)</m> in this problem?  </p>
         </statement>
     </task> 
   </exercise>
@@ -102,7 +102,7 @@
     <task workspace="4in">
         <statement>
             <p>
-                 Suppose <m>n\neq 0</m> and <m>n \neq 1</m>. First, divide both sides of <xref ref="act2-bernoulli"/> by <m>y^n</m>. Then use the substitution <m>u = y^{n-1}</m> to <alert>reduce</alert> the Bernoulli equation to be linear. 
+                 Suppose <m>n\neq 0</m> and <m>n \neq 1</m>. First, divide both sides of <xref ref="act2-bernoulli"/> by <m>y^n</m>. Then use the substitution <m>u = y^{1-n}</m> to <alert>reduce</alert> the Bernoulli equation to be linear. 
             </p>
         </statement>
     </task>
