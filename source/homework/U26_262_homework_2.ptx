@@ -46,4 +46,12 @@
             </statement>
         </task>
     </exercise>
+
+    <exercise workspace="3in">
+        <statement>
+            <p>
+                Solve the differential equation <md> \frac{dy}{dx} = (x + y + 3)^2 </md> using substitution. 
+            </p>
+        </statement>
+    </exercise>
 </worksheet>
