@@ -241,7 +241,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "📝 Homework 2",
-  "body": " 📝 Homework 2    Instructions: This assignment is due Monday, July 6 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method. I would recommend trying multiple methods to get more diverse feedback.                                "
+  "body": " 📝 Homework 2    Instructions: This assignment is due Monday, July 6 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                                "
 },
 {
   "id": "hw2-3",
@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method. I would recommend trying multiple methods to get more diverse feedback.                               "
+  "body": "  Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method.                               "
 },
 {
   "id": "hw3",
