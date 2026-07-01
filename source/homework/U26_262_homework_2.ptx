@@ -10,14 +10,14 @@
     <exercise workspace="2in">
         <introduction>
             <p>
-                Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method. I would recommend trying multiple methods to get more diverse feedback.
+                Classify each of the following equations as linear, separable, exact, or homogeneous. Note that some equations may be more than one kind. Then find a general solution using any appropriate method. 
             </p>
         </introduction>
 
         <task>
             <statement>
                 <p>
-                    <m>\dydx = \frac{x-y}{x}</m>
+                    <m>\dydx = xy</m>
                 </p>
             </statement>
         </task>
@@ -25,7 +25,7 @@
         <task>
             <statement>
                 <p>
-                    <m>\left(x^2 + \frac{2y}{x} \right) dx = (3 - \ln(x^2)) dy</m>
+                    <m>2 \frac{dy}{dx} = \frac{y}{x} </m>
                 </p>
             </statement>
         </task>
@@ -33,7 +33,7 @@
         <task>
             <statement>
                 <p>
-                    <m>\frac{y}{x^2} \dydx + e^{2x^3 + y^2} = 0</m>
+                    <m> 4 \frac{dy}{dx} = e^x - 2y </m>
                 </p>
             </statement>
         </task>
@@ -41,7 +41,7 @@
         <task>
             <statement>
                 <p>
-                    <m>t \dot{x} - (1+t)x = tx^2 </m>
+                    <m> t dx = x dt </m>
                 </p>
             </statement>
         </task>
