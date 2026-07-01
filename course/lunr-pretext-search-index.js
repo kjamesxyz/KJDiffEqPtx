@@ -268,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "📝 Homework 3",
-  "body": " 📝 Homework 3    Instructions: This assignment is due Wednesday, July 8 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     The amount of a radioactive substance after years decays proportionally to itself. That is      Write a first-order linear differential equation that models the radioactive decay of a substance assuming their is an initial amount .      Find the solution to the differential equation in your model.      The half-life of a radioactive substance is the amount of time it takes to lose half of its mass (amount). Use your model to derive a formula for the half-life of a radioactive substance.       Newton's second law of motion gives that where is the mass of the object and is the velocity of the object at seconds. A 50 kg object is shot from a cannon straight upward at 10 m\/s off of a bridge 100 m high. Air resits the object at . Determine the velocity of the object when it hits the ground (assume it does not collide with the bridge).      Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?      A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?       Verify that is the general solution to the nonhomogeneous equation on the interval , then label its fundamental, complementary, and particular solutions.    "
+  "body": " 📝 Homework 3    Instructions: This assignment is due Wednesday, July 8 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     The amount of a radioactive substance after years decays proportionally to itself. That is      Write a first-order linear differential equation that models the radioactive decay of a substance assuming their is an initial amount .      Find the solution to the differential equation in your model.      The half-life of a radioactive substance is the amount of time it takes to lose half of its mass (amount). Use your model to derive a formula for the half-life of a radioactive substance.       Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?      A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?       Verify that is the general solution to the nonhomogeneous equation on the interval , then label its fundamental, complementary, and particular solutions.    "
 },
 {
   "id": "hw3-3",
@@ -286,7 +286,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Newton's second law of motion gives that where is the mass of the object and is the velocity of the object at seconds. A 50 kg object is shot from a cannon straight upward at 10 m\/s off of a bridge 100 m high. Air resits the object at . Determine the velocity of the object when it hits the ground (assume it does not collide with the bridge).   "
+  "body": "  Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?   "
 },
 {
   "id": "hw3-5",
@@ -295,7 +295,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Two large containers and of the same size are filled with different fluids. Container 's fluid is held at C and container 's fluid is held at C. A small metal bar is brought to C, then submerged into container . Its temperature is measured 1 minute later to be C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container . The temperature of the bar rises by C after 1 miunute in container . If the bar is left in container , how long will it take the bar to reach C?   "
+  "body": "  A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?    "
 },
 {
   "id": "hw3-6",
@@ -303,15 +303,6 @@ var ptx_lunr_docs = [
   "url": "hw3.html#hw3-6",
   "type": "Worksheet Exercise",
   "number": "4",
-  "title": "",
-  "body": "  A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let denote the number of fish after months.     Assuming the fish grow logistically, find the growth function such that .      Solve the differential equation .      Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.      What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?    "
-},
-{
-  "id": "hw3-7",
-  "level": "2",
-  "url": "hw3.html#hw3-7",
-  "type": "Worksheet Exercise",
-  "number": "5",
   "title": "",
   "body": "  Verify that is the general solution to the nonhomogeneous equation on the interval , then label its fundamental, complementary, and particular solutions.   "
 },
@@ -493,7 +484,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "🏫 Activity 2 - Solving First-Order Equations",
-  "body": " 🏫 Activity 2 - Solving First-Order Equations    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Suppose and . First, divide both sides of by . Then use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
+  "body": " 🏫 Activity 2 - Solving First-Order Equations    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.     Consider the differential equation      Show that this equation is separable.      Solve the equation.      Notice that the equation can be written as . Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?       Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      Why might it be less-preferable to use instead of in this problem?       Any differential equation of the form where is called a Bernoulli equation .     Show that, when , the Bernoulli equation is linear.      Show that, when , the Bernoulli equation is linear.      Suppose and . First, divide both sides of by . Then use the substitution to reduce the Bernoulli equation to be linear.       Use the process outlined in question to find a general solution to     "
 },
 {
   "id": "act2-1",
@@ -511,7 +502,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      What problems do you run into using instead of ?    "
+  "body": "  Recall that linear equations can be written in the form . We learned how to solve these equations quickly when they're exact, but we can also solve exact equations using the integrating factor or Consider the equation      Show that is not exact.      Compute as defined above.      Multiply both sides of equation by . Show that the equation is now exact!      Why might it be less-preferable to use instead of in this problem?    "
 },
 {
   "id": "act2-3",
