@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="a6">
+  <title>🏫 Activity 6 - Power Series Solutions to ODEs </title>
+
+  <introduction>
+    <p>
+      <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on <alert>Wednesday, July 22</alert>.
+    </p>
+  </introduction>
+
+    <!-- Problem 1 -->
+    <exercise workspace="4in">
+        <statement>
+            <p>
+                 Find two power series solutions for the ODE <m> y'' + y = 0 </m> centered at <m>x=0</m>. Determine its raidus of convergence. 
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 2 -->
+    <exercise workspace="4in">
+        <statement>
+            <p>
+                 Find two power series solutions for the ODE <m> y'' + y = x^2 </m> centered at <m>x=0</m>. Determine its raidus of convergence. 
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 3 -->
+    <exercise workspace="4in">
+        <statement>
+            <p>
+                 How many linearly independent power series solutions centered at <m>x=0</m> exist for the ODE <m> xy'' + y = 0 </m>? 
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 4 -->
+    <exercise>
+          <introduction>
+               <p>
+                    An equation of the form <md> x^2 y'' + xy' + (x^2 - \nu^2) y = 0 </md>, where <m> \nu \geq 0 </m>, is called a <alert>Bessel's equation</alert>, and plays an important role in describing important physical phenomena (e.g. wave motion, heat conduction, etc.). 
+               </p>
+          </introduction>
+
+          <task workspace="0.5in">
+               <statement>
+                    <p>
+                         Find all regular points of Bessel's equation. 
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="5in">
+               <statement>
+                    <p>
+                         Frobenius' theorem guarantees the existence of at least one solution with the form <md> y(x) = \sum_{k=0}^\infty c_k x^{k+r}.</md> Substitue this trial solution into Bessel's equation and write the left-hand side as a single power series. 
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="0.5in">
+               <statement>
+                    <p>
+                         Show that Bessel's equation has indeces <m>r = \pm \nu </m>. 
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         Write a recurrence relation to describe the coefficients <m> c_k </m> in the case <m> r = \nu </m>. Then use your recurrence relation to write <m> c_1, \ldots, c_6 </m> in terms of <m>c_0</m>/
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         It turns out that we can actually define these coefficients explicitly using the formula <md> c_{2n} = \frac{(-1)^n c_0}{2^{2n} \, n! \, (1+\nu)(2+\nu)\cdots (n + \nu)}.</md> Use this formula to recompute <m> c_2, c_4, c_6 </m> as some evidence it works. 
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         To make this recurrence relation more legible, we define the <alert>Gamma function</alert> <m> \Gamma(n) = (n-1)!</m> and choose <md> c_0 = \frac{1}{2^\nu \Gamma(1 + \nu)}.</md> Use the property that <m> \Gamma(1+\nu) = \nu \Gamma( \nu ) </m> to show that, with this choice of <m> c_0 </m>, we can obtain <md> c_{2n} = \frac{(-1)^n}{2^{2n + \nu} \, n! \, \Gamma(1 + \nu + n)} </md>
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="1in">
+               <statement>
+                    <p>
+                         We call the solutions of this form <alert>Bessel functions of first kind with order <m>\nu</m></alert> and write them <m> \mathcal{J}_\nu(x) </m>. Write the formula for the Bessel function of first kind with order 2. 
+                    </p>
+               </statement>
+          </task>
+    </exercise>
+
+    
+</worksheet>
+
+
+
+

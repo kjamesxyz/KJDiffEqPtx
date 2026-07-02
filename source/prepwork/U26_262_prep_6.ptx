@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="prep5">
-  <title>✍️ Prep Work 5</title>
+<section xml:id="prep6">
+  <title>✍️ Prep Work 6</title>
     <introduction>
       <p>
           To receive full credit, please complete this prep work entry by the beginning of class <alert>Monday, July 20</alert>. 
@@ -15,7 +15,7 @@
             <ol>
                 <li><p> What does it mean for a power series to <alert>converge</alert>? </p></li>
                 <li><p> What is the <alert>radius of convergence</alert> for a power series? </p></li>
-                <li><p> List at least two strategies by which you can shift the starting point of a power series? </p></li> 
+                <li><p> Write Frobenius' theorem. </p></li>
             </ol>
         </p>
     </subsection>
