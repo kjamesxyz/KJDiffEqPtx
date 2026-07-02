@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🗺️ Module 6 Map",
-  "body": " 🗺️ Module 6 Map   All of the content in this module should be completed before Monday, July 20 .    The Big Picture  So far, each of the methods we have seen for solving differential equations have taken advantage of the structure of the equation (e.g. if it is exact, homogeneous, linear, etc.). In this section, we look at a more general approach to solving differential equations: finding power series solutions.    Module Objectives  After completing all work in this module, students will be able to...  Reindex and perform calculations involving multiple power series.  Classify ordinary and singular points for ODEs.  Find power series solutions for ODEs about ordinary points.  Find power series solutions for ODEs about singular points.      To Do List  In this module, you will...  Watch 4 videos (runtime).  Complete 4 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 4   Finish any remaining work on Activity 3 .     "
+  "body": " 🗺️ Module 6 Map   All of the content in this module should be completed before Monday, July 20 .    The Big Picture  So far, each of the methods we have seen for solving differential equations have taken advantage of the structure of the equation (e.g. if it is exact, homogeneous, linear, etc.). In this section, we look at a more general approach to solving differential equations: finding power series solutions.    Module Objectives  After completing all work in this module, students will be able to...  Reindex and perform calculations involving multiple power series.  Classify ordinary and singular points for ODEs.  Find power series solutions for ODEs about ordinary points.  Find power series solutions for ODEs about singular points.      To Do List  In this module, you will...  Watch 5 videos (~48 minutes).  Complete 3 checkpoints.  Add 3 items to your prep work book.  Write solutions to all assigned problems in Homework 6      "
 },
 {
   "id": "prepx",
@@ -134,6 +134,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "✍️ Prep Work 4",
   "body": " ✍️ Prep Work 4   To receive full credit, please complete this prep work entry by the beginning of class Monday, July 13 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  Define the Wronskian of a set of functions.  Copy table 4.1 from the course textbook (pg. 144)  Copy the annihilators given in equations (3), (5), and (7) from the course textbook (pgs.150-151)  Write down the formula for the particular solution obtained through variation of parameters.     "
+},
+{
+  "id": "prep6",
+  "level": "1",
+  "url": "prep6.html",
+  "type": "Section",
+  "number": "",
+  "title": "✍️ Prep Work 6",
+  "body": " ✍️ Prep Work 6   To receive full credit, please complete this prep work entry by the beginning of class Monday, July 20 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  What does it mean for a power series to converge ?  What is the radius of convergence for a power series?  Write Frobenius' theorem.     "
 },
 {
   "id": "loop-x",
@@ -359,6 +368,42 @@ var ptx_lunr_docs = [
   "number": "3",
   "title": "",
   "body": "  Find the general solution to using variation of parameters.   "
+},
+{
+  "id": "hw5",
+  "level": "1",
+  "url": "hw5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "📝 Homework 5",
+  "body": " 📝 Homework 5    Instructions: This assignment is due Monday, July 20 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Find two power series solutions centered about the point for the ODE       Find a power series solution for the IVP       Find a general power series solution on for the ODE     "
+},
+{
+  "id": "hw5-3",
+  "level": "2",
+  "url": "hw5.html#hw5-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Find two power series solutions centered about the point for the ODE    "
+},
+{
+  "id": "hw5-4",
+  "level": "2",
+  "url": "hw5.html#hw5-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Find a power series solution for the IVP    "
+},
+{
+  "id": "hw5-5",
+  "level": "2",
+  "url": "hw5.html#hw5-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Find a general power series solution on for the ODE    "
 },
 {
   "id": "activities-3",
@@ -629,6 +674,51 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  Use variation of parameters to show that the function is the general solution to the differential equation where     Recall that    "
+},
+{
+  "id": "a6",
+  "level": "1",
+  "url": "a6.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "🏫 Activity 6 - Power Series Solutions to ODEs",
+  "body": " 🏫 Activity 6 - Power Series Solutions to ODEs    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on Wednesday, July 22 .      Find two power series solutions for the ODE centered at . Determine its raidus of convergence.       Find two power series solutions for the ODE centered at . Determine its raidus of convergence.       How many linearly independent power series solutions centered at exist for the ODE ?       An equation of the form , where , is called a Bessel's equation , and plays an important role in describing important physical phenomena (e.g. wave motion, heat conduction, etc.).     Find all regular points of Bessel's equation.      Frobenius' theorem guarantees the existence of at least one solution with the form Substitue this trial solution into Bessel's equation and write the left-hand side as a single power series.      Show that Bessel's equation has indeces .      Write a recurrence relation to describe the coefficients in the case . Then use your recurrence relation to write in terms of \/      It turns out that we can actually define these coefficients explicitly using the formula Use this formula to recompute as some evidence it works.      To make this recurrence relation more legible, we define the Gamma function  and choose Use the property that to show that, with this choice of , we can obtain       We call the solutions of this form Bessel functions of first kind with order and write them . Write the formula for the Bessel function of first kind with order 2.     "
+},
+{
+  "id": "a6-3",
+  "level": "2",
+  "url": "a6.html#a6-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Find two power series solutions for the ODE centered at . Determine its raidus of convergence.   "
+},
+{
+  "id": "a6-4",
+  "level": "2",
+  "url": "a6.html#a6-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Find two power series solutions for the ODE centered at . Determine its raidus of convergence.   "
+},
+{
+  "id": "a6-5",
+  "level": "2",
+  "url": "a6.html#a6-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  How many linearly independent power series solutions centered at exist for the ODE ?   "
+},
+{
+  "id": "a6-6",
+  "level": "2",
+  "url": "a6.html#a6-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  An equation of the form , where , is called a Bessel's equation , and plays an important role in describing important physical phenomena (e.g. wave motion, heat conduction, etc.).     Find all regular points of Bessel's equation.      Frobenius' theorem guarantees the existence of at least one solution with the form Substitue this trial solution into Bessel's equation and write the left-hand side as a single power series.      Show that Bessel's equation has indeces .      Write a recurrence relation to describe the coefficients in the case . Then use your recurrence relation to write in terms of \/      It turns out that we can actually define these coefficients explicitly using the formula Use this formula to recompute as some evidence it works.      To make this recurrence relation more legible, we define the Gamma function  and choose Use the property that to show that, with this choice of , we can obtain       We call the solutions of this form Bessel functions of first kind with order and write them . Write the formula for the Bessel function of first kind with order 2.    "
 },
 {
   "id": "review1",
