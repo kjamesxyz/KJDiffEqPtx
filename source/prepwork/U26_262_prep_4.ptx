@@ -4,7 +4,7 @@
   <title>✍️ Prep Work 4</title>
     <introduction>
       <p>
-          To receive full credit, please complete this prep work entry by the beginning of class <alert>Monday, July 19</alert>. 
+          To receive full credit, please complete this prep work entry by the beginning of class <alert>Monday, July 13</alert>. 
       </p>
     </introduction>
 
@@ -13,11 +13,10 @@
         <p>
             Use the lecture videos to respond to the prompts below. Record each item in your prep work journal. 
             <ol>
-                <li><p> Define the <alert>Wronskian</alert> of a set of functions. </p></li> 
-                <li><p> When is a set of functions linearly independent? Write all definitions given in all videos. </p></li>
-                <li><p> Describe the role of a <alert>trial function</alert> in the method of undetermined coefficients. </p></li>
-                <li><p> Let for a function <m>f</m> be a function. What does an <alert>annhilator</alert> of <m>f</m> do? </p></li>
-                <li><p> Write down the formula to compute variable parameters <m> \mu_i </m> in the method of variation of parameters. </p></li>
+                <li><p> Define the Wronskian of a set of functions. </p></li>
+                <li><p> Copy table 4.1 from the course textbook (pg. 144) </p></li>
+                <li><p> Copy the annihilators given in equations (3), (5), and (7) from the course textbook (pgs.150-151) </p></li>
+                <li><p> Write down the formula for the particular solution obtained through variation of parameters. </p></li>
             </ol>
         </p>
     </subsection>

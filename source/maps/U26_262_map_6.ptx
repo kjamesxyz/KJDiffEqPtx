@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="map5">
-    <title>🗺️ Module 5 Map</title>
+<section xml:id="map6">
+    <title>🗺️ Module 6 Map</title>
     
     <introduction>
         <p>
@@ -12,7 +12,7 @@
     <subsection>
         <title>The Big Picture</title>
         <p>
-            We have now seen several ways to solve higher-order linear ODEs. In this section, we will look at some applications and techniques for modelling real-world phenomena that are described by these types of systems.
+            So far, each of the methods we have seen for solving differential equations have taken advantage of the structure of the equation (e.g. if it is exact, homogeneous, linear, etc.). In this section, we look at a more general approach to solving differential equations: finding power series solutions.
         </p>
     </subsection>
 
@@ -21,9 +21,10 @@
         <p>
             After completing all work in this module, students will be able to...
             <ol>
-                <li><p> Use higher-order linear ODEs to describe real-world phenomena. </p></li>
-                <li><p> Understand and perform elementary sensitivity analysis on ODE models. </p></li>
-                <li><p> Recall important definitions and results related to power series. </p></li>
+                <li><p> Reindex and perform calculations involving multiple power series. </p></li>
+                <li><p> Classify ordinary and singular points for ODEs. </p></li>
+                <li><p> Find power series solutions for ODEs about ordinary points. </p></li>
+                <li><p> Find power series solutions for ODEs about singular points. </p></li>
             </ol>
         </p>
     </subsection>

@@ -34,6 +34,7 @@
       <xi:include href="./maps/U26_262_map_2.ptx" />
       <xi:include href="./maps/U26_262_map_3.ptx" />
       <xi:include href="./maps/U26_262_map_4.ptx" />
+      <xi:include href="./maps/U26_262_map_6.ptx" />
     </chapter>
 
     <chapter xml:id="preps">

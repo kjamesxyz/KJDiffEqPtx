@@ -12,11 +12,11 @@
     <subsection>
         <title>The Big Picture</title>
         <p>
-            We have now seen several ways to solve first-order ODEs and have built some motivation for dealing with the difficulties. This is the general pattern of learning and working with differential equations. We 
+            The general pattern of learning and working with differential equations is as follows.
             <ol>
                 <li>
                     <p>
-                        Write down a new model. 
+                        Write down a new model (usually informed by real-world phenomena). 
                     </p>
                 </li>
                 <li>
@@ -26,12 +26,12 @@
                 </li>
                 <li>
                     <p>
-                        If the problem is solveable, only then do we know it's worth solving. So we try to find a method by which to solve it.
+                        If it is uniquely solvable (some people call these types of problems <alert>well-posed</alert>), then it's worth trying to find to find a method by which to solve it. So we (hopefully) do!
                     </p>
                 </li>
             </ol>
 
-            In this section, we will expand the tools in our toolbelt to solve higher-order linear ODEs. 
+            In the previous section, we saw that higher-order linear differential equations are well-posed. So, in this section, we will being solving higher-order linear ODEs. 
         </p>
     </subsection>
 
@@ -53,9 +53,9 @@
         <p>
             In this module, you will...
             <ol>
-                <li><p> Watch <alert>4</alert> videos (runtime). </p></li>
+                <li><p> Watch <alert>6</alert> videos (~67 minutes). </p></li>
                 <li><p> Complete <alert>4</alert> checkpoints. </p></li>
-                <li><p> Add <alert>5</alert> items to your prep work book. </p></li>
+                <li><p> Add <alert>4</alert> items to your prep work book. </p></li>
                 <li><p> Write solutions to all assigned problems in <alert>Homework 4</alert> </p></li>
                 <li><p> Finish any remaining work on <alert>Activity 3</alert>. </p></li>
             </ol>

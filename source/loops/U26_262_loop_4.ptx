@@ -19,9 +19,11 @@
         <p>
             In this section, students will learn to solve higher-order linear homogeneous ODEs using their characteristic polynomials. This section satisfies module objectives 2 and 3.
             <ol>
-                <li><p> Watch <url href="https://youtu.be/I_1gtyGqMKk"> 🎥 Video 3.2.1 </url> </p></li>
+                <li><p> Watch <url href="https://youtu.be/I_1gtyGqMKk"> 🎥 Video 3.2.1 </url> (10:42).</p></li>
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/350508">✅ Checkpoint 3.2.1 </url>. </p></li>
                 <li><p> 🎯 <alert> Practice: </alert> Find the characteristic polynomial for the differential equations in problems 2-28 (alternative evens) in Exercises 4.3 (pg. 138). </p></li> 
-                <li><p> Watch <url href="https://youtu.be/iSiBFh3Tz4k"> 🎥 Video 3.2.2 </url> </p></li>
+                <li><p> Watch <url href="https://youtu.be/iSiBFh3Tz4k"> 🎥 Video 3.2.2 </url> (6:37). </p></li>
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/350606">✅ Checkpoint 3.2.2 </url>. </p></li>
                 <li><p> 🎯 <alert> Practice: </alert> Finish problems 2-28 (alternating evens) in Exercises 4.3 (pg. 138). </p></li> 
             </ol>
         </p>
@@ -35,14 +37,16 @@
         <p>
             In this section, students will learn to solve higher-order linear nonhomogeneous ODEs using the method of undetermined coefficients. This section satisfies module objective 4.
             <ol>
-                <li><p> Watch <url href="https://youtu.be/1rmIxE9Mc0w"> 🎥 Video 3.3.1 </url>. </p></li> 
+                <li><p> Watch <url href="https://youtu.be/1rmIxE9Mc0w"> 🎥 Video 3.3.1 </url> (8:10). </p></li> 
                 <li><p> 🎯 <alert> Practice: </alert> Problems 2, 4, 8, 14, 16, 28 in Exercises 4.4 (pg.148). </p></li> 
-                <li><p> Watch <url href="https://youtu.be/Yz59YtXo1lA"> 🎥 Video 3.3.2 </url>. </p></li>  
+                <li><p> Watch <url href="https://youtu.be/Yz59YtXo1lA"> 🎥 Video 3.3.2 </url> (13:02). </p></li>  
                 <li><p> 🎯 <alert> Practice: </alert> Problems 6, 10, 18, 24, 30 in Exercises 4.4 (pg.148). </p></li> 
-                <li><p> 🎥 Video 3.3.3 .</p></li> 
+                <li><p> Watch <url href = "https://youtu.be/609HVeoQ1b4"> 🎥 Video 3.3.3 </url> (4:56).</p></li> 
                 <li><p> 🎯 <alert> Practice: </alert> Problems 16-34 (evens) in Exercises 4.5 (pg.156-157). </p></li> 
                 <li><p> 🎥 Video 3.3.4 .</p></li> 
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/350608">✅ Checkpoint 3.3.1 </url>. </p></li>
                 <li><p> 🎯 <alert> Practice: </alert> Problems 36-64 (alternating evens) in Exercises 4.5 (pg.156-157). </p></li> 
+                
             </ol>
         </p>
     </subsection>
@@ -55,8 +59,9 @@
         <p>
             In this section, students will learn to solve higher-order linear nonhomogeneous ODEs using variation of parameters. This section satisfies module objective 4.
             <ol>
-                <li><p> Watch <url href="https://youtu.be/pFsERMEtaU8"> 🎥 Video 3.4.1 </url>. </p></li> 
-                <li><p> Watch <url href="https://youtu.be/H4RvW8U_aTM"> 🎥 Video 3.4.2 </url>. </p></li>  
+                <li><p> Watch <url href="https://youtu.be/pFsERMEtaU8"> 🎥 Video 3.4.1 </url> (16:34). </p></li> 
+                <li><p> Watch <url href="https://youtu.be/H4RvW8U_aTM"> 🎥 Video 3.4.2 </url> (7:17). </p></li>  
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/351154">✅ Checkpoint 3.4.1 </url>. </p></li>
                 <li><p> 🎯 <alert> Practice: </alert> Problems 2-22 in Exercises 4.6 (pg.161-162). </p></li> 
             </ol>
         </p>

@@ -9,21 +9,25 @@
     </introduction>
 
 
-    <exercise workspace="3in">
+
+    <exercise workspace="4in">
         <statement>
             <p>
-                Find the general solution to <m>y'' - 3y' + 2y = e^x \sin(x)</m> using the method of undetermined coefficients. 
+                Solve <m>z'' + z = 2e^{-t}; z(0) = z'(0) = 0 </m> by first "guessing" a trial solution and then applying the method of undetermined coefficients. 
             </p>
         </statement>
     </exercise>
 
-    <exercise workspace="3in">
+
+    <exercise workspace="4in">
         <statement>
             <p>
-                Find the general solution to <m>z'' + z = 2e^{-t}; z(0) = z'(0) = 0 </m> using annhilators. 
+                Find the general solution to <m>y'' - 3y' + 2y = e^x \sin(x)</m> by first determining an annihilator for the forcing function and then applying the method of undetermined coefficients. 
             </p>
         </statement>
     </exercise>
+
+    
 
     <exercise workspace="3in">
         <statement>

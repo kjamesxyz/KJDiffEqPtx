@@ -5,11 +5,12 @@
 
   <introduction>
     <p>
-      <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. 
+      <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on <alert>Wednesday, July 15</alert>.
     </p>
   </introduction>
 
-  <exercise workspace="2in">
+    <!-- Problem 1 -->
+    <exercise workspace="4in">
         <statement>
             <p>
                 When finding a complementary solution to an <m>n</m>th-order linear nonhomogeneous equation, we first find roots of the characteristic polynomial <m>\lambda_1, \ldots, \lambda_n</m>. We saw that these roots produce the fundamental solutions to the complementary equation. Summarize the different cases we may have for these roots and how they impact the structure of the complementary solution. 
@@ -17,10 +18,13 @@
         </statement>
     </exercise>
 
-  <exercise>
+
+
+    <!-- Problem 2 -->
+    <exercise>
         <introduction>
             <p>
-                Consider the differential equation <md xml:id="a4-prob1" number="yes">
+                Consider the differential equation <md xml:id="a4-prob1">
                     u''' - 2u'' - u' + 2u = 2t^2 + 4t - 9.
                 </md>
             </p>
@@ -29,7 +33,7 @@
         <task workspace="0.5in">
             <statement>
                 <p>
-                    Find the complementary solution to <xref ref="a4-prob1"/>. 
+                    Find the complementary solution. 
                 </p>
             </statement>
         </task>
@@ -37,7 +41,7 @@
         <task workspace="2in">
             <statement>
                 <p>
-                    Find a particular solution of <xref ref="a4-prob1"/> through the method of undetermined coefficients. 
+                    Find an annihilator for the equation. 
                 </p>
             </statement>
         </task>
@@ -45,15 +49,17 @@
         <task workspace="2in">
             <statement>
                 <p>
-                    Find a particular solution of <xref ref="a4-prob1"/> using an annhilator. 
+                    Find a particular solution using the method of undetermined coefficients. 
                 </p>
             </statement>
         </task>
 
+        
+
         <task workspace="2in">
             <statement>
                 <p>
-                    Find a particular solution of <xref ref="a4-prob1"/> through variation of parameters. 
+                    Find a particular solution using variation of parameters. 
                 </p>
             </statement>
         </task>
@@ -61,23 +67,75 @@
         <task workspace="0.5in">
             <statement>
                 <p>
-                    Write down the general solution to <xref ref="a4-prob1"/>. 
+                    Write down the general solution. 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+
+
+    <!-- Problem 3 -->
+    <exercise>
+        <introduction>
+            <p>
+                Consider the differential equation <md xml:id="a4-prob2"> y'' - 4y' + 4y = 7 \sin(t) - \cos(t).</md> 
+            </p>
+        </introduction>
+
+        <task workspace="0.5in">
+            <p>
+                Find the complementary solution. 
+            </p>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Find an annihilator for the equation. 
                 </p>
             </statement>
         </task>
 
-        <task workspace="0.75in">
+        <task workspace="2in">
             <statement>
                 <p>
-                    If this were an exam question, and you were able to use any method of your choice, which would you chose and why?
+                    Find a particular solution using the method of undetermined coefficients. 
                 </p>
             </statement>
-            <hint>
-                <p>
-                    These can be personal opinions ;D. 
-                </p>
-            </hint>
         </task>
+
+        
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Find a particular solution using variation of parameters. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Write down the general solution. 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+    <!-- Problem 4 -->
+    <exercise workspace="0.5in">
+        <statement>
+            <p>
+                If problems 2 &amp; 3 were exam questions, and you were able to use any method of your choice, which would you chose and why?
+            </p>
+        </statement>
+        <hint>
+            <p>
+                These can be personal opinions ;D. 
+            </p>
+        </hint>
     </exercise>
 
     <exercise workspace="5in">
