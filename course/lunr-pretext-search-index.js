@@ -73,6 +73,15 @@ var ptx_lunr_docs = [
   "body": " 🗺️ Module 4 Map   All of the content in this module should be completed before Monday, July 13 .    The Big Picture  The general pattern of learning and working with differential equations is as follows.   Write down a new model (usually informed by real-world phenomena).    Determine whether the equation has solutions. If so, are they unique?    If it is uniquely solvable (some people call these types of problems well-posed ), then it's worth trying to find to find a method by which to solve it. So we (hopefully) do!   In the previous section, we saw that higher-order linear differential equations are well-posed. So, in this section, we will being solving higher-order linear ODEs.    Module Objectives  After completing all work in this module, students will be able to...  Use the principle of superposition to build general solutions to linear nonhomogeneous ODEs.  Solve higher-order linear nonhomogeneous ODEs with the method of undetermined coefficients.  Solve higher-oder linear nonhomogeneous ODEs with annhilators.  Solve higher-oder linear nonhomogeneous ODEs with variation of parameters.      To Do List  In this module, you will...  Watch 6 videos (~67 minutes).  Complete 4 checkpoints.  Add 4 items to your prep work book.  Write solutions to all assigned problems in Homework 4   Finish any remaining work on Activity 3 .     "
 },
 {
+  "id": "map5",
+  "level": "1",
+  "url": "map5.html",
+  "type": "Section",
+  "number": "",
+  "title": "🗺️ Module 5 Map",
+  "body": " 🗺️ Module 5 Map   All of the content in this module should be completed before class on Wednesday, July 15 .    Exam Day  Your first midterm exam will take place next class period. To help you prepare, I have created a list of things you can do to study.    To Do List  To prepare for the exam, you should do the following...  Review all definitions from the class. Words like \"linear\" and \"phase portraits\" are key vocabulary from our course, and I will use them in the statements of problems. If I ask you to find a general solution, but you don't remember what a general solution is, it's very difficult to make any progress on that question.  Reread my feedback and\/or solutions for your problems on your homework assignments you may have lost credit for. Then, without using any resources, reattempt these problems. Repeat the process until you can get through the problems on your own.   After you have done the above 2 steps , you can check out the additional review problem bank on the next page. The MPLC has the solutions to these problems, so don't hesitate to bug them about it!     P.S. Don't forget to finish any remaining work you still have on activity 4!   "
+},
+{
   "id": "map6",
   "level": "1",
   "url": "map6.html",
@@ -620,6 +629,69 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  Use variation of parameters to show that the function is the general solution to the differential equation where     Recall that    "
+},
+{
+  "id": "review1",
+  "level": "1",
+  "url": "review1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "🏋️‍♀️Exam 1 Review",
+  "body": " 🏋️‍♀️Exam 1 Review    Instructions: The following problems have been chosen or adapted from our course textbook to represent the content and caliber of problems that will appear on the first midterm exam. They are not assigned for credit, but I am more than happy to discuss them with you in office hours.     Verify that is a solution to the differential equation Give the largest possible interval of existence for this solution.      Verify that the one-parameter family of solutions defined by is an implicit solution to the differential equation       Consider the differential equation .     Determine the type and order of the equation. Justify your answer.      Classify the equation as separable, exact, linear, and\/or homogeneous.      Solve the equation using any method.       An LR series circuit has a 0.2 Ohm resistor and a variable inductor, whose inductance is defined by the function Assuming the impressed voltage is 4 V and there is no current initially in the circuit, create a model for the current at time .    Recall that Kirchoff's law (applied to an LR series circuit) gives .      Solve each of the following differrential equations by any method.                                  Sketch a slope field and phase portrait for the differential equation where . Label your phase portrait with all equilibria (nullclines).    "
+},
+{
+  "id": "review1-3",
+  "level": "2",
+  "url": "review1.html#review1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Verify that is a solution to the differential equation Give the largest possible interval of existence for this solution.   "
+},
+{
+  "id": "review1-4",
+  "level": "2",
+  "url": "review1.html#review1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Verify that the one-parameter family of solutions defined by is an implicit solution to the differential equation    "
+},
+{
+  "id": "review1-5",
+  "level": "2",
+  "url": "review1.html#review1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Consider the differential equation .     Determine the type and order of the equation. Justify your answer.      Classify the equation as separable, exact, linear, and\/or homogeneous.      Solve the equation using any method.    "
+},
+{
+  "id": "review1-6",
+  "level": "2",
+  "url": "review1.html#review1-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  An LR series circuit has a 0.2 Ohm resistor and a variable inductor, whose inductance is defined by the function Assuming the impressed voltage is 4 V and there is no current initially in the circuit, create a model for the current at time .    Recall that Kirchoff's law (applied to an LR series circuit) gives .   "
+},
+{
+  "id": "review1-7",
+  "level": "2",
+  "url": "review1.html#review1-7",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Solve each of the following differrential equations by any method.                               "
+},
+{
+  "id": "review1-8",
+  "level": "2",
+  "url": "review1.html#review1-8",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "  Sketch a slope field and phase portrait for the differential equation where . Label your phase portrait with all equilibria (nullclines).   "
 }
 ]
 
