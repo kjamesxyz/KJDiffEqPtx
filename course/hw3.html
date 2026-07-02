@@ -36,11 +36,11 @@ window.MathJax = {
     "packages": {
       "[+]": [
         "base",
+        "extpfeil",
         "ams",
         "amscd",
         "color",
         "newcommand",
-        "textmacros",
         "knowl"
       ]
     }
@@ -56,10 +56,10 @@ window.MathJax = {
   "loader": {
     "load": [
       "input/asciimath",
+      "[tex]/extpfeil",
       "[tex]/amscd",
       "[tex]/color",
       "[tex]/newcommand",
-      "[tex]/textmacros",
       "[pretext]/mathjaxknowl3.js"
     ],
     "paths": {
@@ -208,6 +208,14 @@ eBookConfig.enable_chatcodes =  false;
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map4.html#map4-5" class="internal"><span class="title">To Do List</span></a></div></li>
 </ul>
 </li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="map6.html" class="internal"><span class="title">🗺️ Module 6 Map</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map6.html#map6-3" class="internal"><span class="title">The Big Picture</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map6.html#map6-4" class="internal"><span class="title">Module Objectives</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map6.html#map6-5" class="internal"><span class="title">To Do List</span></a></div></li>
+</ul>
+</li>
 </ul>
 </li>
 <li class="toc-item toc-chapter">
@@ -287,6 +295,7 @@ eBookConfig.enable_chatcodes =  false;
 <ul class="structural toc-item-list">
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-7.html#loop-7-3" class="internal"><span class="title">5.1 - Laplace Transforms</span></a></div></li>
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-7.html#loop-7-4" class="internal"><span class="title">5.2 - Inverse Laplace Transforms</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-7.html#loop-7-5" class="internal"><span class="title">5.3 - Properties of Laplace Transforms</span></a></div></li>
 </ul>
 </li>
 </ul>
@@ -338,17 +347,13 @@ eBookConfig.enable_chatcodes =  false;
 <button class="print-button" title="Print" onClick="window.print()"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8ad;</span><span class="name">Print</span></button>
 </div>
 </div>
-<section class="worksheet" id="hw3" data-margins="0.75in 0.75in 0.75in 0.75in">
-<h2 class="heading hide-type">
+<section class="worksheet" id="hw3" data-margins="0.75in 0.75in 0.75in 0.75in"><h2 class="heading hide-type">
 <span class="type">Worksheet</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">📝 Homework 3</span><div class="print-links"><a href="?printpreview=hw3" class="print-link" title="Print preview"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8ad;</span></a></div>
 </h2>
-<section class="introduction" id="hw3-2">
-<div class="para" id="hw3-2-1">
+<section class="introduction" id="hw3-2"><div class="para" id="hw3-2-1">
 <em class="alert">Instructions:</em> This assignment is due <em class="alert">Wednesday, July 8</em>. Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.<div class="autopermalink" data-description="Paragraph"><a href="#hw3-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></section>
-<article class="exercise exercise-like" id="hw3-3"><h3 class="heading"><span class="codenumber">1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
-<div class="introduction" id="hw3-3-1">
-<div class="para logical" id="hw3-3-1-1">
+</div></section><article class="exercise exercise-like" id="hw3-3"><h3 class="heading"><span class="codenumber">1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
+<div class="introduction" id="hw3-3-1"><div class="para logical" id="hw3-3-1-1">
 <div class="para">The amount <span class="process-math">\(A\)</span> of a radioactive substance after <span class="process-math">\(t\)</span> years decays proportionally to itself. That is</div>
 <div class="displaymath process-math" id="hw3-3-1-1-3">
 \begin{equation*}
@@ -356,64 +361,43 @@ eBookConfig.enable_chatcodes =  false;
 \end{equation*}
 </div>
 <div class="autopermalink" data-description="Paragraph"><a href="#hw3-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-</div>
+</div></div>
 <article class="task exercise-like" id="hw3-3-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
 <div class="para" id="hw3-3-2-1-1">Write a first-order linear differential equation that models the radioactive decay of a substance assuming their is an initial amount <span class="process-math">\(A_0\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#hw3-3-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="0.5in"></div>
-<div class="autopermalink" data-description="Task 1.a"><a href="#hw3-3-2" title="Copy heading and permalink for Task 1.a" aria-label="Copy heading and permalink for Task 1.a">🔗</a></div>
-</article>
-<article class="task exercise-like" id="hw3-3-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
+<div class="autopermalink" data-description="Task 1.a"><a href="#hw3-3-2" title="Copy heading and permalink for Task 1.a" aria-label="Copy heading and permalink for Task 1.a">🔗</a></div></article><article class="task exercise-like" id="hw3-3-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
 <div class="para" id="hw3-3-3-1-1">Find the solution to the differential equation in your model.<div class="autopermalink" data-description="Paragraph"><a href="#hw3-3-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
-<div class="autopermalink" data-description="Task 1.b"><a href="#hw3-3-3" title="Copy heading and permalink for Task 1.b" aria-label="Copy heading and permalink for Task 1.b">🔗</a></div>
-</article>
-<article class="task exercise-like" id="hw3-3-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
+<div class="autopermalink" data-description="Task 1.b"><a href="#hw3-3-3" title="Copy heading and permalink for Task 1.b" aria-label="Copy heading and permalink for Task 1.b">🔗</a></div></article><article class="task exercise-like" id="hw3-3-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
 <div class="para" id="hw3-3-4-1-1">The <em class="alert">half-life</em> of a radioactive substance is the amount of time it takes to lose half of its mass (amount). Use your model to derive a formula for the half-life of a radioactive substance.<div class="autopermalink" data-description="Paragraph"><a href="#hw3-3-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
-<div class="autopermalink" data-description="Task 1.c"><a href="#hw3-3-4" title="Copy heading and permalink for Task 1.c" aria-label="Copy heading and permalink for Task 1.c">🔗</a></div>
-</article><div class="autopermalink" data-description="Worksheet Exercise 1"><a href="#hw3-3" title="Copy heading and permalink for Worksheet Exercise 1" aria-label="Copy heading and permalink for Worksheet Exercise 1">🔗</a></div>
-</article>
-<article class="exercise exercise-like" id="hw3-4"><h3 class="heading"><span class="codenumber">2<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
+<div class="autopermalink" data-description="Task 1.c"><a href="#hw3-3-4" title="Copy heading and permalink for Task 1.c" aria-label="Copy heading and permalink for Task 1.c">🔗</a></div></article><div class="autopermalink" data-description="Worksheet Exercise 1"><a href="#hw3-3" title="Copy heading and permalink for Worksheet Exercise 1" aria-label="Copy heading and permalink for Worksheet Exercise 1">🔗</a></div></article><article class="exercise exercise-like" id="hw3-4"><h3 class="heading"><span class="codenumber">2<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
 <div class="para" id="hw3-4-1-1">Two large containers <span class="process-math">\(A\)</span> and <span class="process-math">\(B\)</span> of the same size are filled with different fluids. Container <span class="process-math">\(A\)</span>’s fluid is held at <span class="process-math">\(0^\circ\)</span>C and container <span class="process-math">\(B\)</span>’s fluid is held at <span class="process-math">\(100^\circ\)</span>C. A small metal bar is brought to <span class="process-math">\(100^\circ\)</span>C, then submerged into container <span class="process-math">\(A\text{.}\)</span> Its temperature is measured 1 minute later to be <span class="process-math">\(90^\circ\)</span>C. After 1 more minute (2 minutes from its inital plunge), it is transfered to container <span class="process-math">\(B\text{.}\)</span> The temperature of the bar rises by <span class="process-math">\(10^\circ\)</span>C after 1 miunute in container <span class="process-math">\(B\text{.}\)</span> If the bar is left in container <span class="process-math">\(B\text{,}\)</span> how long will it take the bar to reach <span class="process-math">\(99.9^\circ\)</span>C?<div class="autopermalink" data-description="Paragraph"><a href="#hw3-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="3in"></div>
-<div class="autopermalink" data-description="Worksheet Exercise 2"><a href="#hw3-4" title="Copy heading and permalink for Worksheet Exercise 2" aria-label="Copy heading and permalink for Worksheet Exercise 2">🔗</a></div>
-</article>
-<article class="exercise exercise-like" id="hw3-5"><h3 class="heading"><span class="codenumber">3<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
-<div class="introduction" id="hw3-5-1">
-<div class="para" id="hw3-5-1-1">A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let <span class="process-math">\(P\)</span> denote the number of fish after <span class="process-math">\(t\)</span> months.<div class="autopermalink" data-description="Paragraph"><a href="#hw3-5-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-</div>
+<div class="autopermalink" data-description="Worksheet Exercise 2"><a href="#hw3-4" title="Copy heading and permalink for Worksheet Exercise 2" aria-label="Copy heading and permalink for Worksheet Exercise 2">🔗</a></div></article><article class="exercise exercise-like" id="hw3-5"><h3 class="heading"><span class="codenumber">3<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
+<div class="introduction" id="hw3-5-1"><div class="para" id="hw3-5-1-1">A local fishery can hold at most 500 fish. But, the fish naturally reproduce by 500 fish per month. The fishery avoids overcrowding by stocking local lakes and rivers with 400 fish per month. Let <span class="process-math">\(P\)</span> denote the number of fish after <span class="process-math">\(t\)</span> months.<div class="autopermalink" data-description="Paragraph"><a href="#hw3-5-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></div>
 <article class="task exercise-like" id="hw3-5-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
 <div class="para" id="hw3-5-2-1-1">Assuming the fish grow logistically, find the growth function <span class="process-math">\(f(P)\)</span> such that <span class="process-math">\(\frac{dP}{dt} = f(P)\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#hw3-5-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="0.5in"></div>
-<div class="autopermalink" data-description="Task 3.a"><a href="#hw3-5-2" title="Copy heading and permalink for Task 3.a" aria-label="Copy heading and permalink for Task 3.a">🔗</a></div>
-</article>
-<article class="task exercise-like" id="hw3-5-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
+<div class="autopermalink" data-description="Task 3.a"><a href="#hw3-5-2" title="Copy heading and permalink for Task 3.a" aria-label="Copy heading and permalink for Task 3.a">🔗</a></div></article><article class="task exercise-like" id="hw3-5-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
 <div class="para" id="hw3-5-3-1-1">Solve the differential equation <span class="process-math">\(\frac{dP}{dt} = f(P)\text{.}\)</span><div class="autopermalink" data-description="Paragraph"><a href="#hw3-5-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
-<div class="autopermalink" data-description="Task 3.b"><a href="#hw3-5-3" title="Copy heading and permalink for Task 3.b" aria-label="Copy heading and permalink for Task 3.b">🔗</a></div>
-</article>
-<article class="task exercise-like" id="hw3-5-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
+<div class="autopermalink" data-description="Task 3.b"><a href="#hw3-5-3" title="Copy heading and permalink for Task 3.b" aria-label="Copy heading and permalink for Task 3.b">🔗</a></div></article><article class="task exercise-like" id="hw3-5-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
 <div class="para" id="hw3-5-4-1-1">Draw a phase portrait for the model. Plot and label all nullclines on your phase portrait. Label each nullcline as stable of unstable.<div class="autopermalink" data-description="Paragraph"><a href="#hw3-5-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="3in"></div>
-<div class="autopermalink" data-description="Task 3.c"><a href="#hw3-5-4" title="Copy heading and permalink for Task 3.c" aria-label="Copy heading and permalink for Task 3.c">🔗</a></div>
-</article>
-<article class="task exercise-like" id="hw3-5-5"><h4 class="heading"><span class="codenumber">(d)</span></h4>
+<div class="autopermalink" data-description="Task 3.c"><a href="#hw3-5-4" title="Copy heading and permalink for Task 3.c" aria-label="Copy heading and permalink for Task 3.c">🔗</a></div></article><article class="task exercise-like" id="hw3-5-5"><h4 class="heading"><span class="codenumber">(d)</span></h4>
 <div class="para" id="hw3-5-5-1-1">What is the minimum number of fish the fishery should have at the beginning of the season to avoid extinction?<div class="autopermalink" data-description="Paragraph"><a href="#hw3-5-5-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
-<div class="autopermalink" data-description="Task 3.d"><a href="#hw3-5-5" title="Copy heading and permalink for Task 3.d" aria-label="Copy heading and permalink for Task 3.d">🔗</a></div>
-</article><div class="autopermalink" data-description="Worksheet Exercise 3"><a href="#hw3-5" title="Copy heading and permalink for Worksheet Exercise 3" aria-label="Copy heading and permalink for Worksheet Exercise 3">🔗</a></div>
-</article>
-<article class="exercise exercise-like" id="hw3-6"><h3 class="heading"><span class="codenumber">4<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
+<div class="autopermalink" data-description="Task 3.d"><a href="#hw3-5-5" title="Copy heading and permalink for Task 3.d" aria-label="Copy heading and permalink for Task 3.d">🔗</a></div></article><div class="autopermalink" data-description="Worksheet Exercise 3"><a href="#hw3-5" title="Copy heading and permalink for Worksheet Exercise 3" aria-label="Copy heading and permalink for Worksheet Exercise 3">🔗</a></div></article><article class="exercise exercise-like" id="hw3-6"><h3 class="heading"><span class="codenumber">4<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
 <div class="para logical" id="hw3-6-1-1">
 <div class="para">Verify that</div>
 <div class="displaymath process-math" id="hw3-6-1-1-1">
@@ -431,9 +415,7 @@ u'' + u = (2-t^{-2})\cos(t) - 2t^{-1}\sin(t)
 <div class="autopermalink" data-description="Paragraph"><a href="#hw3-6-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="2in"></div>
-<div class="autopermalink" data-description="Worksheet Exercise 4"><a href="#hw3-6" title="Copy heading and permalink for Worksheet Exercise 4" aria-label="Copy heading and permalink for Worksheet Exercise 4">🔗</a></div>
-</article><div class="autopermalink" data-description="Worksheet: 📝 Homework 3"><a href="#hw3" title="Copy heading and permalink for Worksheet: 📝 Homework 3" aria-label="Copy heading and permalink for Worksheet: 📝 Homework 3">🔗</a></div>
-</section>
+<div class="autopermalink" data-description="Worksheet Exercise 4"><a href="#hw3-6" title="Copy heading and permalink for Worksheet Exercise 4" aria-label="Copy heading and permalink for Worksheet Exercise 4">🔗</a></div></article><div class="autopermalink" data-description="Worksheet: 📝 Homework 3"><a href="#hw3" title="Copy heading and permalink for Worksheet: 📝 Homework 3" aria-label="Copy heading and permalink for Worksheet: 📝 Homework 3">🔗</a></div></section>
 </div>
 <div id="ptx-content-footer" class="ptx-content-footer">
 <a class="previous-button button" href="hw2.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="hw4.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>

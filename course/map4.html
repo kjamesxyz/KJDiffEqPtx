@@ -36,11 +36,11 @@ window.MathJax = {
     "packages": {
       "[+]": [
         "base",
+        "extpfeil",
         "ams",
         "amscd",
         "color",
         "newcommand",
-        "textmacros",
         "knowl"
       ]
     }
@@ -56,10 +56,10 @@ window.MathJax = {
   "loader": {
     "load": [
       "input/asciimath",
+      "[tex]/extpfeil",
       "[tex]/amscd",
       "[tex]/color",
       "[tex]/newcommand",
-      "[tex]/textmacros",
       "[pretext]/mathjaxknowl3.js"
     ],
     "paths": {
@@ -135,7 +135,7 @@ eBookConfig.enable_chatcodes =  false;
 <div class="embed-code-container">
 <textarea class="embed-code-textbox" id="embed-code-textbox" readonly aria-label="textbox"><iframe src="https://example.com/embed" width="100%" height="1000"></iframe></textarea><button class="copy-embed-button button" id="copy-embed-button" title="Copy embed code"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe14d;</span><span class="name">Copy</span></button>
 </div>
-</div></span><span class="treebuttons"><a class="previous-button button" href="map3.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="maps.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="preps.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+</div></span><span class="treebuttons"><a class="previous-button button" href="map3.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="maps.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="map6.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
 </div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N}
 \newcommand{\Z}{\mathbb Z}
 \newcommand{\Q}{\mathbb Q}
@@ -206,6 +206,14 @@ eBookConfig.enable_chatcodes =  false;
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map4.html#map4-3" class="internal"><span class="title">The Big Picture</span></a></div></li>
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map4.html#map4-4" class="internal"><span class="title">Module Objectives</span></a></div></li>
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map4.html#map4-5" class="internal"><span class="title">To Do List</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-section">
+<div class="toc-title-box"><a href="map6.html" class="internal"><span class="title">🗺️ Module 6 Map</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map6.html#map6-3" class="internal"><span class="title">The Big Picture</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map6.html#map6-4" class="internal"><span class="title">Module Objectives</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="map6.html#map6-5" class="internal"><span class="title">To Do List</span></a></div></li>
 </ul>
 </li>
 </ul>
@@ -287,6 +295,7 @@ eBookConfig.enable_chatcodes =  false;
 <ul class="structural toc-item-list">
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-7.html#loop-7-3" class="internal"><span class="title">5.1 - Laplace Transforms</span></a></div></li>
 <li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-7.html#loop-7-4" class="internal"><span class="title">5.2 - Inverse Laplace Transforms</span></a></div></li>
+<li class="toc-item toc-subsection"><div class="toc-title-box"><a href="loop-7.html#loop-7-5" class="internal"><span class="title">5.3 - Properties of Laplace Transforms</span></a></div></li>
 </ul>
 </li>
 </ul>
@@ -313,23 +322,18 @@ eBookConfig.enable_chatcodes =  false;
 </ul>
 </li>
 </ul></nav></div>
-<main class="ptx-main"><div id="ptx-content" class="ptx-content">
-<section class="section" id="map4">
-<h2 class="heading hide-type">
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="map4"><h2 class="heading hide-type">
 <span class="type">Section</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">🗺️ Module 4 Map</span>
 </h2>
-<section class="introduction" id="map4-2">
-<div class="para" id="map4-2-1">All of the content in this module should be completed before <em class="alert">Monday, July 13</em>.<div class="autopermalink" data-description="Paragraph"><a href="#map4-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></section>
-<section class="subsection" id="map4-3">
-<h3 class="heading hide-type">
+<section class="introduction" id="map4-2"><div class="para" id="map4-2-1">All of the content in this module should be completed before <em class="alert">Monday, July 13</em>.<div class="autopermalink" data-description="Paragraph"><a href="#map4-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div></section><section class="subsection" id="map4-3"><h3 class="heading hide-type">
 <span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">The Big Picture</span>
 </h3>
 <div class="para logical" id="map4-3-2">
-<div class="para">We have now seen several ways to solve first-order ODEs and have built some motivation for dealing with the difficulties. This is the general pattern of learning and working with differential equations. We</div>
+<div class="para">The general pattern of learning and working with differential equations is as follows.</div>
 <ol class="decimal" id="map4-3-2-1">
 <li id="map4-3-2-1-1">
-<div class="para" id="map4-3-2-1-1-1">Write down a new model.<div class="autopermalink" data-description="Paragraph"><a href="#map4-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="map4-3-2-1-1-1">Write down a new model (usually informed by real-world phenomena).<div class="autopermalink" data-description="Paragraph"><a href="#map4-3-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Item 1"><a href="#map4-3-2-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
 </li>
@@ -339,18 +343,15 @@ eBookConfig.enable_chatcodes =  false;
 <div class="autopermalink" data-description="Item 2"><a href="#map4-3-2-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
 </li>
 <li id="map4-3-2-1-3">
-<div class="para" id="map4-3-2-1-3-1">If the problem is solveable, only then do we know it’s worth solving. So we try to find a method by which to solve it.<div class="autopermalink" data-description="Paragraph"><a href="#map4-3-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="map4-3-2-1-3-1">If it is uniquely solvable (some people call these types of problems <em class="alert">well-posed</em>), then it’s worth trying to find to find a method by which to solve it. So we (hopefully) do!<div class="autopermalink" data-description="Paragraph"><a href="#map4-3-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Item 3"><a href="#map4-3-2-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
 </li>
 </ol>
-<div class="para">In this section, we will expand the tools in our toolbelt to solve higher-order linear ODEs.</div>
+<div class="para">In the previous section, we saw that higher-order linear differential equations are well-posed. So, in this section, we will being solving higher-order linear ODEs.</div>
 <div class="autopermalink" data-description="Paragraph"><a href="#map4-3-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Subsection: The Big Picture"><a href="#map4-3" title="Copy heading and permalink for Subsection: The Big Picture" aria-label="Copy heading and permalink for Subsection: The Big Picture">🔗</a></div>
-</section>
-<section class="subsection" id="map4-4">
-<h3 class="heading hide-type">
+<div class="autopermalink" data-description="Subsection: The Big Picture"><a href="#map4-3" title="Copy heading and permalink for Subsection: The Big Picture" aria-label="Copy heading and permalink for Subsection: The Big Picture">🔗</a></div></section><section class="subsection" id="map4-4"><h3 class="heading hide-type">
 <span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">Module Objectives</span>
 </h3>
 <div class="para logical" id="map4-4-2">
@@ -379,17 +380,14 @@ eBookConfig.enable_chatcodes =  false;
 </ol>
 <div class="autopermalink" data-description="Paragraph"><a href="#map4-4-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Subsection: Module Objectives"><a href="#map4-4" title="Copy heading and permalink for Subsection: Module Objectives" aria-label="Copy heading and permalink for Subsection: Module Objectives">🔗</a></div>
-</section>
-<section class="subsection" id="map4-5">
-<h3 class="heading hide-type">
+<div class="autopermalink" data-description="Subsection: Module Objectives"><a href="#map4-4" title="Copy heading and permalink for Subsection: Module Objectives" aria-label="Copy heading and permalink for Subsection: Module Objectives">🔗</a></div></section><section class="subsection" id="map4-5"><h3 class="heading hide-type">
 <span class="type">Subsection</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">To Do List</span>
 </h3>
 <div class="para logical" id="map4-5-2">
 <div class="para">In this module, you will...</div>
 <ol class="decimal" id="map4-5-2-1">
 <li id="map4-5-2-1-1">
-<div class="para" id="map4-5-2-1-1-1">Watch <em class="alert">4</em> videos (runtime).<div class="autopermalink" data-description="Paragraph"><a href="#map4-5-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="map4-5-2-1-1-1">Watch <em class="alert">6</em> videos (~67 minutes).<div class="autopermalink" data-description="Paragraph"><a href="#map4-5-2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Item 1"><a href="#map4-5-2-1-1" title="Copy heading and permalink for Item 1" aria-label="Copy heading and permalink for Item 1">🔗</a></div>
 </li>
@@ -399,7 +397,7 @@ eBookConfig.enable_chatcodes =  false;
 <div class="autopermalink" data-description="Item 2"><a href="#map4-5-2-1-2" title="Copy heading and permalink for Item 2" aria-label="Copy heading and permalink for Item 2">🔗</a></div>
 </li>
 <li id="map4-5-2-1-3">
-<div class="para" id="map4-5-2-1-3-1">Add <em class="alert">5</em> items to your prep work book.<div class="autopermalink" data-description="Paragraph"><a href="#map4-5-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="map4-5-2-1-3-1">Add <em class="alert">4</em> items to your prep work book.<div class="autopermalink" data-description="Paragraph"><a href="#map4-5-2-1-3-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="autopermalink" data-description="Item 3"><a href="#map4-5-2-1-3" title="Copy heading and permalink for Item 3" aria-label="Copy heading and permalink for Item 3">🔗</a></div>
 </li>
@@ -416,12 +414,9 @@ eBookConfig.enable_chatcodes =  false;
 </ol>
 <div class="autopermalink" data-description="Paragraph"><a href="#map4-5-2" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="autopermalink" data-description="Subsection: To Do List"><a href="#map4-5" title="Copy heading and permalink for Subsection: To Do List" aria-label="Copy heading and permalink for Subsection: To Do List">🔗</a></div>
-</section><div class="autopermalink" data-description="Section: 🗺️ Module 4 Map"><a href="#map4" title="Copy heading and permalink for Section: 🗺️ Module 4 Map" aria-label="Copy heading and permalink for Section: 🗺️ Module 4 Map">🔗</a></div>
-</section>
-</div>
+<div class="autopermalink" data-description="Subsection: To Do List"><a href="#map4-5" title="Copy heading and permalink for Subsection: To Do List" aria-label="Copy heading and permalink for Subsection: To Do List">🔗</a></div></section><div class="autopermalink" data-description="Section: 🗺️ Module 4 Map"><a href="#map4" title="Copy heading and permalink for Section: 🗺️ Module 4 Map" aria-label="Copy heading and permalink for Section: 🗺️ Module 4 Map">🔗</a></div></section></div>
 <div id="ptx-content-footer" class="ptx-content-footer">
-<a class="previous-button button" href="map3.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="preps.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+<a class="previous-button button" href="map3.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="map6.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
 </div></main>
 </div>
 <div id="ptx-page-footer" class="ptx-page-footer">
