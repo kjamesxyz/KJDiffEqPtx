@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="review1">
+    <title>🏋️‍♀️Exam 1 Review</title>
+    <introduction>
+          <p>
+            <alert>Instructions:</alert> The following problems have been chosen or adapted from our course textbook to represent the content and caliber of problems that will appear on the first midterm exam. They are not assigned for credit, but I am more than happy to discuss them with you in office hours. 
+          </p>
+    </introduction>
+
+
+
+    <exercise workspace="3in">
+          <statement>
+            <p>
+                Verify that <m> u(t) = t \sin(t) + t \cos(t) </m> is a solution to the differential equation <md> u'' + u = 2 \cos(t) - 2 \sin(t). </md> Give the largest possible interval of existence for this solution.
+            </p>
+          </statement>
+    </exercise>
+
+
+    <exercise workspace="3in">
+          <statement>
+            <p>
+                Verify that the one-parameter family of solutions defined by <m> y^2 - 2y = x^2 - x + C </m> is an implicit solution to the differential equation <md> (2y - 2)\frac{dy}{dx} = 2x - 1.</md> 
+            </p>
+          </statement>
+    </exercise>
+
+    
+
+    <exercise>
+          <introduction>
+            <p>
+                Consider the differential equation <md> (y^2 + 1) \, dx = y \sec^2(x) \, dy </md>.
+            </p>
+          </introduction>
+
+          <task workspace="0.25in">
+               <statement>
+                    <p>
+                         Determine the type and order of the equation. Justify your answer.
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         Classify the equation as separable, exact, linear, and/or homogeneous. 
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         Solve the equation using any method.
+                    </p>
+               </statement>
+          </task>
+    </exercise>
+
+    <exercise>
+          <statement>
+               <p>
+                    An LR series circuit has a 0.2 Ohm resistor and a variable inductor, whose inductance is defined by the function <md> L(t) = \begin{cases} 1 - \frac{1}{10}t &amp; \text{for} \ 0 \leq t &lt; 10; \\ 0 &amp; \text{for} \ t \geq 10. \end{cases} </md> Assuming the impressed voltage is 4 V and there is no current initially in the circuit, create a model for the current <m> I </m> at time <m> t </m>. 
+               </p>
+          </statement>
+
+          <hint>
+               <p>
+                    Recall that Kirchoff's law (applied to an LR series circuit) gives <m> IR + L\frac{dI}{dt} = E </m>.
+               </p>
+          </hint>
+    </exercise>
+
+    <exercise>
+          <introduction>
+               <p>
+                    Solve each of the following differrential equations by any method. 
+               </p>
+          </introduction>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         <md> y'' - 2y' - 2y = 0 </md>
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         <md> y''' -5y'' + 6y' = 8 + 2 \sin(x)</md>
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         <md> y'' + y = \sec^3(x); \hspace{10pt} y(0) = 1, y'(0) = \frac{1}{2} </md>
+                    </p>
+               </statement>
+          </task>
+
+          <task workspace="3in">
+               <statement>
+                    <p>
+                         <md> \frac{dy}{dx} = \frac{y-x}{y+x} </md>
+                    </p>
+               </statement>
+          </task>
+    </exercise>
+
+    <exercise workspace="6in">
+          <statement>
+               <p>
+                    Sketch a slope field and phase portrait for the differential equation <md> \frac{dh}{dt} = -C \sqrt{20h} </md> where <m> 0 &lt; C &lt; 1 </m>. Label your phase portrait with all equilibria (nullclines). 
+               </p>
+          </statement>
+    </exercise>
+
+
+</worksheet>

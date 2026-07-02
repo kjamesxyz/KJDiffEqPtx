@@ -34,6 +34,7 @@
       <xi:include href="./maps/U26_262_map_2.ptx" />
       <xi:include href="./maps/U26_262_map_3.ptx" />
       <xi:include href="./maps/U26_262_map_4.ptx" />
+      <xi:include href="./maps/U26_262_map_5.ptx" />
       <xi:include href="./maps/U26_262_map_6.ptx" />
     </chapter>
 
@@ -101,6 +102,17 @@
       <xi:include href="./activities/U26_262_activity_2.ptx"/>
       <xi:include href="./activities/U26_262_activity_3.ptx"/>
       <xi:include href="./activities/U26_262_activity_4.ptx"/>
+    </chapter>
+
+    <chapter xml:id="reviews">
+      <title>Exam reviews</title>
+      <introduction>
+        <p>
+          These are the curated review problems for the exams. 
+        </p>
+      </introduction>
+
+      <xi:include href="./misc/exam1_review.ptx" />
     </chapter>
 
 
