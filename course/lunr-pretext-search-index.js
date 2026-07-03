@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🗺️ Module 3 Map",
-  "body": " 🗺️ Module 3 Map   All of the content in this module should be completed before Wednesday, July 8 .    The Big Picture  In chapter 2, we learned some tools for solving 1st-Order differential equations. Before moving on to more general equations, I think we have earned the right to do some fun stuff with out new tools! In this module, you will learn tricks for analyzing the behavior of systems and solve some applications problems where we can use 1st-Order DEs.    Module Objectives  After completing all work in this module, students will be able to...  Use 1st-Order equations to model phenomena with dynamic rates of change.  Use slope fields to understand the dynamics of systems.  Use phase portraits to understand the dynamics of systems.  Show existence and uniqueness of solutions to linear ODEs.      To Do List  In this module, you will...  Watch 4 videos (approximately 65 minutes).  Complete 3 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 3   Finish any remaining work on Activity 2 .     "
+  "body": " 🗺️ Module 3 Map   All of the content in this module should be completed before Wednesday, July 8 .    The Big Picture  In chapter 2, we learned some tools for solving 1st-Order differential equations. Before moving on to more general equations, I think we have earned the right to do some fun stuff with out new tools! In this module, you will learn tricks for analyzing the behavior of systems and solve some applications problems where we can use 1st-Order DEs.    Module Objectives  After completing all work in this module, students will be able to...  Use 1st-Order equations to model phenomena with dynamic rates of change.  Use slope fields to understand the dynamics of systems.  Use phase portraits to understand the dynamics of systems.  Show existence and uniqueness of solutions to linear ODEs.      To Do List  In this module, you will...  Watch 9 videos (approximately 86 minutes).  Complete 3 checkpoints.  Add 5 items to your prep work book.  Write solutions to all assigned problems in Homework 3   Finish any remaining work on Activity 2 .     "
 },
 {
   "id": "map4",
@@ -178,7 +178,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 3",
-  "body": " 🔎 Loop 3   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 8 .    2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs. This satisfies module objectives 1-3.  Watch 🎥 Video 2.5.1 (7:35).  Complete ✅ Checkpoint 2.5.1 .  Watch 🎥 Video 2.5.2 (11:30).  Complete ✅ Checkpoint 2.5.2 .  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).      3.1 - Existence & Uniqueness for Higher-Order Linear ODEs  In this section, we will explore the existence and uniqueness of solution for higher-order linear ODEs. This section satisfies module objective 4.  Watch 🎥 Video 3.1.1 (7:01).  Complete ✅ Checkpoint 3.1.1 .  Watch 🎥 Video 3.1.2 (5:45).  Watch 🎥 Video 3.1.3 (5:07).  🎯 Practice: Problems 2,4 in Exercises 4.1 (pg. 128).  Watch 🎥 Video 3.1.4 (8:59).  🎯 Practice: Problems 5-6 in Exercises 4.1 (pg. 128).  Watch 🎥 Video 3.1.5 (18:06).  🎯 Practice: Problems 7-8 in Exercises 4.1 (pg. 128-129).     "
+  "body": " 🔎 Loop 3   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 8 .    2.5 - Modelling 1st-Order Differential Equations  In this section, students will learn to model real-world scenarios with 1st-order ODEs. This satisfies module objectives 1-3.  Watch 🎥 Video 2.5.1 (7:35).  Complete ✅ Checkpoint 2.5.1 .  Watch 🎥 Video 2.5.2 (11:30).  Complete ✅ Checkpoint 2.5.2 .  Watch 🎥 Video 2.6.1 (4:08).  Watch 🎥 Video 2.6.2 (17:46).  🎯 Practice: Problems 4, 6, 14, 21-22 in Exercises 3.1 (pg. 89-90).      3.1 - Existence & Uniqueness for Higher-Order Linear ODEs  In this section, we will explore the existence and uniqueness of solution for higher-order linear ODEs. This section satisfies module objective 4.  Watch 🎥 Video 3.1.1 (7:01).  Complete ✅ Checkpoint 3.1.1 .  Watch 🎥 Video 3.1.2 (5:45).  Watch 🎥 Video 3.1.3 (5:07).  🎯 Practice: Problems 2,4 in Exercises 4.1 (pg. 128).  Watch 🎥 Video 3.1.4 (8:59).  🎯 Practice: Problems 5-6 in Exercises 4.1 (pg. 128).  Watch 🎥 Video 3.1.5 (18:06).  🎯 Practice: Problems 7-8 in Exercises 4.1 (pg. 128-129).     "
 },
 {
   "id": "loop-4",
@@ -196,7 +196,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 6",
-  "body": " 🔎 Loop 6   This page will serve as a viewing guide for content that will be required for class on Monday, July 20 .    4.1 - Review of Power Series.  In this section, we will review properties of power series that will be necessary for finding series solutions.  Watch 🎥 Video 4.1.1 (4:21).  🎯 Practice: Problems 1-8 from Exercises 6.1 (pg. 230).  Watch 🎥 Video 4.1.2 (4:42).  Complete ✅ Checkpoint 4.1.1 .  🎯 Practice: Problems 9-14 from Exercises 6.1 (pg. 230).      4.2 - Series Solutions about Ordinary Points  In this section, we will identify ordinary and singular points. We will also develop series solutions for linear ODEs  Watch 🎥 Video 4.2.1 (17:55).  Complete ✅ Checkpoint 4.2.1 .  🎯 Practice: Problems 18-28 (evens) in Exercises 6.1 (pg.230).  Watch 🎥 Video 4.2.2 (9:19).  🎯 Practice: Problems 33-34 (evens) in Exercises 6.1 (pg.230).      4.3 - Series Solutions about Singular Points  In this section, we will identify ordinary and singular points. We will also develop series solutions for linear ODEs  Watch 🎥 Video 4.3.1 (12:07).  Complete ✅ Checkpoint 4.3.1 .  🎯 Practice: Problems 16-24 (evens) in Exercises 6.2 (pg.239).     "
+  "body": " 🔎 Loop 6   This page will serve as a viewing guide for content that will be required for class on Monday, July 20 .    4.1 - Review of Power Series.  In this section, we will review properties of power series that will be necessary for finding series solutions.  Watch 🎥 Video 4.1.1 (4:21).  🎯 Practice: Problems 1-8 from Exercises 6.1 (pg. 230).  Watch 🎥 Video 4.1.2 (4:42).  Complete ✅ Checkpoint 4.1.1 .  🎯 Practice: Problems 9-14 from Exercises 6.1 (pg. 230).      4.2 - Series Solutions about Ordinary Points  In this section, we will identify ordinary and singular points. We will also develop series solutions for linear ODEs  Watch 🎥 Video 4.2.1 (17:55).  Complete ✅ Checkpoint 4.2.1 .  🎯 Practice: Problems 18-28 (odds) in Exercises 6.1 (pg.230).  Watch 🎥 Video 4.2.2 (9:19).  🎯 Practice: Problems 33-34 (odds) in Exercises 6.1 (pg.230).      4.3 - Series Solutions about Singular Points  In this section, we will identify ordinary and singular points. We will also develop series solutions for linear ODEs  Watch 🎥 Video 4.3.1 (12:07).  Complete ✅ Checkpoint 4.3.1 .  🎯 Practice: Problems 16-24 (odds) in Exercises 6.2 (pg.239).     "
 },
 {
   "id": "loop-7",
@@ -370,36 +370,36 @@ var ptx_lunr_docs = [
   "body": "  Find the general solution to using variation of parameters.   "
 },
 {
-  "id": "hw5",
+  "id": "hw6",
   "level": "1",
-  "url": "hw5.html",
+  "url": "hw6.html",
   "type": "Worksheet",
   "number": "",
-  "title": "📝 Homework 5",
-  "body": " 📝 Homework 5    Instructions: This assignment is due Monday, July 20 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Find two power series solutions centered about the point for the ODE       Find a power series solution for the IVP       Find a general power series solution on for the ODE     "
+  "title": "📝 Homework 6",
+  "body": " 📝 Homework 6    Instructions: This assignment is due Monday, July 20 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Find two power series solutions centered about the point for the ODE       Find a power series solution for the IVP       Find a general power series solution on for the ODE     "
 },
 {
-  "id": "hw5-3",
+  "id": "hw6-3",
   "level": "2",
-  "url": "hw5.html#hw5-3",
+  "url": "hw6.html#hw6-3",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
   "body": "  Find two power series solutions centered about the point for the ODE    "
 },
 {
-  "id": "hw5-4",
+  "id": "hw6-4",
   "level": "2",
-  "url": "hw5.html#hw5-4",
+  "url": "hw6.html#hw6-4",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
   "body": "  Find a power series solution for the IVP    "
 },
 {
-  "id": "hw5-5",
+  "id": "hw6-5",
   "level": "2",
-  "url": "hw5.html#hw5-5",
+  "url": "hw6.html#hw6-5",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
