@@ -36,11 +36,11 @@ window.MathJax = {
     "packages": {
       "[+]": [
         "base",
-        "extpfeil",
         "ams",
         "amscd",
         "color",
         "newcommand",
+        "textmacros",
         "knowl"
       ]
     }
@@ -56,10 +56,10 @@ window.MathJax = {
   "loader": {
     "load": [
       "input/asciimath",
-      "[tex]/extpfeil",
       "[tex]/amscd",
       "[tex]/color",
       "[tex]/newcommand",
+      "[tex]/textmacros",
       "[pretext]/mathjaxknowl3.js"
     ],
     "paths": {
@@ -364,28 +364,41 @@ eBookConfig.enable_chatcodes =  false;
 <button class="print-button" title="Print" onClick="window.print()"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8ad;</span><span class="name">Print</span></button>
 </div>
 </div>
-<section class="worksheet" id="activities-6" data-margins="0.75in 0.75in 0.75in 0.75in"><h2 class="heading hide-type">
+<section class="worksheet" id="activities-6" data-margins="0.75in 0.75in 0.75in 0.75in">
+<h2 class="heading hide-type">
 <span class="type">Worksheet</span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="codenumber"></span><span class="space heading-divison-mark heading-divison-mark__space"> </span><span class="title">🏫 Activity 2 - Solving First-Order Equations</span><div class="print-links"><a href="?printpreview=activities-6" class="print-link" title="Print preview"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8ad;</span></a></div>
 </h2>
-<section class="introduction" id="activities-6-2"><div class="para" id="activities-6-2-1">
+<section class="introduction" id="activities-6-2">
+<div class="para" id="activities-6-2-1">
 <em class="alert">Instructions:</em> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas.<div class="autopermalink" data-description="Paragraph"><a href="#activities-6-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></section><article class="exercise exercise-like" id="act2-1"><h3 class="heading"><span class="codenumber">1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
-<div class="introduction" id="act2-1-1"><div class="para" id="act2-1-1-1">Consider the differential equation <span class="process-math">\(\dydx + 4 = y^2.\)</span><div class="autopermalink" data-description="Paragraph"><a href="#act2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></div>
+</div></section>
+<article class="exercise exercise-like" id="act2-1"><h3 class="heading"><span class="codenumber">1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
+<div class="introduction" id="act2-1-1">
+<div class="para" id="act2-1-1-1">Consider the differential equation <span class="process-math">\(\dydx + 4 = y^2.\)</span><div class="autopermalink" data-description="Paragraph"><a href="#act2-1-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+</div>
 <article class="task exercise-like" id="act2-1-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
 <div class="para" id="act2-1-2-1-1">Show that this equation is separable.<div class="autopermalink" data-description="Paragraph"><a href="#act2-1-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="0.5in"></div>
-<div class="autopermalink" data-description="Task 1.a"><a href="#act2-1-2" title="Copy heading and permalink for Task 1.a" aria-label="Copy heading and permalink for Task 1.a">🔗</a></div></article><article class="task exercise-like" id="act2-1-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
+<div class="autopermalink" data-description="Task 1.a"><a href="#act2-1-2" title="Copy heading and permalink for Task 1.a" aria-label="Copy heading and permalink for Task 1.a">🔗</a></div>
+</article>
+<article class="task exercise-like" id="act2-1-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
 <div class="para" id="act2-1-3-1-1">Solve the equation.<div class="autopermalink" data-description="Paragraph"><a href="#act2-1-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1.5in"></div>
-<div class="autopermalink" data-description="Task 1.b"><a href="#act2-1-3" title="Copy heading and permalink for Task 1.b" aria-label="Copy heading and permalink for Task 1.b">🔗</a></div></article><article class="task exercise-like" id="act2-1-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
+<div class="autopermalink" data-description="Task 1.b"><a href="#act2-1-3" title="Copy heading and permalink for Task 1.b" aria-label="Copy heading and permalink for Task 1.b">🔗</a></div>
+</article>
+<article class="task exercise-like" id="act2-1-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
 <div class="para" id="act2-1-4-1-1">Notice that the equation can be written as <span class="process-math">\(\dydx = (y-2)(y+2)\text{.}\)</span> Use this representation to find all trivial solutions. Does your answer to part (b) support this claim?<div class="autopermalink" data-description="Paragraph"><a href="#act2-1-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
-<div class="autopermalink" data-description="Task 1.c"><a href="#act2-1-4" title="Copy heading and permalink for Task 1.c" aria-label="Copy heading and permalink for Task 1.c">🔗</a></div></article><div class="autopermalink" data-description="Worksheet Exercise 1"><a href="#act2-1" title="Copy heading and permalink for Worksheet Exercise 1" aria-label="Copy heading and permalink for Worksheet Exercise 1">🔗</a></div></article><article class="exercise exercise-like" id="act2-2"><h3 class="heading"><span class="codenumber">2<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
-<div class="introduction" id="act2-2-1"><div class="para logical" id="act2-2-1-1">
+<div class="autopermalink" data-description="Task 1.c"><a href="#act2-1-4" title="Copy heading and permalink for Task 1.c" aria-label="Copy heading and permalink for Task 1.c">🔗</a></div>
+</article><div class="autopermalink" data-description="Worksheet Exercise 1"><a href="#act2-1" title="Copy heading and permalink for Worksheet Exercise 1" aria-label="Copy heading and permalink for Worksheet Exercise 1">🔗</a></div>
+</article>
+<article class="exercise exercise-like" id="act2-2"><h3 class="heading"><span class="codenumber">2<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
+<div class="introduction" id="act2-2-1">
+<div class="para logical" id="act2-2-1-1">
 <div class="para">Recall that linear equations can be written in the form <span class="process-math">\(M(x,y) dx + N(x,y) dy = 0\text{.}\)</span> We learned how to solve these equations quickly when they’re exact, but we can also solve exact equations using the integrating factor</div>
 <div class="displaymath process-math" id="act2-2-1-1-2">
 \begin{equation*}
@@ -401,51 +414,70 @@ eBookConfig.enable_chatcodes =  false;
 <div class="para">Consider the equation</div>
 <div class="displaymath process-math" id="act2-nonexact">
 \begin{equation}
-xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.\tag{0}
+xy \, dx + (2x^2 + 3y^2 - 20) \, dy = 0.\tag{3}
 \end{equation}
 </div>
 <div class="autopermalink" data-description="Paragraph"><a href="#act2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></div>
+</div>
+</div>
 <article class="task exercise-like" id="act2-2-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
-<div class="para" id="act2-2-2-1-1">Show that <a href="activities-6.html#act2-nonexact" class="xref" data-knowl="./knowl/xref/act2-nonexact.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 0">(0)</a> is not exact.<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="para" id="act2-2-2-1-1">Show that <a href="activities-6.html#act2-nonexact" class="xref" data-knowl="./knowl/xref/act2-nonexact.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 3">(3)</a> is not exact.<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="0.5in"></div>
-<div class="autopermalink" data-description="Task 2.a"><a href="#act2-2-2" title="Copy heading and permalink for Task 2.a" aria-label="Copy heading and permalink for Task 2.a">🔗</a></div></article><article class="task exercise-like" id="act2-2-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
+<div class="autopermalink" data-description="Task 2.a"><a href="#act2-2-2" title="Copy heading and permalink for Task 2.a" aria-label="Copy heading and permalink for Task 2.a">🔗</a></div>
+</article>
+<article class="task exercise-like" id="act2-2-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
 <div class="para" id="act2-2-3-1-1">Compute <span class="process-math">\(\mu(y) \)</span> as defined above.<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
-<div class="autopermalink" data-description="Task 2.b"><a href="#act2-2-3" title="Copy heading and permalink for Task 2.b" aria-label="Copy heading and permalink for Task 2.b">🔗</a></div></article><article class="task exercise-like" id="act2-2-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
-<div class="para" id="act2-2-4-1-1">Multiply both sides of equation <a href="activities-6.html#act2-nonexact" class="xref" data-knowl="./knowl/xref/act2-nonexact.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 0">(0)</a> by <span class="process-math">\(\mu(y)\text{.}\)</span> Show that the equation is now exact!<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Task 2.b"><a href="#act2-2-3" title="Copy heading and permalink for Task 2.b" aria-label="Copy heading and permalink for Task 2.b">🔗</a></div>
+</article>
+<article class="task exercise-like" id="act2-2-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
+<div class="para" id="act2-2-4-1-1">Multiply both sides of equation <a href="activities-6.html#act2-nonexact" class="xref" data-knowl="./knowl/xref/act2-nonexact.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 3">(3)</a> by <span class="process-math">\(\mu(y)\text{.}\)</span> Show that the equation is now exact!<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="1in"></div>
-<div class="autopermalink" data-description="Task 2.c"><a href="#act2-2-4" title="Copy heading and permalink for Task 2.c" aria-label="Copy heading and permalink for Task 2.c">🔗</a></div></article><article class="task exercise-like" id="act2-2-5"><h4 class="heading"><span class="codenumber">(d)</span></h4>
+<div class="autopermalink" data-description="Task 2.c"><a href="#act2-2-4" title="Copy heading and permalink for Task 2.c" aria-label="Copy heading and permalink for Task 2.c">🔗</a></div>
+</article>
+<article class="task exercise-like" id="act2-2-5"><h4 class="heading"><span class="codenumber">(d)</span></h4>
 <div class="para" id="act2-2-5-1-1">Why might it be less-preferable to use <span class="process-math">\(\mu(x)\)</span> instead of <span class="process-math">\(\mu(y)\)</span> in this problem?<div class="autopermalink" data-description="Paragraph"><a href="#act2-2-5-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="0.5in"></div>
-<div class="autopermalink" data-description="Task 2.d"><a href="#act2-2-5" title="Copy heading and permalink for Task 2.d" aria-label="Copy heading and permalink for Task 2.d">🔗</a></div></article><div class="autopermalink" data-description="Worksheet Exercise 2"><a href="#act2-2" title="Copy heading and permalink for Worksheet Exercise 2" aria-label="Copy heading and permalink for Worksheet Exercise 2">🔗</a></div></article><article class="exercise exercise-like" id="act2-3"><h3 class="heading"><span class="codenumber">3<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
-<div class="introduction" id="act2-3-1"><div class="para logical" id="act2-3-1-1">
+<div class="autopermalink" data-description="Task 2.d"><a href="#act2-2-5" title="Copy heading and permalink for Task 2.d" aria-label="Copy heading and permalink for Task 2.d">🔗</a></div>
+</article><div class="autopermalink" data-description="Worksheet Exercise 2"><a href="#act2-2" title="Copy heading and permalink for Worksheet Exercise 2" aria-label="Copy heading and permalink for Worksheet Exercise 2">🔗</a></div>
+</article>
+<article class="exercise exercise-like" id="act2-3"><h3 class="heading"><span class="codenumber">3<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
+<div class="introduction" id="act2-3-1">
+<div class="para logical" id="act2-3-1-1">
 <div class="para">Any differential equation of the form</div>
 <div class="displaymath process-math" id="act2-bernoulli">
 \begin{equation}
-\dydx + P(x)y = Q(x) y^n\tag{0}
+\dydx + P(x)y = Q(x) y^n\tag{4}
 \end{equation}
 </div>
 <div class="para">where <span class="process-math">\(n\)</span> is called a <em class="alert">Bernoulli equation</em>.</div>
 <div class="autopermalink" data-description="Paragraph"><a href="#act2-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div></div>
+</div>
+</div>
 <article class="task exercise-like" id="act2-3-2"><h4 class="heading"><span class="codenumber">(a)</span></h4>
 <div class="para" id="act2-3-2-1-1">Show that, when <span class="process-math">\(n=0\text{,}\)</span> the Bernoulli equation is linear.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="0.5in"></div>
-<div class="autopermalink" data-description="Task 3.a"><a href="#act2-3-2" title="Copy heading and permalink for Task 3.a" aria-label="Copy heading and permalink for Task 3.a">🔗</a></div></article><article class="task exercise-like" id="act2-3-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
+<div class="autopermalink" data-description="Task 3.a"><a href="#act2-3-2" title="Copy heading and permalink for Task 3.a" aria-label="Copy heading and permalink for Task 3.a">🔗</a></div>
+</article>
+<article class="task exercise-like" id="act2-3-3"><h4 class="heading"><span class="codenumber">(b)</span></h4>
 <div class="para" id="act2-3-3-1-1">Show that, when <span class="process-math">\(n=1\text{,}\)</span> the Bernoulli equation is linear.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="0.5in"></div>
-<div class="autopermalink" data-description="Task 3.b"><a href="#act2-3-3" title="Copy heading and permalink for Task 3.b" aria-label="Copy heading and permalink for Task 3.b">🔗</a></div></article><article class="task exercise-like" id="act2-3-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
-<div class="para" id="act2-3-4-1-1">Suppose <span class="process-math">\(n\neq 0\)</span> and <span class="process-math">\(n \neq 1\text{.}\)</span> First, divide both sides of <a href="activities-6.html#act2-bernoulli" class="xref" data-knowl="./knowl/xref/act2-bernoulli.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 0">(0)</a> by <span class="process-math">\(y^n\text{.}\)</span> Then use the substitution <span class="process-math">\(u = y^{1-n}\)</span> to <em class="alert">reduce</em> the Bernoulli equation to be linear.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" data-description="Task 3.b"><a href="#act2-3-3" title="Copy heading and permalink for Task 3.b" aria-label="Copy heading and permalink for Task 3.b">🔗</a></div>
+</article>
+<article class="task exercise-like" id="act2-3-4"><h4 class="heading"><span class="codenumber">(c)</span></h4>
+<div class="para" id="act2-3-4-1-1">Suppose <span class="process-math">\(n\neq 0\)</span> and <span class="process-math">\(n \neq 1\text{.}\)</span> First, divide both sides of <a href="activities-6.html#act2-bernoulli" class="xref" data-knowl="./knowl/xref/act2-bernoulli.html" data-reveal-label="Reveal" data-close-label="Close" title="Equation 4">(4)</a> by <span class="process-math">\(y^n\text{.}\)</span> Then use the substitution <span class="process-math">\(u = y^{1-n}\)</span> to <em class="alert">reduce</em> the Bernoulli equation to be linear.<div class="autopermalink" data-description="Paragraph"><a href="#act2-3-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="4in"></div>
-<div class="autopermalink" data-description="Task 3.c"><a href="#act2-3-4" title="Copy heading and permalink for Task 3.c" aria-label="Copy heading and permalink for Task 3.c">🔗</a></div></article><div class="autopermalink" data-description="Worksheet Exercise 3"><a href="#act2-3" title="Copy heading and permalink for Worksheet Exercise 3" aria-label="Copy heading and permalink for Worksheet Exercise 3">🔗</a></div></article><article class="exercise exercise-like" id="act2-4"><h3 class="heading"><span class="codenumber">4<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
+<div class="autopermalink" data-description="Task 3.c"><a href="#act2-3-4" title="Copy heading and permalink for Task 3.c" aria-label="Copy heading and permalink for Task 3.c">🔗</a></div>
+</article><div class="autopermalink" data-description="Worksheet Exercise 3"><a href="#act2-3" title="Copy heading and permalink for Worksheet Exercise 3" aria-label="Copy heading and permalink for Worksheet Exercise 3">🔗</a></div>
+</article>
+<article class="exercise exercise-like" id="act2-4"><h3 class="heading"><span class="codenumber">4<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h3>
 <div class="para logical" id="act2-4-1-1">
 <div class="para">Use the process outlined in question <a href="activities-6.html#act2-3" class="xref" data-knowl="./knowl/xref/act2-3.html" data-reveal-label="Reveal" data-close-label="Close" title="Worksheet Exercise 3">Worksheet Exercise 3</a> to find a general solution to</div>
 <div class="displaymath process-math" data-contains-math-knowls="./knowl/xref/act2-3.html" id="act2-4-1-1-2">
@@ -456,7 +488,9 @@ x \dydx + y = \frac{1}{y^2}.
 <div class="autopermalink" data-description="Paragraph"><a href="#act2-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="2in"></div>
-<div class="autopermalink" data-description="Worksheet Exercise 4"><a href="#act2-4" title="Copy heading and permalink for Worksheet Exercise 4" aria-label="Copy heading and permalink for Worksheet Exercise 4">🔗</a></div></article><div class="autopermalink" data-description="Worksheet: 🏫 Activity 2 - Solving First-Order Equations"><a href="#activities-6" title="Copy heading and permalink for Worksheet: 🏫 Activity 2 - Solving First-Order Equations" aria-label="Copy heading and permalink for Worksheet: 🏫 Activity 2 - Solving First-Order Equations">🔗</a></div></section>
+<div class="autopermalink" data-description="Worksheet Exercise 4"><a href="#act2-4" title="Copy heading and permalink for Worksheet Exercise 4" aria-label="Copy heading and permalink for Worksheet Exercise 4">🔗</a></div>
+</article><div class="autopermalink" data-description="Worksheet: 🏫 Activity 2 - Solving First-Order Equations"><a href="#activities-6" title="Copy heading and permalink for Worksheet: 🏫 Activity 2 - Solving First-Order Equations" aria-label="Copy heading and permalink for Worksheet: 🏫 Activity 2 - Solving First-Order Equations">🔗</a></div>
+</section>
 </div>
 <div id="ptx-content-footer" class="ptx-content-footer">
 <a class="previous-button button" href="activities-5.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="activities-7.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
