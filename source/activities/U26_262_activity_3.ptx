@@ -37,18 +37,26 @@
     <task workspace="1.5in">
         <statement>
             <p>
-                Assuming the body starts at rest, solve the differential equation above. 
+                The <alert>terminal velocity</alert> of an object is the maximum velocity it can reach while falling. Use the differential equation above to find a formula for the object's terminal velocity.
             </p>
         </statement>
     </task>
 
-    <task workspace="2in">
+    <task workspace="3in">
         <statement>
             <p>
-                The <alert>terminal velocity</alert> of an object is the maximum velocity it can reach while falling. Use your answer from part (a) to determine the terminal velocity of the falling body. 
+                Assuming the body starts at rest, solve the differential equation above. 
             </p>
         </statement>
+
+        <hint>
+            <p>
+                <md> \int \frac{1}{a^2 - (bx)^2} \, dx = \frac{1}{ab} \tanh^{-1}\left(\frac{b}{a}x) </md>
+            </p>
+        </hint>
     </task>
+
+    
 
     <task workspace="1in">
         <statement>

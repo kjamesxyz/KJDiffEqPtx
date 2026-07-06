@@ -41,7 +41,7 @@
         <task workspace="2in">
             <statement>
                 <p>
-                    Find an annihilator for the equation. 
+                    Use annihilators to find the form of the particular solution.
                 </p>
             </statement>
         </task>
@@ -56,10 +56,10 @@
 
         
 
-        <task workspace="2in">
+        <task workspace="6in">
             <statement>
                 <p>
-                    Find a particular solution using variation of parameters. 
+                    Find a particular solution using variation of parameters. You may use wolframalpha to assist with integrals and determinants. 
                 </p>
             </statement>
         </task>
@@ -92,7 +92,7 @@
         <task workspace="2in">
             <statement>
                 <p>
-                    Find an annihilator for the equation. 
+                    Use annihilators to find the form of the particular solution. 
                 </p>
             </statement>
         </task>
@@ -107,10 +107,10 @@
 
         
 
-        <task workspace="2in">
+        <task workspace="5in">
             <statement>
                 <p>
-                    Find a particular solution using variation of parameters. 
+                    Find a particular solution using variation of parameters. You may use wolframalpha to assist with integrals and determinants. 
                 </p>
             </statement>
         </task>
@@ -134,23 +134,6 @@
         <hint>
             <p>
                 These can be personal opinions ;D. 
-            </p>
-        </hint>
-    </exercise>
-
-    <exercise workspace="5in">
-        <statement>
-            <p>
-                Use variation of parameters to show that the function <md>
-                    y(t) = c_1 \cos(t) + c_2 \sin(t) + \int_0^t f(s) \sin(t-s) \, ds 
-                </md> is the general solution to the differential equation <md>
-                    y'' + y = f(t)
-                </md> where <m>f \in \Cee^1(-\infty,\infty).</m>
-            </p>
-        </statement>
-        <hint>
-            <p>
-                Recall that <m>\sin(t-s) = \sin(t) \cos(s) - \sin(s) \cos(t).</m>
             </p>
         </hint>
     </exercise>
