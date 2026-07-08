@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Exams",
-  "body": " Exams    Instructions: You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct.  For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of paper. You must use the colored paper provided during the exam. In this case, please clearly label which work corresponds to each exam question. If you are unsure of how to correctly answer a question, please list any relevant procedures, theorems, or definitions you are aware of that would be necessary for completing the problem.    Exam 1    Instructions: You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct.  For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of paper. You must use the colored paper provided during the exam. In this case, please clearly label which work corresponds to each exam question. If you are unsure of how to correctly answer a question, please list any relevant procedures, theorems, or definitions you are aware of that would be necessary for completing the problem.      Consider the differential equation     Determine the order of the equation above. Justify your answer.    Is the equation ordinary or partial? How do you know?    Is the equation linear or nonlinear? How do you know?    Is this equation homogeneous? How do you know?        Use separation of variables to find a solution to the initial-value problem       Consider the differential equation     Find the general solution of the equation by any method.    Give the largest interval of existence for the solution you gave in part (a).        Solve the differential equation using the substitution .        Newton's Law of Cooling says that the rate at which a body cools is proportional to the difference in its temperature and the ambient temperature .     Write a differential equation that models Newton's Law of Cooling.      Find a general solution to the model you wrote in part (a).      Suppose a thermometer is taken out of a F room and placed outside where the ambient temperature is F. After 30 seconds, the thermometer has fallen to F. Use your answer from part (b) to write a model for the temperature of the thermometer after seconds.      Determine how long will it take the thermometer to reach 15 F.      In your own words, explain the difference between the model you gave in part (a) and part (c).         The slope field for the differential equation is shown below.     Identify the slope function of this differential equation.          Consider the IVP      Identify the slope function of this differential equation.      Find all equilibria (nullclines) for the system.      Use your answer(s) for part (b) to plot a phase portrait of the system on the set of axes below. Clearly sketch and label all equilibria and identify regions of increasing\/descreasing slope.   An blank set of axes for graphing.       Classify the equilibria you found in part (b) as stable, unstable, or neither. Use the phase portrait your produced in part (c) to justify your answer.       "
+  "body": " Exams    Instructions: You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct.  For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of paper. You must use the colored paper provided during the exam. In this case, please clearly label which work corresponds to each exam question. If you are unsure of how to correctly answer a question, please list any relevant procedures, theorems, or definitions you are aware of that would be necessary for completing the problem.    Exam 1    Instructions: You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct.  For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of colored paper. In this case, please clearly label which work corresponds to each exam question. Each question's weight is displayed at the beginning of the problem. There are 110 points, but this exam will be graded out of 100 points, meaning there are 10 points of extra credit.      [12 points] Consider the differential equation     Determine the order of the equation above. Justify your answer.    Is the equation ordinary or partial? How do you know?    Is the equation linear or nonlinear? How do you know?    Is this equation homogeneous? How do you know?        [16 points] Use separation of variables to find a solution to the initial-value problem       [16 points] Solve the differential equation using any method        [20 points] Solve the differential equation using the substitution .        [24 points] Newton's Law of Cooling says that the rate at which a body cools is proportional to the difference in its temperature and the ambient temperature .     Write a differential equation that models Newton's Law of Cooling.      Find a general solution to the model you wrote in part (a).      Suppose a thermometer is taken out of a F room and placed outside where the ambient temperature is F. After 30 seconds, the thermometer has fallen to F. Use your answer from part (b) to write a model for the temperature of the thermometer after seconds.      Determine how long will it take the thermometer to reach 15 F.      In your own words, explain the difference between the model you gave in part (a) and part (c).         [9 points] Suppose the slope field pictured below corresponds to a first-order ODE.   A slope field whose slope is flat at y=2 and y=-3 and decreasing everywhere. The slope is negative only between y=-2 and y=3.     Identify all nullclines for the system.    Label at least one more non-zero isocline for the system.    Use your answer from part (a) to write the differential equation.        [13 points] Consider the IVP      Identify the slope function of this differential equation.      Find all equilibria (nullclines) for the system.      Use your answer(s) for part (b) to plot a phase portrait of the system on the set of axes below. Clearly sketch and label all equilibria and identify regions of increasing\/descreasing slope.   An blank set of axes for graphing.       Classify the equilibria you found in part (b) as stable, unstable, or neither. Use the phase portrait your produced in part (c) to justify your answer.       "
 },
 {
   "id": "exam-1-3-1",
@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  Consider the differential equation     Determine the order of the equation above. Justify your answer.    Is the equation ordinary or partial? How do you know?    Is the equation linear or nonlinear? How do you know?    Is this equation homogeneous? How do you know?   "
+  "body": "  [12 points] Consider the differential equation     Determine the order of the equation above. Justify your answer.    Is the equation ordinary or partial? How do you know?    Is the equation linear or nonlinear? How do you know?    Is this equation homogeneous? How do you know?   "
 },
 {
   "id": "exam-1-4-1",
@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Use separation of variables to find a solution to the initial-value problem    "
+  "body": "  [16 points] Use separation of variables to find a solution to the initial-value problem    "
 },
 {
   "id": "exam-1-4-2",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "",
-  "body": "  Consider the differential equation     Find the general solution of the equation by any method.    Give the largest interval of existence for the solution you gave in part (a).   "
+  "body": "  [16 points] Solve the differential equation using any method   "
 },
 {
   "id": "exam-1-5-1",
@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "",
-  "body": "  Solve the differential equation using the substitution .   "
+  "body": "  [20 points] Solve the differential equation using the substitution .   "
 },
 {
   "id": "exam-1-6-1",
@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "  Newton's Law of Cooling says that the rate at which a body cools is proportional to the difference in its temperature and the ambient temperature .     Write a differential equation that models Newton's Law of Cooling.      Find a general solution to the model you wrote in part (a).      Suppose a thermometer is taken out of a F room and placed outside where the ambient temperature is F. After 30 seconds, the thermometer has fallen to F. Use your answer from part (b) to write a model for the temperature of the thermometer after seconds.      Determine how long will it take the thermometer to reach 15 F.      In your own words, explain the difference between the model you gave in part (a) and part (c).    "
+  "body": "  [24 points] Newton's Law of Cooling says that the rate at which a body cools is proportional to the difference in its temperature and the ambient temperature .     Write a differential equation that models Newton's Law of Cooling.      Find a general solution to the model you wrote in part (a).      Suppose a thermometer is taken out of a F room and placed outside where the ambient temperature is F. After 30 seconds, the thermometer has fallen to F. Use your answer from part (b) to write a model for the temperature of the thermometer after seconds.      Determine how long will it take the thermometer to reach 15 F.      In your own words, explain the difference between the model you gave in part (a) and part (c).    "
 },
 {
   "id": "exam-1-7-1",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "",
-  "body": "  The slope field for the differential equation is shown below.     Identify the slope function of this differential equation.    "
+  "body": "  [9 points] Suppose the slope field pictured below corresponds to a first-order ODE.   A slope field whose slope is flat at y=2 and y=-3 and decreasing everywhere. The slope is negative only between y=-2 and y=3.     Identify all nullclines for the system.    Label at least one more non-zero isocline for the system.    Use your answer from part (a) to write the differential equation.   "
 },
 {
   "id": "exam-1-8-1",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "7",
   "title": "",
-  "body": "  Consider the IVP      Identify the slope function of this differential equation.      Find all equilibria (nullclines) for the system.      Use your answer(s) for part (b) to plot a phase portrait of the system on the set of axes below. Clearly sketch and label all equilibria and identify regions of increasing\/descreasing slope.   An blank set of axes for graphing.       Classify the equilibria you found in part (b) as stable, unstable, or neither. Use the phase portrait your produced in part (c) to justify your answer.    "
+  "body": "  [13 points] Consider the IVP      Identify the slope function of this differential equation.      Find all equilibria (nullclines) for the system.      Use your answer(s) for part (b) to plot a phase portrait of the system on the set of axes below. Clearly sketch and label all equilibria and identify regions of increasing\/descreasing slope.   An blank set of axes for graphing.       Classify the equilibria you found in part (b) as stable, unstable, or neither. Use the phase portrait your produced in part (c) to justify your answer.    "
 }
 ]
 
