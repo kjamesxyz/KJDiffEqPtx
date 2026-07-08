@@ -26,7 +26,7 @@
     <page>
         <exercise>
             <introduction>
-                <p> Consider the differential equation <md> \frac{d^2y}{dx^2} - 2x \frac{dy}{dx} + 2y = 0.</md> </p> 
+                <p> [12 points] Consider the differential equation <md> \frac{d^2y}{dx^2} - 2x \frac{dy}{dx} + 2y = 0.</md> </p> 
             </introduction>
             <task workspace="0.25in"> 
                 <p> Determine the order of the equation above. Justify your answer. </p> 
@@ -46,27 +46,21 @@
     <page>
         <exercise workspace="2in">
             <statement >
-                <p> Use separation of variables to find a solution to the initial-value problem <md> \frac{dy}{dx} = \frac{2x+1}{2y}; \hspace{10pt} y(-2)=-1. </md> </p>
+                <p> [16 points] Use separation of variables to find a solution to the initial-value problem <md> \frac{dy}{dx} = \frac{2x+1}{2y}; \hspace{10pt} y(-2)=-1. </md> </p>
             </statement>
         </exercise>
 
-        <exercise>
-            <introduction>
-                <p> Consider the differential equation <md> 4y \, dx = 4(x + y^6) \, dy </md> </p>
-            </introduction>
-            <task workspace="3in"> 
-                <p> Find the general solution of the equation by any method. </p> 
-            </task>
-            <task workspace="0.25in"> 
-                <p> Give the largest possible interval of existence for the solution you gave in part (a). </p> 
-            </task>
+        <exercise workspace="4in">
+            <statement>
+                <p> [16 points] Solve the differential equation <md> 4y \, dx = 4(y-x) \, dy</md> using any method</p>
+            </statement>
         </exercise>
     </page>
 
     <page>
         <exercise workspace="4in">
             <statement>
-                <p> Solve the differential equation <md> (x + ye^{y/x}) \, dx - x e^{y/x} \, dy = 0. </md> using the substitution <m> u = y/x </m>.</p>
+                <p> [20 points] Solve the differential equation <md> (x + ye^{y/x}) \, dx - x e^{y/x} \, dy = 0. </md> using the substitution <m> u = y/x </m>.</p>
             </statement>
         </exercise>
     </page> 
@@ -74,7 +68,7 @@
     <page>
         <exercise workspace="1in">
             <introduction>
-                <p> Newton's Law of Cooling says that the rate at which a body cools is proportional to the difference in its temperature <m>T</m> and the ambient temperature <m>T_m</m>. </p>
+                <p> [24 points] Newton's Law of Cooling says that the rate at which a body cools is proportional to the difference in its temperature <m>T</m> and the ambient temperature <m>T_m</m>. </p>
             </introduction>
 
             <task workspace="0.25in">
@@ -112,21 +106,39 @@
 
     <page>
         <exercise workspace="0.5in">
-            <statement>
+            <introduction>
                 <p>
-                    Write the first-order ODE that corresponds to the slope field picture below. 
+                    [9 points] Suppose the slope field pictured below corresponds to a first-order ODE. 
                 </p>
                 <image source="slope_field.png" width="60%">
                     <shortdescription> A slope field whose slope is flat at y=2 and y=-3 and decreasing everywhere. The slope is negative only between y=-2 and y=3. </shortdescription>
                 </image>
-            </statement>
+            </introduction> 
+
+            <task workspace="0.5in">
+                <p> 
+                    Identify all nullclines for the system. 
+                </p> 
+            </task>
+
+            <task workspace="0.5in">
+                <p> 
+                    Label at least one more non-zero isocline for the system. 
+                </p> 
+            </task>
+
+            <task workspace="0.5in">
+                <p> 
+                    Use your answer from part (a) to write the differential equation. 
+                </p> 
+            </task>
         </exercise>
     </page> 
 
     <page>
         <exercise>
             <introduction>
-                <p> Consider the IVP <md> \frac{dy}{dx} = y^2 - 3y. </md> </p>
+                <p> [13 points] Consider the IVP <md> \frac{dy}{dx} = y^2 - 3y. </md> </p>
             </introduction>
 
             <task workspace="0.25in">
