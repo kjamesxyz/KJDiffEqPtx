@@ -53,7 +53,7 @@
     <task workspace="1in">
         <statement>
             <p>
-                The <alert> terminal velocity </alert> of an object is the maximum velocity it can reach while falling. Find a formula for the terminal velocity using the differential equation above. 
+                Use your answers from parts (a) and (b) to determine how long an object must fall before achieving terminal velocity. Assume the object starts at rest.
             </p>
         </statement>
     </task>
@@ -61,7 +61,7 @@
     <task workspace="1in">
         <statement>
             <p>
-                Use your answers from parts (a) and (b) to determine how long an object must fall before achieving terminal velocity. 
+                A 150 lb skydiver jumps headfirst from a plane cruising at an altitude of 20,000 feet. With their technique, they are able to achieve a drag coefficient of <m> k=0.7</m>. Use your model above, together with <m>g \approx 32 \text{ft/s}^2</m> to determine their terminal velocity.  
             </p>
         </statement>
     </task>
@@ -69,7 +69,7 @@
     <task workspace="1in">
         <statement>
             <p>
-                A skydiver jumps from a plane cruising at an altitude of 20,000 feet. After 25 seconds, he opens his parachute and observes her altitude to be 14,800 feet. Use your model above, together with <m>g \approx 32 \text{ft/s}^2</m>. How fast is the skydiver falling at 15 seconds?  
+                Assuming the diver must deploy their parachute by 14,000 feet to ensure a safe landing, how long should they dive for before pulling the cord?  
             </p>
         </statement>
     </task>
