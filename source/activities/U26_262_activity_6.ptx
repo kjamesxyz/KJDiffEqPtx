@@ -19,7 +19,7 @@
     </exercise>
 
     <!-- Problem 2 -->
-    <exercise workspace="4in">
+    <exercise workspace="3in">
         <statement>
             <p>
                  Find two power series solutions for the ODE <m> y'' + y = x^2 </m> centered at <m>x=0</m>. Determine its raidus of convergence. 
