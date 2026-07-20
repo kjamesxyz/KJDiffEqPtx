@@ -28,10 +28,10 @@
     </exercise>
 
     <!-- Problem 3 -->
-    <exercise workspace="4in">
+    <exercise workspace="2in">
         <statement>
             <p>
-                 How many linearly independent power series solutions centered at <m>x=0</m> exist for the ODE <m> xy'' + y = 0 </m>? 
+                 Without actually solving, how many linearly independent power series solutions centered at <m>x=0</m> must exist for the ODE <m> xy'' + y = 0 </m>? How do you know?
             </p>
         </statement>
     </exercise>
@@ -87,7 +87,7 @@
           <task workspace="3in">
                <statement>
                     <p>
-                         To make this recurrence relation more legible, we define the <alert>Gamma function</alert> <m> \Gamma(n) = (n-1)!</m> and choose <md> c_0 = \frac{1}{2^\nu \Gamma(1 + \nu)}.</md> Use the property that <m> \Gamma(1+\nu) = \nu \Gamma( \nu ) </m> to show that, with this choice of <m> c_0 </m>, we can obtain <md> c_{2n} = \frac{(-1)^n}{2^{2n + \nu} \, n! \, \Gamma(1 + \nu + n)} </md>
+                         To make this recurrence relation more legible, we define the <alert>Gamma function</alert> <m> \Gamma(n) = (n-1)!</m> and choose <md> c_0 = \frac{1}{2^\nu \Gamma(1 + \nu)}.</md> We then write our recurrence relation as <md> c_{2n} = \frac{(-1)^n}{2^{2n + \nu} \, n! \, \Gamma(1 + \nu + n)}.</md> Use the property that <m> \Gamma(1+\nu) = \nu \Gamma( \nu ) </m> to show that this formula is equivalent to the relationship you discovered in part (e).
                     </p>
                </statement>
           </task>
