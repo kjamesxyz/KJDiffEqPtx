@@ -13,7 +13,7 @@
     <exercise>
         <introduction>
             <p>
-                The <alert>Dirac Delta function</alert> is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its "definition" is <md> \delta(t - t_0) = \begin{cases} \infty &amp; \text{if} t = t_0; 0 &amp; \text{otherwise}. \end{cases} </md> and is "forced" to have the property <md> \int_{-\infty}^\infty \delta(t-t_0) \, dt = 1.</md>
+                The <alert>Dirac Delta function</alert> is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its "definition" is <md> \delta(t - t_0) = \begin{cases} \infty &amp; \ \text{if} t = t_0; \\ 0 &amp; \ \text{otherwise}. \end{cases} </md> and is "forced" to have the property <md> \int_{-\infty}^\infty \delta(t-t_0) \, dt = 1.</md>
             </p>
         </introduction>
 
