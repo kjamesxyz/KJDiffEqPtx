@@ -91,6 +91,15 @@ var ptx_lunr_docs = [
   "body": " 🗺️ Module 6 Map   All of the content in this module should be completed before Monday, July 20 .    The Big Picture  So far, each of the methods we have seen for solving differential equations have taken advantage of the structure of the equation (e.g. if it is exact, homogeneous, linear, etc.). In this section, we look at a more general approach to solving differential equations: finding power series solutions.    Module Objectives  After completing all work in this module, students will be able to...  Reindex and perform calculations involving multiple power series.  Classify ordinary and singular points for ODEs.  Find power series solutions for ODEs about ordinary points.  Find power series solutions for ODEs about singular points.      To Do List  In this module, you will...  Watch 5 videos (~48 minutes).  Complete 3 checkpoints.  Add 3 items to your prep work book.  Write solutions to all assigned problems in Homework 6      "
 },
 {
+  "id": "map7",
+  "level": "1",
+  "url": "map7.html",
+  "type": "Section",
+  "number": "",
+  "title": "🗺️ Module 7 Map",
+  "body": " 🗺️ Module 7 Map   All of the content in this module should be completed before Wednesday, July 22 .    The Big Picture  Continuing our adventure of finding more general-purpose solution methods that don't heavily rely on the structure of differential equations, we turn to transformations. The Laplace transform is a straight-forward transformation method that is sometimes used in signal processing problems (very relevant to the student body in this section). The goal of transformation methods is to \"transform\" the differential equation into an algebraic equation (which can often be easily solved). Then, we recover the differential equation's solution from the corresponding algebraic equation's solution.    Module Objectives  After completing all work in this module, students will be able to...  Apply Laplace transforms and inverse Laplace transforms using the definition.  Apply Laplace transforms and inverse Laplace transforms using properties of each.  Find solutions to higher-order IVPs using Laplace transforms and inverse Laplace transforms.      To Do List  In this module, you will...  Watch 4 videos (~23 minutes).  Complete 1 checkpoint.  Add 4 items to your prep work book.  Write solutions to all problems in Homework 7 .     "
+},
+{
   "id": "prepx",
   "level": "1",
   "url": "prepx.html",
@@ -143,6 +152,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "✍️ Prep Work 6",
   "body": " ✍️ Prep Work 6   To receive full credit, please complete this prep work entry by the beginning of class Monday, July 20 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  What does it mean for a power series to converge ?  What is the radius of convergence for a power series?  Write Frobenius' theorem.     "
+},
+{
+  "id": "prep7",
+  "level": "1",
+  "url": "prep7.html",
+  "type": "Section",
+  "number": "",
+  "title": "✍️ Prep Work 7",
+  "body": " ✍️ Prep Work 7   To receive full credit, please complete this prep work entry by the beginning of class Wednesday, July 22 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  Write down the definition (formula) for the Laplace transform .  Write down Theorem 7.2.2 from the course textbook (pg. 265).  Define the Heaviside step function .  Define .     "
 },
 {
   "id": "loop-x",
@@ -205,7 +223,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 7",
-  "body": " 🔎 Loop 7   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 22 .    5.1 - Laplace Transforms  In this section, we will learn to compute Laplace transforms.  Watch 🎥 Video 5.1.1 (2:36).  🎯 Practice: Verify all of the transforms showin in Theorem 7.1.1 (pg. 258). Then use these identities on preoblems 20-36 (evens) from Exercises 7.1 (pg. 261).      5.2 - Inverse Laplace Transforms  In this section, we will learn to compute inverse Laplace transforms.  Watch 🎥 Video 5.2.1 (4:07).  🎯 Practice: Problems 1-30 (alternating evens) in Exercises 7.2 (pg. 269-270).      5.3 - Properties of Laplace Transforms  In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms.  Watch 🎥 Video 5.2.1 (4:07).  🎯 Practice: Problems 1-30 (alternating evens) in Exercises 7.2 (pg. 269-270).     "
+  "body": " 🔎 Loop 7   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 22 .    5.1 - Laplace Transforms  In this section, we will learn to compute Laplace transforms.  Watch 🎥 Video 5.1.1 (2:36).  🎯 Practice: Verify all of the transforms showin in Theorem 7.1.1 (pg. 258). Then use these identities on preoblems 20-36 (evens) from Exercises 7.1 (pg. 261).      5.2 - Inverse Laplace Transforms  In this section, we will learn to compute inverse Laplace transforms.  Watch 🎥 Video 5.2.1 (4:07).  🎯 Practice: Problems 1-30 (alternating evens) in Exercises 7.2 (pg. 269-270).      5.3 - Properties of Laplace Transforms  In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms.  Watch 🎥 Video 5.3.1 (9:56).  Complete ✅ Checkpoint 5.3.1 .  🎯 Practice: Problems 1-19 (alternating odds), 37-47 (odds) in Exercises 7.3 (pg. 278).  🎯 Practice: Problems 1, 5, 19-29 (odds), 49-53 (odds) in Exercises 7.4 (pgs. 289-290).      5.4 - Solving IVPs with Laplace Transforms  In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms.  Watch 🎥 Video 5.4.1 (5:47).  🎯 Practice: Problems 31-37 (odds) in Exercises 7.2 (pg. 270).  🎯 Practice: Problems 21-29 (odds) in Exercises 7.3 (pg. 279).  🎯 Practice: Problems 9-13 (odds), 37-45 (alternating odds) in Exercises 7.4 (pgs. 289-290).     "
 },
 {
   "id": "hwx-assigned",
@@ -404,6 +422,51 @@ var ptx_lunr_docs = [
   "number": "3",
   "title": "",
   "body": "  Find a general power series solution on for the ODE    "
+},
+{
+  "id": "hw7",
+  "level": "1",
+  "url": "hw7.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "📝 Homework 7",
+  "body": " 📝 Homework 7    Instructions: This assignment is due Wednesday, July 22 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.     Let . Compute using the definition of the Laplace transform.      Suppose you were asked to compute the inverse Laplace transform of your answer to problem 1. Explain how you would do this using a table of known Laplace transforms.      Use Laplace transforms to solve the IVP       Use Laplace transforms to solve the IVP     "
+},
+{
+  "id": "hw7-3",
+  "level": "2",
+  "url": "hw7.html#hw7-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Let . Compute using the definition of the Laplace transform.   "
+},
+{
+  "id": "hw7-4",
+  "level": "2",
+  "url": "hw7.html#hw7-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Suppose you were asked to compute the inverse Laplace transform of your answer to problem 1. Explain how you would do this using a table of known Laplace transforms.   "
+},
+{
+  "id": "hw7-5",
+  "level": "2",
+  "url": "hw7.html#hw7-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Use Laplace transforms to solve the IVP    "
+},
+{
+  "id": "hw7-6",
+  "level": "2",
+  "url": "hw7.html#hw7-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Use Laplace transforms to solve the IVP    "
 },
 {
   "id": "activities-3",
@@ -710,6 +773,42 @@ var ptx_lunr_docs = [
   "number": "4",
   "title": "",
   "body": "  An equation of the form , where , is called a Bessel's equation , and plays an important role in describing important physical phenomena (e.g. wave motion, heat conduction, etc.).     Find all regular points of Bessel's equation.      Frobenius' theorem guarantees the existence of at least one solution with the form Substitue this trial solution into Bessel's equation and write the left-hand side as a single power series.      Show that Bessel's equation has indeces .      Write a recurrence relation to describe the coefficients in the case . Then use your recurrence relation to write in terms of \/      It turns out that we can actually define these coefficients explicitly using the formula Use this formula to recompute as some evidence it works.      To make this recurrence relation more legible, we define the Gamma function  and choose We then write our recurrence relation as Use the property that to show that this formula is equivalent to the relationship you discovered in part (e).      We call the solutions of this form Bessel functions of first kind with order and write them . Write the formula for the Bessel function of first kind with order 2.    "
+},
+{
+  "id": "a7",
+  "level": "1",
+  "url": "a7.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "🏫 Activity 7 - Laplace Transforms",
+  "body": " 🏫 Activity 7 - Laplace Transforms    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on Monday, July 27 .      The Dirac Delta function is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its \"definition\" is and is \"forced\" to have the property      Explain how exhibiting both of the properties in its definition might be controversial.      Show that, for we have         Use Laplace transforms to solve the BVP        The voltage across a particular circuit is described by the differential equation where is the impressed voltage.     An engineer sends an instantaneous 3V pulse into the circuit after 2 seconds. Assuming the circuit starts at rest, write the corresponding IVP.      Use Laplace transforms to find a solution to the IVP you wrote in part (a).      Explain the qualitative behavior of the system. In particular, describe what is happening to the current in the circuit before, during, and after the pulse is applied.     "
+},
+{
+  "id": "a7-3",
+  "level": "2",
+  "url": "a7.html#a7-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  The Dirac Delta function is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its \"definition\" is and is \"forced\" to have the property      Explain how exhibiting both of the properties in its definition might be controversial.      Show that, for we have     "
+},
+{
+  "id": "a7-4",
+  "level": "2",
+  "url": "a7.html#a7-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Use Laplace transforms to solve the BVP    "
+},
+{
+  "id": "a7-5",
+  "level": "2",
+  "url": "a7.html#a7-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  The voltage across a particular circuit is described by the differential equation where is the impressed voltage.     An engineer sends an instantaneous 3V pulse into the circuit after 2 seconds. Assuming the circuit starts at rest, write the corresponding IVP.      Use Laplace transforms to find a solution to the IVP you wrote in part (a).      Explain the qualitative behavior of the system. In particular, describe what is happening to the current in the circuit before, during, and after the pulse is applied.    "
 },
 {
   "id": "review1",
