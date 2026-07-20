@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="a7">
+    <title>🏫 Activity 7 - Laplace Transforms </title>
+
+    <introduction>
+    <p>
+        <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on <alert>Monday, July 27</alert>.
+    </p>
+    </introduction>
+
+    <!-- Problem 1 -->
+    <exercise>
+        <introduction>
+            <p>
+                The <alert>Dirac Delta function</alert> is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its "definition" is <md> \delta(t - t_0) = \begin{cases} \infty &amp; \text{if} t = t_0; 0 &amp; \text{otherwise}. \end{cases} </md> and is "forced" to have the property <md> \int_{-\infty}^\infty \delta(t-t_0) \, dt = 1.</md>
+            </p>
+        </introduction>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Explain how exhibiting both of the properties in its definition might be controversial. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Show that, for <m> t_0 \gt 0 </m> we have <md> \mathcal{L} \{\delta(t-t_0) \} = e^{-st_0}. </md>
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+    <!-- Problem 2 -->
+    <exercise workspace="5in">
+        <statement>
+            <p>
+                Use Laplace transforms to solve the BVP <md> y'' + 8y' + 20y = 0; \hspace{10pt} y(0) = y'(\pi) = 0 .</md> 
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 3 -->
+    <exercise>
+        <introduction>
+            <p>
+                The voltage across a particular circuit is described by the differential equation <md> u'' + 4u' + 5u = E(t) </md> where <m>E(t)</m> is the impressed voltage. 
+            </p>
+        </introduction>
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    An engineer sends an instantaneous 3V pulse into the circuit after 2 seconds. Assuming the circuit starts at rest, write the corresponding IVP. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="4in">
+            <statement>
+                <p>
+                    Use Laplace transforms to find a solution to the IVP you wrote in part (a). 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="3in">
+            <statement>
+                <p>
+                    Explain the qualitative behavior of the system. In particular, describe what is happening to the current in the circuit before, during, and after the pulse is applied. 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+</worksheet>
+
+
+
+

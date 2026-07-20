@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="hw7">
+    <title>📝 Homework 7</title>
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> This assignment is due <alert>Wednesday, July 22</alert>. Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
+        </p>
+    </introduction>
+
+    <exercise workspace="5in">
+        <statement>
+            <p>
+                Let <m> f(t) = 4t^2 - 5 \sin(3t) </m>. Compute <m> \mathcal{L} \{f(t) \} </m> using the definition of the Laplace transform. 
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise workspace="2in">
+        <statement>
+            <p>
+                Suppose you were asked to compute the inverse Laplace transform of your answer to problem 1. Explain how you would do this using a table of known Laplace transforms. 
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Use Laplace transforms to solve the IVP <md> y'' - 4y' + 4y = t^3 e^{2t}; \hspace{10pt} y(0)=y'(0)=0.</md>
+            </p>
+        </statement>
+    </exercise>
+
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Use Laplace transforms to solve the IVP <md> y' + y = t \sin(t); \hspace{10pt} y(0)=0.</md> 
+            </p>
+        </statement>
+    </exercise>
+
+</worksheet>

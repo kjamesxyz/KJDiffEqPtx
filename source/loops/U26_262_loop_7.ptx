@@ -45,8 +45,26 @@
         <p>
             In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms. 
             <ol>
-                <li><p> Watch <url href="https://youtu.be/zUAs_OZPaA4"> 🎥 Video 5.2.1 </url> (4:07). </p></li>
-                <li><p> 🎯 <alert> Practice: </alert> Problems 1-30 (alternating evens) in Exercises 7.2 (pg. 269-270). </p></li> 
+                <li><p> Watch <url href="https://youtu.be/sb3A2awuY78"> 🎥 Video 5.3.1 </url> (9:56). </p></li>
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/352528">✅ Checkpoint 5.3.1 </url>. </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 1-19 (alternating odds), 37-47 (odds) in Exercises 7.3 (pg. 278). </p></li> 
+                <li><p> 🎯 <alert> Practice: </alert> Problems 1, 5, 19-29 (odds), 49-53 (odds) in Exercises 7.4 (pgs. 289-290). </p></li> 
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>
+            5.4 - Solving IVPs with Laplace Transforms
+        </title>
+        
+        <p>
+            In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms. 
+            <ol>
+                <li><p> Watch <url href="https://youtu.be/VSJVeRPuF30"> 🎥 Video 5.4.1 </url> (5:47). </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 31-37 (odds) in Exercises 7.2 (pg. 270). </p></li> 
+                <li><p> 🎯 <alert> Practice: </alert> Problems 21-29 (odds) in Exercises 7.3 (pg. 279). </p></li> 
+                <li><p> 🎯 <alert> Practice: </alert> Problems 9-13 (odds), 37-45 (alternating odds) in Exercises 7.4 (pgs. 289-290). </p></li>
             </ol>
         </p>
     </subsection>

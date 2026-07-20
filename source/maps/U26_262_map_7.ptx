@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="map7">
+    <title>🗺️ Module 7 Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>Wednesday, July 22</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            Continuing our adventure of finding more general-purpose solution methods that don't heavily rely on the structure of differential equations, we turn to transformations. The Laplace transform is a straight-forward transformation method that is sometimes used in signal processing problems (very relevant to the student body in this section). The goal of transformation methods is to "transform" the differential equation into an algebraic equation (which can often be easily solved). Then, we recover the differential equation's solution from the corresponding algebraic equation's solution. 
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Apply Laplace transforms and inverse Laplace transforms using the definition. </p></li>
+                <li><p> Apply Laplace transforms and inverse Laplace transforms using properties of each. </p></li>
+                <li><p> Find solutions to higher-order IVPs using Laplace transforms and inverse Laplace transforms. </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>4</alert> videos (~23 minutes). </p></li>
+                <li><p> Complete <alert>1</alert> checkpoint. </p></li>
+                <li><p> Add <alert>4</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all problems in <alert>Homework 7</alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+</section>
