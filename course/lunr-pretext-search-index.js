@@ -163,6 +163,15 @@ var ptx_lunr_docs = [
   "body": " ✍️ Prep Work 7   To receive full credit, please complete this prep work entry by the beginning of class Wednesday, July 22 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  Write down the definition (formula) for the Laplace transform .  Write down Theorem 7.2.2 from the course textbook (pg. 265).  Define the Heaviside step function .  Define .     "
 },
 {
+  "id": "prep9",
+  "level": "1",
+  "url": "prep9.html",
+  "type": "Section",
+  "number": "",
+  "title": "✍️ Prep Work 9",
+  "body": " ✍️ Prep Work 9   To receive full credit, please complete this prep work entry by the beginning of class Wednesday, July 29 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  Explain how to set up the characteristic equation for a 1st-order system of ODEs.     "
+},
+{
   "id": "loop-x",
   "level": "1",
   "url": "loop-x.html",
@@ -223,7 +232,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 7",
-  "body": " 🔎 Loop 7   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 22 .    5.1 - Laplace Transforms  In this section, we will learn to compute Laplace transforms.  Watch 🎥 Video 5.1.1 (2:36).  🎯 Practice: Verify all of the transforms showin in Theorem 7.1.1 (pg. 258). Then use these identities on preoblems 20-36 (evens) from Exercises 7.1 (pg. 261).      5.2 - Inverse Laplace Transforms  In this section, we will learn to compute inverse Laplace transforms.  Watch 🎥 Video 5.2.1 (4:07).  🎯 Practice: Problems 1-30 (alternating evens) in Exercises 7.2 (pg. 269-270).      5.3 - Properties of Laplace Transforms  In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms.  Watch 🎥 Video 5.3.1 (9:56).  Complete ✅ Checkpoint 5.3.1 .  🎯 Practice: Problems 1-19 (alternating odds), 37-47 (odds) in Exercises 7.3 (pg. 278).  🎯 Practice: Problems 1, 5, 19-29 (odds), 49-53 (odds) in Exercises 7.4 (pgs. 289-290).      5.4 - Solving IVPs with Laplace Transforms  In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms.  Watch 🎥 Video 5.4.1 (5:47).  🎯 Practice: Problems 31-37 (odds) in Exercises 7.2 (pg. 270).  🎯 Practice: Problems 21-29 (odds) in Exercises 7.3 (pg. 279).  🎯 Practice: Problems 9-13 (odds), 37-45 (alternating odds) in Exercises 7.4 (pgs. 289-290).     "
+  "body": " 🔎 Loop 7   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 22 .    5.1 - Laplace Transforms  In this section, we will learn to compute Laplace transforms.  Watch 🎥 Video 5.1.1 (2:36).  🎯 Practice: Verify all of the transforms shown in in Theorem 7.1.1 (pg. 258). Then use these identities on preoblems 20-36 (evens) from Exercises 7.1 (pg. 261).      5.2 - Inverse Laplace Transforms  In this section, we will learn to compute inverse Laplace transforms.  Watch 🎥 Video 5.2.1 (4:07).  🎯 Practice: Problems 1-30 (alternating evens) in Exercises 7.2 (pg. 269-270).      5.3 - Properties of Laplace Transforms  In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms.  Watch 🎥 Video 5.3.1 (9:56).  Complete ✅ Checkpoint 5.3.1 .  🎯 Practice: Problems 1-19 (alternating odds), 37-47 (odds) in Exercises 7.3 (pg. 278).  🎯 Practice: Problems 1, 5, 19-29 (odds), 49-53 (odds) in Exercises 7.4 (pgs. 289-290).      5.4 - Solving IVPs with Laplace Transforms  In this section, we will learn properties of Laplace transforms that will allow us to quickly compute more complicated transforms.  Watch 🎥 Video 5.4.1 (5:47).  🎯 Practice: Problems 31-37 (odds) in Exercises 7.2 (pg. 270).  🎯 Practice: Problems 21-29 (odds) in Exercises 7.3 (pg. 279).  🎯 Practice: Problems 9-13 (odds), 37-45 (alternating odds) in Exercises 7.4 (pgs. 289-290).     "
+},
+{
+  "id": "loop-9",
+  "level": "1",
+  "url": "loop-9.html",
+  "type": "Section",
+  "number": "",
+  "title": "🔎 Loop 9",
+  "body": " 🔎 Loop 9   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 29 .    7.1 - Homogeneous Systems of ODEs  In this section, we will learn to compute Laplace transforms.  Watch 🎥 Video 7.1.1 (6:53).  🎯 Practice: Problems 1-15 (odd) in Exercises 8.1 (pgs. 310-311).  Watch 🎥 Video 7.1.2 (10:33).  Watch 🎥 Video 7.1.3 (8:52).  🎯 Practice: Problems 1-13 (odd) in Exercises 8.2 (pg. 324).     "
 },
 {
   "id": "hwx-assigned",
