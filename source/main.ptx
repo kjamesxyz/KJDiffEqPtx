@@ -56,6 +56,8 @@
       <!-- No prep 5 due to exam -->
       <xi:include href="./prepwork/U26_262_prep_6.ptx"/>
       <xi:include href="./prepwork/U26_262_prep_7.ptx"/>
+
+      <xi:include href="./prepwork/U26_262_prep_9.ptx"/>
     </chapter>
 
     <chapter xml:id="loops">
@@ -74,6 +76,8 @@
       <!-- No loop 5 due to exam -->
       <xi:include href="./loops/U26_262_loop_6.ptx" />
       <xi:include href="./loops/U26_262_loop_7.ptx" />
+
+      <xi:include href="./loops/U26_262_loop_9.ptx" />
     </chapter>
 
 
@@ -93,6 +97,7 @@
       <!-- No homework 5 due to exam -->
       <xi:include href="./homework/U26_262_homework_6.ptx" />
       <xi:include href="./homework/U26_262_homework_7.ptx" />
+      
     </chapter>
 
     <chapter xml:id="activities">
