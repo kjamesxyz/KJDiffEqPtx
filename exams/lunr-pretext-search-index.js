@@ -71,6 +71,24 @@ var ptx_lunr_docs = [
   "number": "7",
   "title": "",
   "body": "  [13 points] Consider the IVP      Identify the slope function of this differential equation.      Find all equilibria (nullclines) for the system.      Use your answer(s) for part (b) to plot a phase portrait of the system on the set of axes below. Clearly sketch and label all equilibria and identify regions of increasing\/descreasing slope.   An blank set of axes for graphing.       Classify the equilibria you found in part (b) as stable, unstable, or neither. Use the phase portrait your produced in part (c) to justify your answer.    "
+},
+{
+  "id": "exam1-makeup-problem",
+  "level": "1",
+  "url": "exam1-makeup-problem.html",
+  "type": "Section",
+  "number": "",
+  "title": "Exams",
+  "body": " Exams   Exam 1 Makeup Problem    Instructions: Work with tutors in the MPLC to solve the below problem. Once you have a thorough and accurate solution, the tutor you work with will sign this paper to signify your completion. You will turn the problem into the MPLC, where I will collect it. Your solution must be completed before class on Monday, July 27 . Satisfactory completion of this assignment will result in earning full credit (20 points) on problem 4 from midterm 1.      [20 points] Solve the IVP using by using a substitution.      "
+},
+{
+  "id": "exam-1-makeup-3-1",
+  "level": "2",
+  "url": "exam1-makeup-problem.html#exam-1-makeup-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  [20 points] Solve the IVP using by using a substitution.   "
 }
 ]
 
