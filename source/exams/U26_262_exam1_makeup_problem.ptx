@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="exam1-makeup-problem">
+  <title>Exams</title>
+
+
+  <worksheet xml:id="exam-1-makeup">
+    <title>Exam 1 Makeup Problem</title>
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> Work with tutors in the MPLC to solve the below problem. Once you have a thorough and accurate solution, the tutor you work with will sign this paper to signify your completion. You will turn the problem into the MPLC, where I will collect it. Your solution must be completed before class on <alert>Monday, July 27</alert>. Satisfactory completion of this assignment will result in earning full credit (20 points) on problem 4 from midterm 1. 
+        </p>
+    </introduction>
+
+    <page>
+        <exercise>
+            <statement>
+                <p> [20 points] Solve the IVP <md> \frac{dy}{dx} = \dfrac{3x + 2y}{6x + 4y + 4}; \hspace{10pt} y(-1) = -\frac{1}{2}</md> using by using a substitution.</p>
+            </statement>
+        </exercise>
+    </page> 
+
+  </worksheet>
+</section>

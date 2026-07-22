@@ -15,6 +15,7 @@
         <chapter xml:id="exams">
             <title>Exams</title>
             <xi:include href="U26_262_exam1.ptx" />
+            <xi:include href="U26_262_exam1_makeup_problem.ptx" />
         </chapter>
 
     </book>
