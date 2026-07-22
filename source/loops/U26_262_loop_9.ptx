@@ -34,7 +34,6 @@
             In this section, we will learn to reduce higher-order differential equations into systems of 1st order equations. 
             <ol> 
                 <li><p> Watch <url href="https://youtu.be/PAi5A_uF9lE">🎥 Video 6.3.1</url> (4:33). </p></li> 
-                
                 <li><p> 🎯 <alert> Practice: </alert> Problems 1-15 (odd) in Exercises 4.2 (pg. 132). In the textbook, systems of ODEs have not been covered by this point, and they introduce reduciton of order as a technique to obtain other fundamental solutions, provided you know at least one. I would encourage you to use the methods from this section to obtain the given solution as well. </p></li>
             </ol>
         </p>
