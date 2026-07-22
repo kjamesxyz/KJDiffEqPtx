@@ -88,7 +88,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🗺️ Module 6 Map",
-  "body": " 🗺️ Module 6 Map   All of the content in this module should be completed before Monday, July 20 .    The Big Picture  So far, each of the methods we have seen for solving differential equations have taken advantage of the structure of the equation (e.g. if it is exact, homogeneous, linear, etc.). In this section, we look at a more general approach to solving differential equations: finding power series solutions.    Module Objectives  After completing all work in this module, students will be able to...  Reindex and perform calculations involving multiple power series.  Classify ordinary and singular points for ODEs.  Find power series solutions for ODEs about ordinary points.  Find power series solutions for ODEs about singular points.      To Do List  In this module, you will...  Watch 5 videos (~48 minutes).  Complete 3 checkpoints.  Add 3 items to your prep work book.  Write solutions to all assigned problems in Homework 6      "
+  "body": " 🗺️ Module 6 Map   All of the content in this module should be completed before Monday, July 20 .    The Big Picture  So far, each of the methods we have seen for solving differential equations have taken advantage of the structure of the equation (e.g. if it is exact, homogeneous, linear, etc.). In this section, we look at a more general approach to solving differential equations: finding power series solutions.    Module Objectives  After completing all work in this module, students will be able to...  Reindex and perform calculations involving multiple power series.  Classify ordinary and singular points for ODEs.  Find power series solutions for ODEs about ordinary points.  Find power series solutions for ODEs about singular points.      To Do List  In this module, you will...  Watch 5 videos (~48 minutes).  Complete 3 checkpoints.  Add 3 items to your prep work book.  Write solutions to all assigned problems in Homework 6 .     "
 },
 {
   "id": "map7",
@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🗺️ Module 7 Map",
-  "body": " 🗺️ Module 7 Map   All of the content in this module should be completed before Wednesday, July 22 .    The Big Picture  Continuing our adventure of finding more general-purpose solution methods that don't heavily rely on the structure of differential equations, we turn to transformations. The Laplace transform is a straight-forward transformation method that is sometimes used in signal processing problems (very relevant to the student body in this section). The goal of transformation methods is to \"transform\" the differential equation into an algebraic equation (which can often be easily solved). Then, we recover the differential equation's solution from the corresponding algebraic equation's solution.    Module Objectives  After completing all work in this module, students will be able to...  Apply Laplace transforms and inverse Laplace transforms using the definition.  Apply Laplace transforms and inverse Laplace transforms using properties of each.  Find solutions to higher-order IVPs using Laplace transforms and inverse Laplace transforms.      To Do List  In this module, you will...  Watch 4 videos (~23 minutes).  Complete 1 checkpoint.  Add 4 items to your prep work book.  Write solutions to all problems in Homework 7 .     "
+  "body": " 🗺️ Module 7 Map   All of the content in this module should be completed before Wednesday, July 22 .    The Big Picture  Continuing our adventure of finding more general-purpose solution methods that don't heavily rely on the structure of differential equations, we turn to transformations. The Laplace transform is a straight-forward transformation method that is sometimes used in signal processing problems (very relevant to the student body in this section). The goal of transformation methods is to \"transform\" the differential equation into an algebraic equation (which can often be easily solved). Then, we recover the differential equation's solution from the corresponding algebraic equation's solution.    Module Objectives  After completing all work in this module, students will be able to...  Apply Laplace transforms and inverse Laplace transforms using the definition.  Apply Laplace transforms and inverse Laplace transforms using properties of each.  Find solutions to higher-order IVPs using Laplace transforms and inverse Laplace transforms.      To Do List  In this module, you will...  Watch 4 videos (~23 minutes).  Complete 1 checkpoint.  Add 4 items to your prep work book.  Write solutions to all problems in Homework 7 .  Finish any remaining work on Activity 6 .     "
 },
 {
   "id": "map8",
@@ -106,7 +106,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🗺️ Module 8 Map",
-  "body": " 🗺️ Module 8 Map   All of the content in this module should be completed before Monday, July 27 .    The Big Picture  At this point, we have seen most abstractions we can make to ODEs. We have played with their order, linearity, and homogeneity. The \"final challenge\" for ODEs (that we'll explore in this class) is what happens when we need to solve multiple ODEs simultaneously?    Module Objectives  After completing all work in this module, students will be able to...  Describe systems of ODEs with their order, linearity, and homogeneity.  Find eigenvalues and eigenvectors of matrices.  Solve 1st-order linear systems of homogeneous equations.      To Do List  In this module, you will...  Watch 3 videos (~27 minutes).  Complete 2 checkpoints.  Add 2 items to your prep work book.  Write solutions to all problems in Homework 8 .     "
+  "body": " 🗺️ Module 8 Map   All of the content in this module should be completed before Monday, July 27 .    The Big Picture  At this point, we have seen most abstractions we can make to ODEs. We have played with their order, linearity, and homogeneity. The \"final challenge\" for ODEs (that we'll explore in this class) is what happens when we need to solve multiple ODEs simultaneously?    Module Objectives  After completing all work in this module, students will be able to...  Describe systems of ODEs with their order, linearity, and homogeneity.  Find eigenvalues and eigenvectors of matrices.  Solve 1st-order linear systems of homogeneous equations.      To Do List  In this module, you will...  Watch 3 videos (~27 minutes).  Complete 2 checkpoints.  Add 2 items to your prep work book.  Write solutions to all problems in Homework 8 .  Finish any remaining work on Activity 7 .     "
+},
+{
+  "id": "map9",
+  "level": "1",
+  "url": "map9.html",
+  "type": "Section",
+  "number": "",
+  "title": "🗺️ Module 9 Map",
+  "body": " 🗺️ Module 9 Map   All of the content in this module should be completed before Wednesday, July 29 .    The Big Picture  As we saw previously, homogeneous equations are straight-forward to solve. When we have nonhomogeneous ODEs, we can often solve by finding complementary and particular solutions. The same is true for systems of ODEs. In this module, we will learn techniques for finding particular solutions to nonhomogeneous systems of 1st order ODEs.    Module Objectives  After completing all work in this module, students will be able to...  Find particular solutions to systems of 1st-order nonhomogeneous systems of ODEs using the method of undetermined coefficients.  Find particular solutions to systems of 1st-order nonhomogeneous systems of ODEs using variation of parameters.  Use reduction-of-order techniques to rewrite high-order ODEs as systems of 1st-order ODEs.      To Do List  In this module, you will...  Watch 3 videos (~22 minutes).  Complete 2 checkpoints.  Add 2 items to your prep work book.  Write solutions to all problems in Homework 9 .  Finish any remaining work on Activity 8 .     "
+},
+{
+  "id": "map10",
+  "level": "1",
+  "url": "map10.html",
+  "type": "Section",
+  "number": "",
+  "title": "🗺️ Module 10 Map",
+  "body": " 🗺️ Module 10 Map   All of the content in this module should be completed before class on Monday, August 3 .    Exam Day  Your second midterm exam will take place next class period. To help you prepare, I have created a list of things you can do to study.    To Do List  To prepare for the exam, you should do the following...  Review all definitions from the class. Words like \"linear\" and \"phase portraits\" are key vocabulary from our course, and I will use them in the statements of problems. If I ask you to find a general solution, but you don't remember what a general solution is, it's very difficult to make any progress on that question.  Reread my feedback and\/or solutions for your problems on your homework assignments you may have lost credit for. Then, without using any resources, reattempt these problems. Repeat the process until you can get through the problems on your own.   After you have done the above 2 steps , you can check out the additional review problem bank on the next page. The MPLC has the solutions to these problems, so don't hesitate to bug them about it!     P.S. Don't forget to finish any remaining work you still have on activity 9!   "
 },
 {
   "id": "prepx",
@@ -181,6 +199,15 @@ var ptx_lunr_docs = [
   "body": " ✍️ Prep Work 8   To receive full credit, please complete this prep work entry by the beginning of class Monday, July 27 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  Define what it means for to be an eigenvalue for .  Define what it means for to be an eigenvector corresponding to .     "
 },
 {
+  "id": "prep9",
+  "level": "1",
+  "url": "prep9.html",
+  "type": "Section",
+  "number": "",
+  "title": "✍️ Prep Work 9",
+  "body": " ✍️ Prep Work 9   To receive full credit, please complete this prep work entry by the beginning of class Wednesday, July 29 .    Prompts  Use the lecture videos to respond to the prompts below. Record each item in your prep work journal.  Write the formula for the fundamental matrix for a nonhomogeneous system of ODEs.  Write the formula for the particular solution to a system of 1st-order nonhomogeneous ODEs according to variation of parameters.     "
+},
+{
   "id": "loop-x",
   "level": "1",
   "url": "loop-x.html",
@@ -250,7 +277,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "🔎 Loop 8",
-  "body": " 🔎 Loop 8   This page will serve as a viewing guide for content that will be required for class on Monday, July 27 .    6.1 - Homogeneous Systems of ODEs  In this section, we will learn to compute Laplace transforms.  Watch 🎥 Video 6.1.1 (6:53).  🎯 Practice: Problems 1-15 (odd) in Exercises 8.1 (pgs. 310-311).  Watch 🎥 Video 6.1.2 (10:33).  Complete ✅ Checkpoint 6.1.1 .  🎯 Practice: Try completing all problems on this worksheet .  Watch 🎥 Video 6.1.3 (8:52).  Complete ✅ Checkpoint 6.1.2 .  🎯 Practice: Problems 1-13 (odd) in Exercises 8.2 (pg. 324).     "
+  "body": " 🔎 Loop 8   This page will serve as a viewing guide for content that will be required for class on Monday, July 27 .    6.1 - Homogeneous Systems of ODEs  In this section, we will learn to find fundamental solutions to homogeneous systems of ODEs.  Watch 🎥 Video 6.1.1 (6:53).  🎯 Practice: Problems 1-15 (odd) in Exercises 8.1 (pgs. 310-311).  Watch 🎥 Video 6.1.2 (10:33).  Complete ✅ Checkpoint 6.1.1 .  🎯 Practice: Try completing all problems on this worksheet .  Watch 🎥 Video 6.1.3 (8:52).  Complete ✅ Checkpoint 6.1.2 .  🎯 Practice: Problems 1-13 (odd) in Exercises 8.2 (pg. 324).     "
+},
+{
+  "id": "loop-9",
+  "level": "1",
+  "url": "loop-9.html",
+  "type": "Section",
+  "number": "",
+  "title": "🔎 Loop 9",
+  "body": " 🔎 Loop 9   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 29 .    6.2 - Nonhomogeneous Systems of ODEs  In this section, we will adapt our techniques for solving nonhomogeneous differential equations to systems of 1st-order equations.  Watch 🎥 Video 6.2.1 (6:37).  Complete ✅ Checkpoint 6.2.1 .  🎯 Practice: Problems 1-9 (odd) in Exercises 8.3 (pg. 332).  Complete ✅ Checkpoint 6.2.2 .  Watch 🎥 Video 6.2.2 (10:32).  🎯 Practice: Problems 11-29 (odd) in Exercises 8.3 (pgs. 332-333).      6.3 - Reduction of Order  In this section, we will learn to reduce higher-order differential equations into systems of 1st order equations.  Watch 🎥 Video 6.3.1 (4:33).  🎯 Practice: Problems 1-15 (odd) in Exercises 4.2 (pg. 132). In the textbook, systems of ODEs have not been covered by this point, and they introduce reduciton of order as a technique to obtain other fundamental solutions, provided you know at least one. I would encourage you to use the methods from this section to obtain the given solution as well.     "
 },
 {
   "id": "hwx-assigned",
@@ -548,6 +584,33 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  Find the general solution to the system on the interval .   "
+},
+{
+  "id": "hw9",
+  "level": "1",
+  "url": "hw9.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "📝 Homework 9",
+  "body": " 📝 Homework 9    Instructions: This assignment is due Wednesday, July 29 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.      Solve with the method of undetermined coefficients.       Solve using variation of parameters.    "
+},
+{
+  "id": "hw9-3",
+  "level": "2",
+  "url": "hw9.html#hw9-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Solve with the method of undetermined coefficients.   "
+},
+{
+  "id": "hw9-4",
+  "level": "2",
+  "url": "hw9.html#hw9-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Solve using variation of parameters.   "
 },
 {
   "id": "activities-3",
@@ -890,6 +953,87 @@ var ptx_lunr_docs = [
   "number": "3",
   "title": "",
   "body": "  The voltage across a particular circuit is described by the differential equation where is the impressed voltage.     An engineer sends an instantaneous 3V pulse into the circuit after 2 seconds. Assuming the circuit starts at rest, write the corresponding IVP.      Use Laplace transforms to find a solution to the IVP you wrote in part (a).      Explain the qualitative behavior of the system. In particular, describe what is happening to the current in the circuit before, during, and after the pulse is applied.    "
+},
+{
+  "id": "a8",
+  "level": "1",
+  "url": "a8.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "🏫 Activity 8 - Homogeneous Systems of ODEs",
+  "body": " 🏫 Activity 8 - Homogeneous Systems of ODEs    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on Wednesday, July 29 .       Consider the system of ODEs described by      Write the system without the use of matrices. Be sure to label your dependent variables.      Describe the system by identifying its order, linearity, and homogeneity.      Show that the vector-valued function is the general solution to the system on .         Solve the IVP         Find the general solution to         Find the general solution to      "
+},
+{
+  "id": "a8-3-1",
+  "level": "2",
+  "url": "a8.html#a8-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the system of ODEs described by      Write the system without the use of matrices. Be sure to label your dependent variables.      Describe the system by identifying its order, linearity, and homogeneity.      Show that the vector-valued function is the general solution to the system on .    "
+},
+{
+  "id": "a8-4-1",
+  "level": "2",
+  "url": "a8.html#a8-4-1",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Solve the IVP    "
+},
+{
+  "id": "a8-5-1",
+  "level": "2",
+  "url": "a8.html#a8-5-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Find the general solution to    "
+},
+{
+  "id": "a8-6-1",
+  "level": "2",
+  "url": "a8.html#a8-6-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Find the general solution to    "
+},
+{
+  "id": "a9",
+  "level": "1",
+  "url": "a9.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "🏫 Activity 9 - Nonhomogeneous Systems of ODEs",
+  "body": " 🏫 Activity 9 - Nonhomogeneous Systems of ODEs    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on Monday, August 3 .      Suppose that and are the fundamental solutions to the second-order equation      Write the general solution to the equation using our original variation of parameters setup (you did this in your prep work 4 assignment).      Apply a reduction-of-order technique to reduce the 2nd-order equation into two 1st-order equations. Write the resulting system in the space below.      Apply our new variation of parameters to this new system of equations to find the general solution.      In the space below, record any observations you make about the results from each process. Do you have a preference?        Consider using reduction-of-order on a third-order equation, like      With the substitution , we can write the ODE as a system of 2 equations. Write the reduced system below and describe its order. DO NOT SOLVE.      Making a further substitution , we can write the system you produced in part (a) as a system of 3 equations. Write the further-reduced system below and describe its order. DO NOT SOLVE.        Real-world phenomena can rarely be described in as few as 3 variables (let alone 2). All of the techniques we have seen so far can be expanded to higher dimensions. For example, consider the below system of ODEs.      Rewrite the system using matrices in the space below.      Use a WolframAlpha to find the eigenpairs of the coefficient matrix. You type \"eigenvectors\" followed by the matrix.    Use their drop-down matrix menu to find a blank matrix of the appropriate size. Then you can enter in each element.      Build the fundamental matrix , then use WolframAlpha to find its inverse.    You can write \"inverse\" then type in the matrix. You may also use WolframAlpha to help you with the integrals, though it may be faster to do them by hand ;D.      Use WolframAlpha to carry out the computation of . Record its solution in the space below.    With the run-time permitted by the free version of WolframAlpha, it may help to break the computations up into smaller pieces. For example,   Compute     Integrate the result with respect to     Multiply the result on the left by .        "
+},
+{
+  "id": "a9-3",
+  "level": "2",
+  "url": "a9.html#a9-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Suppose that and are the fundamental solutions to the second-order equation      Write the general solution to the equation using our original variation of parameters setup (you did this in your prep work 4 assignment).      Apply a reduction-of-order technique to reduce the 2nd-order equation into two 1st-order equations. Write the resulting system in the space below.      Apply our new variation of parameters to this new system of equations to find the general solution.      In the space below, record any observations you make about the results from each process. Do you have a preference?    "
+},
+{
+  "id": "a9-4",
+  "level": "2",
+  "url": "a9.html#a9-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  Consider using reduction-of-order on a third-order equation, like      With the substitution , we can write the ODE as a system of 2 equations. Write the reduced system below and describe its order. DO NOT SOLVE.      Making a further substitution , we can write the system you produced in part (a) as a system of 3 equations. Write the further-reduced system below and describe its order. DO NOT SOLVE.    "
+},
+{
+  "id": "a9-5",
+  "level": "2",
+  "url": "a9.html#a9-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  Real-world phenomena can rarely be described in as few as 3 variables (let alone 2). All of the techniques we have seen so far can be expanded to higher dimensions. For example, consider the below system of ODEs.      Rewrite the system using matrices in the space below.      Use a WolframAlpha to find the eigenpairs of the coefficient matrix. You type \"eigenvectors\" followed by the matrix.    Use their drop-down matrix menu to find a blank matrix of the appropriate size. Then you can enter in each element.      Build the fundamental matrix , then use WolframAlpha to find its inverse.    You can write \"inverse\" then type in the matrix. You may also use WolframAlpha to help you with the integrals, though it may be faster to do them by hand ;D.      Use WolframAlpha to carry out the computation of . Record its solution in the space below.    With the run-time permitted by the free version of WolframAlpha, it may help to break the computations up into smaller pieces. For example,   Compute     Integrate the result with respect to     Multiply the result on the left by .       "
 },
 {
   "id": "review1",
