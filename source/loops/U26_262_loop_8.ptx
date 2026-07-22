@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="loop-8">
+    <title>🔎 Loop 8</title>
+
+    <introduction>
+        <p>
+            This page will serve as a viewing guide for content that will be required for class on <alert>Monday, July 27</alert>. 
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>
+            6.1 - Homogeneous Systems of ODEs
+        </title>
+        
+        <p>
+            In this section, we will learn to compute Laplace transforms. 
+            <ol>
+                <li><p> Watch <url href="https://youtu.be/CtKw0O14RtU">🎥 Video 6.1.1</url> (6:53). </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 1-15 (odd) in Exercises 8.1 (pgs. 310-311). </p></li>
+                <li><p> Watch <url href="https://youtu.be/UA6qcXMID3c">🎥 Video 6.1.2</url> (10:33). </p></li>
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/352792">✅ Checkpoint 6.1.1 </url>. </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Try completing all problems on <url href="https://www.sjsu.edu/faculty/guangliang.chen/Math39/Worksheet11.pdf"> this worksheet </url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/07krjfx7zeo">🎥 Video 6.1.3</url> (8:52). </p></li>
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/352794">✅ Checkpoint 6.1.2 </url>. </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 1-13 (odd) in Exercises 8.2 (pg. 324). </p></li>
+            </ol>
+        </p>
+    </subsection>
+</section>

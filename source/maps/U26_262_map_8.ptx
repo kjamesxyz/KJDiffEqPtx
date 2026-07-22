@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="map8">
+    <title>🗺️ Module 8 Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>Monday, July 27</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            At this point, we have seen most abstractions we can make to ODEs. We have played with their order, linearity, and homogeneity. The "final challenge" for ODEs (that we'll explore in this class) is what happens when we need to solve multiple ODEs simultaneously?  
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Describe systems of ODEs with their order, linearity, and homogeneity. </p></li>
+                <li><p> Find eigenvalues and eigenvectors of matrices. </p></li>
+                <li><p> Solve 1st-order linear systems of homogeneous equations. </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>3</alert> videos (~27 minutes). </p></li>
+                <li><p> Complete <alert>2</alert> checkpoints. </p></li>
+                <li><p> Add <alert>2</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all problems in <alert>Homework 8</alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+</section>

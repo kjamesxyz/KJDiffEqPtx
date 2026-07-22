@@ -11,7 +11,7 @@
     <exercise workspace="6in">
         <statement>
             <p>
-                Find two power series solutions centered about the point <m> x = 0 </m> for the ODE <md> y'' + 4y' + 5y = 0.</md>
+                Find two power series solutions centered about the point <m> x = 0 </m> for the ODE <md> y'' + 4y' + 5y = 0.</md> Write the first 3 terms of each solution. 
             </p>
         </statement>
     </exercise>

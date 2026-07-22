@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="hw8">
+    <title>📝 Homework 8</title>
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> This assignment is due <alert>Monday, July 27</alert>. Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
+        </p>
+    </introduction>
+
+    <!-- Problem 1 -->
+    <exercise workspace="7in">
+        <statement>
+            <p>
+                Find all eigenpairs of <md> A = \begin{bmatrix} 4 \amp 5 \amp -3 \\ -7 \amp -8 \amp 3 \\ 1 \amp -5 \amp 8 \end{bmatrix}. </md>  
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 2 -->
+    <exercise workspace="2in">
+        <statement>
+            <p>
+                Consider the system of ODEs given by <md> \begin{cases} x'' + y^2 y' - x^3 = \sin(t); \\ y'' + (x' + y')2 - x = 0 .\end{cases} </md> Write the system in matrix form. 
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 3 -->
+    <exercise workspace="2in">
+        <statement>
+            <p>
+                Write the system <md> \mathbf{u}' = \begin{bmatrix} 7 \amp 5 \amp -9 \\ 4 \amp 1 \amp 1 \\ 0 \amp -2 \amp 3 \end{bmatrix} \mathbf{u} + \begin{bmatrix} 0 \\ 2 \\ 1 \end{bmatrix} e^{5t} - \begin{bmatrix} 8 \\ 0 \\ 3 \end{bmatrix}e^{-2t} </md> without the use of matrices. 
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 4 -->
+    <exercise workspace="4in">
+        <statement>
+            <p>
+                Verify that <md> \mathbf{u}(t) = \begin{bmatrix} -1 \\ 2 \end{bmatrix} e^{-\frac{3}{2}t} </md> is a solution to <md> \mathbf{u}' = \begin{bmatrix} -1 \amp -\frac{1}{4} \\ 1 \amp -1 \end{bmatrix} \mathbf{u} </md> on <m> (-\infty, \infty) </m>.
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 5 -->
+    <exercise workspace="8in">
+        <statement>
+            <p>
+                Find the <alert>general</alert> solution to the system 
+                <md> 
+                    <mrow> \frac{dx_1}{dt} \amp = 6x_2 </mrow>
+                    <mrow> \frac{dx_2}{dt} \amp = x_1 + x_3 </mrow>
+                    <mrow> \frac{dx_3}{dt} \amp = x_1 + x_2 </mrow>
+                </md>
+                on the interval <m>(-\infty,\infty)</m>.
+            </p>
+        </statement>
+    </exercise>
+
+</worksheet>
