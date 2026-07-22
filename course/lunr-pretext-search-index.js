@@ -862,7 +862,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "🏫 Activity 7 - Laplace Transforms",
-  "body": " 🏫 Activity 7 - Laplace Transforms    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on Monday, July 27 .      The Dirac Delta function is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its \"definition\" is and is \"forced\" to have the property      Explain how exhibiting both of the properties in its definition might be controversial.      Show that, for we have         Use Laplace transforms to solve the BVP        The voltage across a particular circuit is described by the differential equation where is the impressed voltage.     An engineer sends an instantaneous 3V pulse into the circuit after 2 seconds. Assuming the circuit starts at rest, write the corresponding IVP.      Use Laplace transforms to find a solution to the IVP you wrote in part (a).      Explain the qualitative behavior of the system. In particular, describe what is happening to the current in the circuit before, during, and after the pulse is applied.     "
+  "body": " 🏫 Activity 7 - Laplace Transforms    Instructions: Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on Monday, July 27 .      Use Laplace transforms to show the BVP has only trivial solutions.       The Dirac Delta function is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its \"definition\" is and is \"forced\" to have the property      With your group, use the internet to search \"Dirac Delta function controversy\". Briefly explain why this function was so controversial when it was first conceived.      The Dirac delta function has the sifting property , that for all . Suppose . Use the sifting property to show we have         The voltage across a particular circuit is described by the differential equation where is the impressed voltage.     An engineer sends an instantaneous 3V pulse into the circuit after 2 seconds. Assuming the circuit starts at rest, write the corresponding IVP.      Use Laplace transforms to find a solution to the IVP you wrote in part (a).      Explain the qualitative behavior of the system. In particular, describe what is happening to the current in the circuit before, during, and after the pulse is applied.     "
 },
 {
   "id": "a7-3",
@@ -871,7 +871,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "",
-  "body": "  The Dirac Delta function is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its \"definition\" is and is \"forced\" to have the property      Explain how exhibiting both of the properties in its definition might be controversial.      Show that, for we have     "
+  "body": "  Use Laplace transforms to show the BVP has only trivial solutions.   "
 },
 {
   "id": "a7-4",
@@ -880,7 +880,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "",
-  "body": "  Use Laplace transforms to solve the BVP    "
+  "body": "  The Dirac Delta function is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its \"definition\" is and is \"forced\" to have the property      With your group, use the internet to search \"Dirac Delta function controversy\". Briefly explain why this function was so controversial when it was first conceived.      The Dirac delta function has the sifting property , that for all . Suppose . Use the sifting property to show we have     "
 },
 {
   "id": "a7-5",

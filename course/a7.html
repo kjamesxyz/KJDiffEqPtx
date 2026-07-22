@@ -375,55 +375,62 @@ eBookConfig.enable_chatcodes =  false;
 <em class="alert">Instructions:</em> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on <em class="alert">Monday, July 27</em>.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-2-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div></section>
 <article class="exercise exercise-like" id="a7-3"><h2 class="heading"><span class="codenumber">1<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h2>
-<div class="introduction" id="a7-3-1">
 <div class="para logical" id="a7-3-1-1">
+<div class="para">Use Laplace transforms to show the BVP</div>
+<div class="displaymath process-math" id="a7-3-1-1-1">
+\begin{equation*}
+y'' + 8y' - 20y = 0; \hspace{10pt} y(0) = y'(\pi) = 0 
+\end{equation*}
+</div>
+<div class="para">has only trivial solutions.</div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+</div>
+<div class="workspace" data-space="5in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Worksheet Exercise 1"><a tabindex="-1" href="#a7-3" title="Copy heading and permalink for Worksheet Exercise 1" aria-label="Copy heading and permalink for Worksheet Exercise 1">🔗</a></div>
+</article>
+<article class="exercise exercise-like" id="a7-4"><h2 class="heading"><span class="codenumber">2<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h2>
+<div class="introduction" id="a7-4-1">
+<div class="para logical" id="a7-4-1-1">
 <div class="para">The <em class="alert">Dirac Delta function</em> is a very contoversial tool used (out of necessity) in many physical sciences, depsite the fact it is not mathematically well-defined. Its "definition" is</div>
-<div class="displaymath process-math" id="a7-3-1-1-2">
+<div class="displaymath process-math" id="a7-4-1-1-2">
 \begin{equation*}
 \delta(t - t_0) = \begin{cases} \infty &amp; \ \text{if} t = t_0; \\ 0 &amp; \ \text{otherwise}. \end{cases} 
 \end{equation*}
 </div>
 <div class="para">and is "forced" to have the property</div>
-<div class="displaymath process-math" id="a7-3-1-1-3">
+<div class="displaymath process-math" id="a7-4-1-1-3">
 \begin{equation*}
 \int_{-\infty}^\infty \delta(t-t_0) \, dt = 1.
 \end{equation*}
 </div>
-<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 </div>
-<article class="task exercise-like" id="a7-3-2"><h3 class="heading"><span class="codenumber">(a)</span></h3>
-<div class="para" id="a7-3-2-1-1">Explain how exhibiting both of the properties in its definition might be controversial.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-3-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<article class="task exercise-like" id="a7-4-2"><h3 class="heading"><span class="codenumber">(a)</span></h3>
+<div class="para" id="a7-4-2-1-1">With your group, use the internet to search "Dirac Delta function controversy". Briefly explain why this function was so controversial when it was first conceived.<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-4-2-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
-<div class="workspace" data-space="2in"></div>
-<div class="autopermalink" aria-hidden="true" data-description="Task 1.a"><a tabindex="-1" href="#a7-3-2" title="Copy heading and permalink for Task 1.a" aria-label="Copy heading and permalink for Task 1.a">🔗</a></div>
+<div class="workspace" data-space="1in"></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 2.a"><a tabindex="-1" href="#a7-4-2" title="Copy heading and permalink for Task 2.a" aria-label="Copy heading and permalink for Task 2.a">🔗</a></div>
 </article>
-<article class="task exercise-like" id="a7-3-3"><h3 class="heading"><span class="codenumber">(b)</span></h3>
-<div class="para logical" id="a7-3-3-1-1">
-<div class="para">Show that, for <span class="process-math">\(t_0 \gt 0 \)</span> we have</div>
-<div class="displaymath process-math" id="a7-3-3-1-1-2">
+<article class="task exercise-like" id="a7-4-3"><h3 class="heading"><span class="codenumber">(b)</span></h3>
+<div class="para logical" id="a7-4-3-1-1">
+<div class="para">The Dirac delta function has the <em class="alert">sifting property</em>, that</div>
+<div class="displaymath process-math" id="a7-4-3-1-1-2">
+\begin{equation*}
+\int_{t_0 - \epsilon}^{t_0 + \epsilon} f(t) \delta(t-t_0) \, dt = f(t_0) 
+\end{equation*}
+</div>
+<div class="para">for all <span class="process-math">\(\epsilon &gt; 0 \text{.}\)</span> Suppose <span class="process-math">\(t_0 \gt 0 \text{.}\)</span> Use the sifting property to show we have</div>
+<div class="displaymath process-math" id="a7-4-3-1-1-5">
 \begin{equation*}
 \mathcal{L} \{\delta(t-t_0) \} = e^{-st_0}. 
 \end{equation*}
 </div>
-<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-3-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
+<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-4-3-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
 </div>
 <div class="workspace" data-space="2in"></div>
-<div class="autopermalink" aria-hidden="true" data-description="Task 1.b"><a tabindex="-1" href="#a7-3-3" title="Copy heading and permalink for Task 1.b" aria-label="Copy heading and permalink for Task 1.b">🔗</a></div>
-</article><div class="autopermalink" aria-hidden="true" data-description="Worksheet Exercise 1"><a tabindex="-1" href="#a7-3" title="Copy heading and permalink for Worksheet Exercise 1" aria-label="Copy heading and permalink for Worksheet Exercise 1">🔗</a></div>
-</article>
-<article class="exercise exercise-like" id="a7-4"><h2 class="heading"><span class="codenumber">2<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h2>
-<div class="para logical" id="a7-4-1-1">
-<div class="para">Use Laplace transforms to solve the BVP</div>
-<div class="displaymath process-math" id="a7-4-1-1-1">
-\begin{equation*}
-y'' + 8y' + 20y = 0; \hspace{10pt} y(0) = y'(\pi) = 0 .
-\end{equation*}
-</div>
-<div class="autopermalink" aria-hidden="true" data-description="Paragraph"><a tabindex="-1" href="#a7-4-1-1" title="Copy heading and permalink for Paragraph" aria-label="Copy heading and permalink for Paragraph">🔗</a></div>
-</div>
-<div class="workspace" data-space="5in"></div>
-<div class="autopermalink" aria-hidden="true" data-description="Worksheet Exercise 2"><a tabindex="-1" href="#a7-4" title="Copy heading and permalink for Worksheet Exercise 2" aria-label="Copy heading and permalink for Worksheet Exercise 2">🔗</a></div>
+<div class="autopermalink" aria-hidden="true" data-description="Task 2.b"><a tabindex="-1" href="#a7-4-3" title="Copy heading and permalink for Task 2.b" aria-label="Copy heading and permalink for Task 2.b">🔗</a></div>
+</article><div class="autopermalink" aria-hidden="true" data-description="Worksheet Exercise 2"><a tabindex="-1" href="#a7-4" title="Copy heading and permalink for Worksheet Exercise 2" aria-label="Copy heading and permalink for Worksheet Exercise 2">🔗</a></div>
 </article>
 <article class="exercise exercise-like" id="a7-5"><h2 class="heading"><span class="codenumber">3<span class="period heading-divison-mark heading-divison-mark__period">.</span></span></h2>
 <div class="introduction" id="a7-5-1">
