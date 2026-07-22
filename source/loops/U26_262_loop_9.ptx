@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="loop-9">
+    <title>🔎 Loop 9</title>
+
+    <introduction>
+        <p>
+            This page will serve as a viewing guide for content that will be required for class on <alert>Wednesday, July 29</alert>. 
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>
+            6.2 - Nonhomogeneous Systems of ODEs
+        </title>
+        
+        <p>
+            In this section, we will adapt our techniques for solving nonhomogeneous differential equations to systems of 1st-order equations. 
+            <ol>
+                <li><p> Watch <url href="https://youtu.be/hfhJEUFwhjk">🎥 Video 6.2.1</url> (6:37). </p></li>
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/352870">✅ Checkpoint 6.2.1 </url>. </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 1-9 (odd) in Exercises 8.3 (pg. 332). </p></li>
+                <li><p> Complete <url href="https://canvas.svsu.edu/courses/93320/quizzes/352872">✅ Checkpoint 6.2.2 </url>. </p></li>
+                <li><p> Watch <url href="https://youtu.be/wTsd_kx5OTg">🎥 Video 6.2.2</url> (10:32). </p></li>
+                <li><p> 🎯 <alert> Practice: </alert> Problems 11-29 (odd) in Exercises 8.3 (pgs. 332-333). </p></li>  
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>6.3 - Reduction of Order</title>
+        
+        <p>
+            In this section, we will learn to reduce higher-order differential equations into systems of 1st order equations. 
+            <ol> 
+                <li><p> Watch <url href="https://youtu.be/PAi5A_uF9lE">🎥 Video 6.3.1</url> (4:33). </p></li> 
+                
+                <li><p> 🎯 <alert> Practice: </alert> Problems 1-15 (odd) in Exercises 4.2 (pg. 132). In the textbook, systems of ODEs have not been covered by this point, and they introduce reduciton of order as a technique to obtain other fundamental solutions, provided you know at least one. I would encourage you to use the methods from this section to obtain the given solution as well. </p></li>
+            </ol>
+        </p>
+    </subsection>
+</section>

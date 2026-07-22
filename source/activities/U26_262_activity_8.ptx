@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="a8">
+    <title>🏫 Activity 8 - Homogeneous Systems of ODEs </title>
+
+    <introduction>
+    <p>
+        <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on <alert>Wednesday, July 29</alert>.
+    </p>
+    </introduction>
+
+    <page>
+    <!-- Problem 1 -->
+    <exercise>
+        <introduction>
+            <p>
+                Consider the system of ODEs described by 
+                <md>
+                    \dot{\mathbf{u}} = \begin{bmatrix} -1 \amp -1 \\ -1 \amp 1 \end{bmatrix} \mathbf{u} + \begin{bmatrix} 1 \\ 1 \end{bmatrix} t^2 + \begin{bmatrix} 4 \\ -6 \end{bmatrix} t + \begin{bmatrix} -1 \\ 5 \end{bmatrix}.
+                </md>
+                
+            </p>
+        </introduction>
+
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Write the system without the use of matrices. Be sure to label your dependent variables. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Describe the system by identifying its order, linearity, and homogeneity. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="4in">
+            <statement>
+                <p>
+                    Show that the vector-valued function 
+                    <md>
+                        \mathbf{u}(t) = c_1 \begin{bmatrix} 1 \\ -1-\sqrt{2} \end{bmatrix} e^{\sqrt{2} t} + c_2 \begin{bmatrix} 1 \\ -1 + \sqrt{2} \end{bmatrix} e^{-\sqrt{2} t} + \begin{bmatrix} 1 \\ 0 \end{bmatrix} t^2 + \begin{bmatrix} -2 \\ 4 \end{bmatrix} t + \begin{bmatrix} 1 \\ 0 \end{bmatrix} 
+                    </md>
+                    is the general solution to the system on <m> (-\infty, \infty) </m>.
+                </p>
+            </statement>
+        </task>
+    </exercise>
+    </page>
+
+    <page>
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Solve the IVP <md> \frac{d\mathbf{x}}{dt} = \begin{bmatrix} 1 \amp 1 \amp 4 \\ 0 \amp 2 \amp 0 \\ 1 \amp 1 \amp 1 \end{bmatrix} \mathbf{x}, \hspace{10pt} \mathbf{x}(0) = \begin{bmatrix} 1 \\ 3 \\ 0 \end{bmatrix}. </md>
+            </p>
+        </statement>
+    </exercise>
+    </page>
+
+    <page>
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Find the general solution to <md> <mrow> \frac{dx_1}{dt} \amp = 12x_1 - 9x_2; </mrow> <mrow> \frac{dx_2}{dt} \amp = 4x_1. </mrow> </md> 
+            </p>
+        </statement>
+    </exercise>
+    </page>
+
+    <page>
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Find the general solution to <md> \mathbf{P}' = \begin{bmatrix} 1 \amp -1 \amp 2 \\ -1 \amp 1 \amp 0 \\ -1 \amp 0 \amp 1 \end{bmatrix} \mathbf{P} </md>
+            </p>
+        </statement>
+    </exercise>
+    </page>
+
+</worksheet>
+
+
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="hw9">
+    <title>📝 Homework 9</title>
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> This assignment is due <alert>Wednesday, July 29</alert>. Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
+        </p>
+    </introduction>
+
+    <!-- Problem 1 -->
+    <exercise workspace="7in">
+        <statement>
+            <p>
+                Solve <md> \mathbf{x}' = \begin{bmatrix} 1 \amp -4 \\ 4 \amp 1 \end{bmatrix} \mathbf{x} + \begin{bmatrix} 4 \\ -1 \end{bmatrix} t + \begin{bmatrix} 9 \\ 1 \end{bmatrix} e^{6t} </md> with the method of undetermined coefficients.
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 2 -->
+    <exercise workspace="7in">
+        <statement>
+            <p>
+                Solve
+                <md>
+                    <mrow> \frac{dx}{dt} \amp = 3x - y - z </mrow>
+                    <mrow> \frac{dy}{dt} \amp = x + y - z + t </mrow>
+                    <mrow> \frac{dz}{dt} \amp = x - y + z + 2e^t </mrow> 
+                </md>
+                using variation of parameters. 
+                
+            </p>
+        </statement>
+    </exercise>
+</worksheet>

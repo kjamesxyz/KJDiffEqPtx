@@ -15,7 +15,7 @@
         </title>
         
         <p>
-            In this section, we will learn to compute Laplace transforms. 
+            In this section, we will learn to find fundamental solutions to homogeneous systems of ODEs. 
             <ol>
                 <li><p> Watch <url href="https://youtu.be/CtKw0O14RtU">🎥 Video 6.1.1</url> (6:53). </p></li>
                 <li><p> 🎯 <alert> Practice: </alert> Problems 1-15 (odd) in Exercises 8.1 (pgs. 310-311). </p></li>

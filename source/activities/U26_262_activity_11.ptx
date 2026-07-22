@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="a10">
+    <title>🏫 Activity 10 - Modelling with Systems of ODEs </title>
+
+    <introduction>
+    <p>
+        <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on <alert>Wednesday, July 29</alert>.
+    </p>
+    </introduction>
+
+    <!-- Problem 1 -->
+    <exercise>
+        <introduction>
+            <p>
+                Consider the system of ODEs
+                <md>
+                    <mrow> \dot{x_1} \amp = 2x_1 + 2x_2 </mrow>
+                    <mrow> \dot{x_2} \amp = x_1 + 3x_2 </mrow>
+                </md>
+            </p>
+        </introduction>
+
+        <task workspace="5in">
+            <statement>
+                <p>
+                    Find the general solution to the system.
+                </p>
+            </statement>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    The plot of all points <m> (x_1, x_2) </m> (where <m> t </m> varies) is called a <alert> trajectory </alert> for the system. This plot lives in the <m> x_1</m>-<m>x_2</m> plane, and is called the <alert>phase plane</alert> for the system. Sketch the trajectory for the case that all parameters in the general solution are equal to 1 on the set of axes below. 
+                </p>
+
+                <image source="blankaxes.jpg" width="60%">
+                        <shortdescription>An blank set of axes for graphing.</shortdescription>
+                    </image>
+            </statement>
+
+            <hint>
+                <p>
+                    You may want to try plugging in some <m>t</m> values to see what the ordered pair <m>(x_1,x_2)</m> should be. Try 5 different points (and spread them out so you capture all of the information). 
+                </p>
+            </hint>
+        </task>
+
+        <task>
+            <statement>
+                <p>
+                    If we write the system in the form <md> \mathbf{r}' = \mathbf{f}(t,\mathbf{r}) </md>, we say that the trajectories are defined by the vector-field <m>\mathbf{f}</m>. That is, <m>\mathbf{f}</m> is the slope function for the system. Hence, we can extend the idea of a nullcline being the set of critical points for <m>\mathbf{f}</m>. Find all nullclines for the system and plot them on your phase portrait above. In the space below, write any observations you make about how the trajectories relate to the nullclines. 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+
+</worksheet>
+
+
+
+

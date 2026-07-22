@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="a9">
+    <title>🏫 Activity 9 - Nonhomogeneous Systems of ODEs </title>
+
+    <introduction>
+    <p>
+        <alert>Instructions:</alert> Write solutions to each of the following problems in the space provided. You are encouraged to work in groups, but also encouraged to use your own words to express your ideas. This activity is due at the beginning of class on <alert>Monday, August 3</alert>.
+    </p>
+    </introduction>
+
+    <!-- Problem 1 -->
+    <exercise>
+        <introduction>
+            <p>
+                Suppose that <m>y_1</m> and <m>y_2</m> are the fundamental solutions to the second-order equation <md>y'' + P(x)y' + Q(x)y = R(x).</md>
+            </p>
+        </introduction> 
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Write the general solution to the equation using our original variation of parameters setup (you did this in your prep work 4 assignment). 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="1.5in">
+            <statement>
+                <p>
+                    Apply a reduction-of-order technique to reduce the 2nd-order equation into two 1st-order equations. Write the resulting system in the space below. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="4in">
+            <statement>
+                <p>
+                    Apply our new variation of parameters to this new system of equations to find the general solution. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    In the space below, record any observations you make about the results from each process. Do you have a preference? 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+    <!-- Problem 2 -->
+    <exercise>
+        <introduction>
+            <p>
+                Consider using reduction-of-order on a third-order equation, like <md> (2-t) u''' + (2t - 3) u'' - tu' + u = 0 </md>
+            </p>
+        </introduction>
+
+        <task workspace="1.5in">
+            <statement>
+                <p>
+                    With the substitution <m> x = u' </m>, we can write the ODE as a system of 2 equations. Write the reduced system below and describe its order. DO NOT SOLVE.
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="1.5in">
+            <statement>
+                <p>
+                    Making a further substitution <m> y = x' </m>, we can write the system you produced in part (a) as a system of 3 equations. Write the further-reduced system below and describe its order. DO NOT SOLVE.
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+
+    <!-- Problem 3 -->
+    <exercise>
+        <introduction>
+            <p>
+                Real-world phenomena can rarely be described in as few as 3 variables (let alone 2). All of the techniques we have seen so far can be expanded to higher dimensions. For example, consider the below system of ODEs. 
+                <md>
+                    <mrow> \frac{dw}{ds} \amp = 2w - 2x + 2y + z + se^s </mrow>
+                    <mrow> \frac{dx}{ds} \amp = -w + 3x + 3z + e^{-s} </mrow> 
+                    <mrow> \frac{dy}{ds} \amp = 4y - 2z + e^{2s} </mrow> 
+                    <mrow> \frac{dz}{ds} \amp = 2y - z + 1 </mrow> 
+                </md>
+            </p>
+        </introduction>
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Rewrite the system using matrices in the space below. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Use a WolframAlpha to find the eigenpairs of the coefficient matrix. You type "eigenvectors" followed by the matrix.
+                </p>
+            </statement>
+
+            <hint>
+                <p>
+                    Use their drop-down matrix menu to find a blank matrix of the appropriate size. Then you can enter in each element. 
+                </p>
+            </hint>
+        </task>
+
+        <task workspace="3in">
+            <statement>
+                <p>
+                    Build the fundamental matrix <m> \Phi(t) </m>, then use WolframAlpha to find its inverse.             
+                </p>
+            </statement>
+            <hint>
+                <p>
+                    You can write "inverse" then type in the matrix. You may also use WolframAlpha to help you with the integrals, though it may be faster to do them by hand ;D. 
+                </p>
+            </hint>
+        </task>
+
+        <task workspace="3in">
+            <statement>
+                <p>
+                    Use WolframAlpha to carry out the computation of <m> \Phi \int \Phi^{-1}\mathbf{F} </m>. Record its solution in the space below.
+                </p>
+            </statement>
+
+            <hint>
+                <p>
+                    With the run-time permitted by the free version of WolframAlpha, it may help to break the computations up into smaller pieces. For example, 
+                    <ol> 
+                        <li> <p> Compute <m> \Phi^{-1} \mathbf{F} </m> </p> </li>
+                        <li> <p> Integrate the result with respect to <m> t </m> </p> </li>
+                        <li> <p> Multiply the result on the left by <m> \Phi </m>. </p> </li>
+                    </ol>
+                </p>
+            </hint>
+        </task>
+    </exercise>
+</worksheet>
+
+
+
+

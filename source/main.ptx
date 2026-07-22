@@ -38,6 +38,8 @@
       <xi:include href="./maps/U26_262_map_6.ptx" />
       <xi:include href="./maps/U26_262_map_7.ptx" />
       <xi:include href="./maps/U26_262_map_8.ptx" />
+      <xi:include href="./maps/U26_262_map_9.ptx" />
+      <xi:include href="./maps/U26_262_map_10.ptx" />
     </chapter>
 
     <chapter xml:id="preps">
@@ -58,6 +60,8 @@
       <xi:include href="./prepwork/U26_262_prep_6.ptx"/>
       <xi:include href="./prepwork/U26_262_prep_7.ptx"/>
       <xi:include href="./prepwork/U26_262_prep_8.ptx"/>
+      <xi:include href="./prepwork/U26_262_prep_9.ptx"/>
+      <!-- No prep 10 due to exam -->
     </chapter>
 
     <chapter xml:id="loops">
@@ -77,6 +81,8 @@
       <xi:include href="./loops/U26_262_loop_6.ptx" />
       <xi:include href="./loops/U26_262_loop_7.ptx" />
       <xi:include href="./loops/U26_262_loop_8.ptx" />
+      <xi:include href="./loops/U26_262_loop_9.ptx" />
+      <!-- No loop 10 due to exam -->
     </chapter>
 
 
@@ -97,7 +103,8 @@
       <xi:include href="./homework/U26_262_homework_6.ptx" />
       <xi:include href="./homework/U26_262_homework_7.ptx" />
       <xi:include href="./homework/U26_262_homework_8.ptx" />
-     
+      <xi:include href="./homework/U26_262_homework_9.ptx" />
+      <!-- No homework 10 due to exam -->
     </chapter>
 
     <chapter xml:id="activities">
@@ -118,6 +125,9 @@
       <!-- No activity 5 due to exam -->
       <xi:include href="./activities/U26_262_activity_6.ptx"/>
       <xi:include href="./activities/U26_262_activity_7.ptx"/>
+      <xi:include href="./activities/U26_262_activity_8.ptx"/>
+      <xi:include href="./activities/U26_262_activity_9.ptx"/>
+      <!-- No activity 10 due to exam -->
     </chapter>
 
     <chapter xml:id="reviews">

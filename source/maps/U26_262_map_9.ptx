@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="map9">
+    <title>🗺️ Module 9 Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>Wednesday, July 29</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            As we saw previously, homogeneous equations are straight-forward to solve. When we have nonhomogeneous ODEs, we can often solve by finding complementary and particular solutions. The same is true for systems of ODEs. In this module, we will learn techniques for finding particular solutions to nonhomogeneous systems of 1st order ODEs. 
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Find particular solutions to systems of 1st-order nonhomogeneous systems of ODEs using the method of undetermined coefficients. </p></li>
+                <li><p> Find particular solutions to systems of 1st-order nonhomogeneous systems of ODEs using variation of parameters. </p></li>
+                <li><p> Use reduction-of-order techniques to rewrite high-order ODEs as systems of 1st-order ODEs. </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>3</alert> videos (~22 minutes). </p></li>
+                <li><p> Complete <alert>2</alert> checkpoints. </p></li>
+                <li><p> Add <alert>2</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all problems in <alert>Homework 9</alert>. </p></li>
+                <li><p> Finish any remaining work on <alert> Activity 8 </alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+</section>

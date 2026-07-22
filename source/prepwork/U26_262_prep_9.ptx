@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="prep9">
+  <title>✍️ Prep Work 9</title>
+    <introduction>
+      <p>
+          To receive full credit, please complete this prep work entry by the beginning of class <alert>Wednesday, July 29</alert>. 
+      </p>
+    </introduction>
+
+    <subsection>
+        <title>Prompts</title>
+        <p>
+            Use the lecture videos to respond to the prompts below. Record each item in your prep work journal. 
+            <ol>
+                <li><p> Write the formula for the <alert> fundamental matrix </alert> for a nonhomogeneous system of ODEs. </p></li>
+                <li><p> Write the formula for the particular solution to a system of 1st-order nonhomogeneous ODEs according to variation of parameters. </p></li>
+            </ol>
+        </p>
+    </subsection>
+</section>
