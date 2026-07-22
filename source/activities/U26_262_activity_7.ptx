@@ -10,6 +10,15 @@
     </introduction>
 
     <!-- Problem 1 -->
+    <exercise workspace="5in">
+        <statement>
+            <p>
+                Use Laplace transforms to show the BVP <md> y'' + 8y' - 20y = 0; \hspace{10pt} y(0) = y'(\pi) = 0 </md> has only trivial solutions.
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Problem 2 -->
     <exercise>
         <introduction>
             <p>
@@ -17,10 +26,10 @@
             </p>
         </introduction>
 
-        <task workspace="2in">
+        <task workspace="1in">
             <statement>
                 <p>
-                    Explain how exhibiting both of the properties in its definition might be controversial. 
+                    With your group, use the internet to search "Dirac Delta function controversy". Briefly explain why this function was so controversial when it was first conceived.
                 </p>
             </statement>
         </task>
@@ -28,19 +37,10 @@
         <task workspace="2in">
             <statement>
                 <p>
-                    Show that, for <m> t_0 \gt 0 </m> we have <md> \mathcal{L} \{\delta(t-t_0) \} = e^{-st_0}. </md>
+                    The Dirac delta function has the <alert> sifting property </alert>, that <md> \int_{t_0 - \epsilon}^{t_0 + \epsilon} f(t) \delta(t-t_0) \, dt = f(t_0) </md> for all <m> \epsilon > 0 </m>. Suppose <m> t_0 \gt 0 </m>. Use the sifting property to show we have <md> \mathcal{L} \{\delta(t-t_0) \} = e^{-st_0}. </md>
                 </p>
             </statement>
         </task>
-    </exercise>
-
-    <!-- Problem 2 -->
-    <exercise workspace="5in">
-        <statement>
-            <p>
-                Use Laplace transforms to solve the BVP <md> y'' + 8y' + 20y = 0; \hspace{10pt} y(0) = y'(\pi) = 0 .</md> 
-            </p>
-        </statement>
     </exercise>
 
     <!-- Problem 3 -->
