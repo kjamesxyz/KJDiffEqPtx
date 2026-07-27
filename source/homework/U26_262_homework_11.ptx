@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="hw11">
+    <title>📝 Homework 11</title>
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> This assignment is due <alert>Wednesday, August 5</alert>. Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.
+        </p>
+    </introduction>
+
+    <!-- Problem 1 -->
+    <exercise>
+        <introduction>
+            <p>
+                Consider the system of ODEs
+                <md>
+                    <mrow> \dot{x_1} \amp = 2x_1 + 2x_2 </mrow>
+                    <mrow> \dot{x_2} \amp = x_1 + 3x_2 </mrow>
+                </md>
+            </p>
+        </introduction>
+
+        <task workspace="5in">
+            <statement>
+                <p>
+                    Find the general solution to the system.
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="4in">
+            <statement>
+                <p>
+                    The plot of all points <m> (x_1, x_2) </m> (where <m> t </m> varies) is called a <alert> trajectory </alert> for the system. This plot lives in the <m> x_1</m>-<m>x_2</m> plane, and is called the <alert>phase plane</alert> for the system. Sketch the trajectory for the case that all parameters in the general solution are equal to 1 in the space provided below. 
+                </p>
+            </statement>
+
+            <hint>
+                <p>
+                    You may want to try plugging in some <m>t</m> values to see what the ordered pair <m>(x_1,x_2)</m> should be. Try 5 different points (and spread them out so you capture all of the information). 
+                </p>
+            </hint>
+        </task>
+
+        <task workspace="1.5in">
+            <statement>
+                <p>
+                    If we write the system in the form <md> \mathbf{r}' = \mathbf{f}(t,\mathbf{r}) </md>, we say that the trajectories are defined by the vector-field <m>\mathbf{f}</m>. That is, <m>\mathbf{f}</m> is the slope function for the system. Hence, we can extend the idea of a nullcline being the set of critical points for <m>\mathbf{f}</m>. Find all nullclines for the system and plot them on your phase portrait above. In the space below, write any observations you make about how the trajectories relate to the nullclines. 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+    <!-- Problem 2 -->
+    <exercise workspace="7in">
+        <introduction>
+            <p>
+                A spring-mass system consists of a mass <m> m_1 </m> attached to an eastern wall by a spring with constant <m> k_1 </m> and damping constant <m> \beta_1 </m>, as well as a mass <m> m_2 </m> attached both to <m> m_1 </m> by a spring with constant <m> k_2 </m> and damping constant <m> \beta_2 </m>, and to a western wall by a spring with constant <m> k_3 </m> and damping constant <m> \beta_3 </m>.
+            </p>
+        </introduction> 
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Draw a picture of the system in the space provided below. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    List all forces acting on each mass (including their direction) in the space below. 
+                </p>
+            </statement>
+        </task>
+
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Use Newton's Second Law to write down a second-order ODE for each mass in the system. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Reduce the order of the system of 2 second-order equations you found in part (c) into a system of 4 first-order equations.
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Write the system using matrices.
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="1in">
+            <statement>
+                <p>
+                    Suppose that a driving harmonic force of <md> F(t) = F_0 \cos(\omega t) </md> is applied to <m> m_1 </m>. How would this change your model?
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+    <!-- Problem 3 -->
+    <exercise workspace="7in">
+        <introduction>
+            <p>
+                A DC motor's armature has resistance <m> R </m> and inductance <m> L </m>. The motor has torque constant <m> K_\tau </m> and back-emf constant <m> K_e </m>. It is used to drive a frictionless, rotating flywheel with rotational inertial <m> J </m> and coefficient of viscous friction <m> K_b </m>.  
+            </p>
+        </introduction>
+
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Results from physics and engineering tell us that this system can be modeled by the equations
+                    <md>
+                        <mrow> V \amp = L \frac{dI}{dt} + RI + K_e \omega; </mrow>
+                        <mrow> J \frac{d\omega}{dt} \amp = K_\tau I - K_b \omega. </mrow>
+                    </md>
+                    Identify the state variables (unknowns) for the system. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Describe the dynamics of the system in plain language (without the use of math, equations, expressions, etc.). 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Rewrite the system of ODEs given in part (a) using matrices. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="2in">
+            <statement>
+                <p>
+                    Suppose you were to adjust the flywheel's inertia. In what way would this change the response from the motor? Consider both increasing and decreasing the inertia in your analysis. 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+</worksheet>

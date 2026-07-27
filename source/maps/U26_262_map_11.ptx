@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="map11">
+    <title>🗺️ Module 11 Map</title>
+    
+    <introduction>
+        <p>
+            All of the content in this module should be completed before <alert>Wednesday, August 5</alert>.
+        </p>
+    </introduction>
+
+    <subsection>
+        <title>The Big Picture</title>
+        <p>
+            For our last bit of new material to cover, we will get to look at some more substantive application spaces. Rarely can we describe complex phenomena with only a single equation. In this section, we look at modelling with systems of ODEs.
+        </p>
+    </subsection>
+
+    <subsection>
+        <title>Module Objectives</title>
+        <p>
+            After completing all work in this module, students will be able to...
+            <ol>
+                <li><p> Model real-world phenomena that consist of multiple dependent variables. </p></li>
+            </ol>
+        </p>
+    </subsection>
+
+    <subsection> 
+        <title>To Do List</title>
+        <p>
+            In this module, you will...
+            <ol>
+                <li><p> Watch <alert>2</alert> videos (~13 minutes). </p></li>
+                <li><p> Complete <alert>0</alert> checkpoints. </p></li>
+                <li><p> Add <alert>0</alert> items to your prep work book. </p></li>
+                <li><p> Write solutions to all problems in <alert>Homework 11</alert>. </p></li>
+            </ol>
+        </p>
+    </subsection>
+        
+        
+</section>

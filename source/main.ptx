@@ -40,6 +40,7 @@
       <xi:include href="./maps/U26_262_map_8.ptx" />
       <xi:include href="./maps/U26_262_map_9.ptx" />
       <xi:include href="./maps/U26_262_map_10.ptx" />
+      <xi:include href="./maps/U26_262_map_11.ptx" />
     </chapter>
 
     <chapter xml:id="preps">
@@ -62,6 +63,7 @@
       <xi:include href="./prepwork/U26_262_prep_8.ptx"/>
       <xi:include href="./prepwork/U26_262_prep_9.ptx"/>
       <!-- No prep 10 due to exam -->
+      <!-- No prep 11 because there's nothing to write -->
     </chapter>
 
     <chapter xml:id="loops">
@@ -83,6 +85,7 @@
       <xi:include href="./loops/U26_262_loop_8.ptx" />
       <xi:include href="./loops/U26_262_loop_9.ptx" />
       <!-- No loop 10 due to exam -->
+      <xi:include href="./loops/U26_262_loop_11.ptx" />
     </chapter>
 
 
@@ -105,6 +108,7 @@
       <xi:include href="./homework/U26_262_homework_8.ptx" />
       <xi:include href="./homework/U26_262_homework_9.ptx" />
       <!-- No homework 10 due to exam -->
+       <xi:include href="./homework/U26_262_homework_11.ptx" />
     </chapter>
 
     <chapter xml:id="activities">
@@ -128,6 +132,7 @@
       <xi:include href="./activities/U26_262_activity_8.ptx"/>
       <xi:include href="./activities/U26_262_activity_9.ptx"/>
       <!-- No activity 10 due to exam -->
+      <!-- Predator-prey game for activity 11 -->
     </chapter>
 
     <chapter xml:id="reviews">
