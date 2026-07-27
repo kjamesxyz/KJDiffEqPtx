@@ -127,6 +127,15 @@ var ptx_lunr_docs = [
   "body": " 🗺️ Module 10 Map   All of the content in this module should be completed before class on Monday, August 3 .    Exam Day  Your second midterm exam will take place next class period. To help you prepare, I have created a list of things you can do to study.    To Do List  To prepare for the exam, you should do the following...  Review all definitions from the class. Words like \"linear\" and \"phase portraits\" are key vocabulary from our course, and I will use them in the statements of problems. If I ask you to find a general solution, but you don't remember what a general solution is, it's very difficult to make any progress on that question.  Reread my feedback and\/or solutions for your problems on your homework assignments you may have lost credit for. Then, without using any resources, reattempt these problems. Repeat the process until you can get through the problems on your own.   After you have done the above 2 steps , you can check out the additional review problem bank on the next page. The MPLC has the solutions to these problems, so don't hesitate to bug them about it!     P.S. Don't forget to finish any remaining work you still have on activity 9!   "
 },
 {
+  "id": "map11",
+  "level": "1",
+  "url": "map11.html",
+  "type": "Section",
+  "number": "",
+  "title": "🗺️ Module 11 Map",
+  "body": " 🗺️ Module 11 Map   All of the content in this module should be completed before Wednesday, August 5 .    The Big Picture  For our last bit of new material to cover, we will get to look at some more substantive application spaces. Rarely can we describe complex phenomena with only a single equation. In this section, we look at modelling with systems of ODEs.    Module Objectives  After completing all work in this module, students will be able to...  Model real-world phenomena that consist of multiple dependent variables.      To Do List  In this module, you will...  Watch 2 videos (~13 minutes).  Complete 0 checkpoints.  Add 0 items to your prep work book.  Write solutions to all problems in Homework 11 .     "
+},
+{
   "id": "prepx",
   "level": "1",
   "url": "prepx.html",
@@ -287,6 +296,15 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "🔎 Loop 9",
   "body": " 🔎 Loop 9   This page will serve as a viewing guide for content that will be required for class on Wednesday, July 29 .    6.2 - Nonhomogeneous Systems of ODEs  In this section, we will adapt our techniques for solving nonhomogeneous differential equations to systems of 1st-order equations.  Watch 🎥 Video 6.2.1 (6:37).  Complete ✅ Checkpoint 6.2.1 .  🎯 Practice: Problems 1-9 (odd) in Exercises 8.3 (pg. 332).  Complete ✅ Checkpoint 6.2.2 .  Watch 🎥 Video 6.2.2 (10:32).  🎯 Practice: Problems 11-29 (odd) in Exercises 8.3 (pgs. 332-333).      6.3 - Reduction of Order  In this section, we will learn to reduce higher-order differential equations into systems of 1st order equations.  Watch 🎥 Video 6.3.1 (4:33).  🎯 Practice: Problems 1-15 (odd) in Exercises 4.2 (pg. 132). In the textbook, systems of ODEs have not been covered by this point, and they introduce reduciton of order as a technique to obtain other fundamental solutions, provided you know at least one. I would encourage you to use the methods from this section to obtain the given solution as well.     "
+},
+{
+  "id": "loop-11",
+  "level": "1",
+  "url": "loop-11.html",
+  "type": "Section",
+  "number": "",
+  "title": "🔎 Loop 11",
+  "body": " 🔎 Loop 11   This page will serve as a viewing guide for content that will be required for class on Wednesday, August 5 .    6.4 - Modelling with Systems of ODEs  In this section, we will adapt our techniques for solving nonhomogeneous differential equations to systems of 1st-order equations.  Watch 🎥 Video 6.4.1 (8:32).  Watch 🎥 Video 6.4.1 (4:33).  🎯 Practice: Try exercises 3.1.5, 3.1.6, 3.1.10, 3.5.1, 3.5.6, and 3.6.7 from this website .     "
 },
 {
   "id": "hwx-assigned",
@@ -611,6 +629,42 @@ var ptx_lunr_docs = [
   "number": "2",
   "title": "",
   "body": "  Solve using variation of parameters.   "
+},
+{
+  "id": "hw11",
+  "level": "1",
+  "url": "hw11.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "📝 Homework 11",
+  "body": " 📝 Homework 11    Instructions: This assignment is due Wednesday, August 5 . Write solutions to the following problems in the space provided. If you need additional space, you may attach scratch work to the back of this sheet. Please be sure any additional work is clearly labeled with the question it corresponds to.      Consider the system of ODEs      Find the general solution to the system.      The plot of all points (where varies) is called a trajectory for the system. This plot lives in the - plane, and is called the phase plane for the system. Sketch the trajectory for the case that all parameters in the general solution are equal to 1 in the space provided below.    You may want to try plugging in some values to see what the ordered pair should be. Try 5 different points (and spread them out so you capture all of the information).      If we write the system in the form , we say that the trajectories are defined by the vector-field . That is, is the slope function for the system. Hence, we can extend the idea of a nullcline being the set of critical points for . Find all nullclines for the system and plot them on your phase portrait above. In the space below, write any observations you make about how the trajectories relate to the nullclines.        A spring-mass system consists of a mass attached to an eastern wall by a spring with constant and damping constant , as well as a mass attached both to by a spring with constant and damping constant , and to a western wall by a spring with constant and damping constant .     Draw a picture of the system in the space provided below.      List all forces acting on each mass (including their direction) in the space below.      Use Newton's Second Law to write down a second-order ODE for each mass in the system.      Reduce the order of the system of 2 second-order equations you found in part (c) into a system of 4 first-order equations.      Write the system using matrices.      Suppose that a driving harmonic force of is applied to . How would this change your model?        A DC motor's armature has resistance and inductance . The motor has torque constant and back-emf constant . It is used to drive a frictionless, rotating flywheel with rotational inertial and coefficient of viscous friction .     Results from physics and engineering tell us that this system can be modeled by the equations Identify the state variables (unknowns) for the system.      Describe the dynamics of the system in plain language (without the use of math, equations, expressions, etc.).      Rewrite the system of ODEs given in part (a) using matrices.      Suppose you were to adjust the flywheel's inertia. In what way would this change the response from the motor? Consider both increasing and decreasing the inertia in your analysis.     "
+},
+{
+  "id": "hw11-3",
+  "level": "2",
+  "url": "hw11.html#hw11-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "  Consider the system of ODEs      Find the general solution to the system.      The plot of all points (where varies) is called a trajectory for the system. This plot lives in the - plane, and is called the phase plane for the system. Sketch the trajectory for the case that all parameters in the general solution are equal to 1 in the space provided below.    You may want to try plugging in some values to see what the ordered pair should be. Try 5 different points (and spread them out so you capture all of the information).      If we write the system in the form , we say that the trajectories are defined by the vector-field . That is, is the slope function for the system. Hence, we can extend the idea of a nullcline being the set of critical points for . Find all nullclines for the system and plot them on your phase portrait above. In the space below, write any observations you make about how the trajectories relate to the nullclines.    "
+},
+{
+  "id": "hw11-4",
+  "level": "2",
+  "url": "hw11.html#hw11-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  A spring-mass system consists of a mass attached to an eastern wall by a spring with constant and damping constant , as well as a mass attached both to by a spring with constant and damping constant , and to a western wall by a spring with constant and damping constant .     Draw a picture of the system in the space provided below.      List all forces acting on each mass (including their direction) in the space below.      Use Newton's Second Law to write down a second-order ODE for each mass in the system.      Reduce the order of the system of 2 second-order equations you found in part (c) into a system of 4 first-order equations.      Write the system using matrices.      Suppose that a driving harmonic force of is applied to . How would this change your model?    "
+},
+{
+  "id": "hw11-5",
+  "level": "2",
+  "url": "hw11.html#hw11-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  A DC motor's armature has resistance and inductance . The motor has torque constant and back-emf constant . It is used to drive a frictionless, rotating flywheel with rotational inertial and coefficient of viscous friction .     Results from physics and engineering tell us that this system can be modeled by the equations Identify the state variables (unknowns) for the system.      Describe the dynamics of the system in plain language (without the use of math, equations, expressions, etc.).      Rewrite the system of ODEs given in part (a) using matrices.      Suppose you were to adjust the flywheel's inertia. In what way would this change the response from the motor? Consider both increasing and decreasing the inertia in your analysis.    "
 },
 {
   "id": "activities-3",
