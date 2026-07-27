@@ -171,4 +171,57 @@
     </page>
 
   </worksheet>
+
+  <worksheet xml:id="exam-2">
+    <title> Exam 2 </title>
+
+    <introduction>
+        <p>
+        <alert>Instructions:</alert> You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct. 
+        </p>
+        <p>
+            For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of paper. You must use the colored paper provided during the exam. In this case, please clearly label which work corresponds to each exam question. If you are unsure of how to correctly answer a question, please list any relevant procedures, theorems, or definitions you are aware of that would be necessary for completing the problem.
+        </p>
+    </introduction>
+
+    <exercise>
+        <statement>
+            <p>
+                Power series about ordinary point.
+            </p>
+        </statement>
+    </exercise>
+
+     <exercise>
+        <statement>
+            <p>
+                Power series about singular point.
+            </p>
+        </statement>
+    </exercise>
+
+     <exercise>
+        <statement>
+            <p>
+                Compute Laplace transform.
+            </p>
+        </statement>
+    </exercise>
+
+     <exercise>
+        <statement>
+            <p>
+                Solve with Laplace transform.
+            </p>
+        </statement>
+    </exercise>
+
+     <exercise>
+        <statement>
+            <p>
+                Homogeneous system.
+            </p>
+        </statement>
+    </exercise>
+  </worksheet>
 </section>
