@@ -9,47 +9,6 @@
     </p>
     </introduction>
 
-    <!-- Problem 1 -->
-    <exercise>
-        <introduction>
-            <p>
-                Suppose that <m>y_1</m> and <m>y_2</m> are the fundamental solutions to the second-order equation <md>y'' + P(x)y' + Q(x)y = R(x).</md>
-            </p>
-        </introduction> 
-
-        <task workspace="1in">
-            <statement>
-                <p>
-                    Write the general solution to the equation using our original variation of parameters setup (you did this in your prep work 4 assignment). 
-                </p>
-            </statement>
-        </task>
-
-        <task workspace="1.5in">
-            <statement>
-                <p>
-                    Apply a reduction-of-order technique to reduce the 2nd-order equation into two 1st-order equations. Write the resulting system in the space below. 
-                </p>
-            </statement>
-        </task>
-
-        <task workspace="4in">
-            <statement>
-                <p>
-                    Apply our new variation of parameters to this new system of equations to find the general solution. 
-                </p>
-            </statement>
-        </task>
-
-        <task workspace="2in">
-            <statement>
-                <p>
-                    In the space below, record any observations you make about the results from each process. Do you have a preference? 
-                </p>
-            </statement>
-        </task>
-    </exercise>
-
     <!-- Problem 2 -->
     <exercise>
         <introduction>
