@@ -187,7 +187,7 @@
     <exercise workspace="3in">
         <statement>
             <p>
-                Let <md> f(t) = \begin{cases} t \amp \text{if} \ 0 \leq t \lt 1; \\ 1 \amp \text{if} \ 1 \leq t. \end{cases} </md> Compute <m> \mathscr{L} \{ f(t) \} </m> from the definition.  
+                [18 points] Let <md> f(t) = \begin{cases} t \amp \text{if} \ 0 \leq t \lt 1; \\ 1 \amp \text{if} \ 1 \leq t. \end{cases} </md> Compute <m> \mathscr{L} \{ f(t) \} </m> from the definition.  
             </p>
         </statement>
         <hint>
@@ -200,7 +200,7 @@
     <exercise>
         <introduction>
             <p>
-                Consider the ODE <md> (x-1)y'' + y' = 0.</md>
+                [25 points] Consider the ODE <md> (x-1)y'' + y' = 0.</md>
             </p>
         </introduction>
         <task workspace="1in">
@@ -222,7 +222,7 @@
     <exercise>
         <introduction>
             <p>
-                Consider finding two linearly independent series solutions to the ODE <md> 4xy'' + \frac{1}{2}y' + y = 0 </md> centered about the point <m> x = 0 </m>. The beginning of an <alert>INCORRECT</alert> solution process is shown below. 
+                [24 points] Consider finding two linearly independent series solutions to the ODE <md> 4xy'' + \frac{1}{2}y' + y = 0 </md> centered about the point <m> x = 0 </m>. The beginning of an <alert>INCORRECT</alert> solution process is shown below. 
             </p>
 
             <p> 
@@ -266,7 +266,7 @@
     <exercise workspace="4in">
         <statement>
             <p>
-                Compute <md> \mathscr{L}^{-1} \left\{ \frac{1}{(s^2 + \omega^2)^2} \right\}. </md> 
+                [18 points] Compute <md> \mathscr{L}^{-1} \left\{ \frac{1}{(s^2 + \omega^2)^2} \right\}. </md> 
             </p>
         </statement>
         <hint>
@@ -279,7 +279,7 @@
      <exercise>
         <introduction>
             <p>
-                Consider the below system of differential equations.
+                [25 points] Consider the below system of differential equations.
                 <md>
                     <mrow> \frac{dx}{dt} \amp = 9x + 8y - 5 </mrow>
                     <mrow> \frac{dy}{dt} \amp = 2 -5y - 6x </mrow>
