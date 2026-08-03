@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="review2">
+    <title>🏋️‍♀️Exam 2 Review</title>
+    <introduction>
+          <p>
+            <alert>Instructions:</alert> The following problems have been chosen or adapted from our course textbook to represent the content and caliber of problems that will appear on the first midterm exam. They are not assigned for credit, but I am more than happy to discuss them with you in office hours. 
+          </p>
+    </introduction>
+
+
+
+    <exercise workspace="3in">
+          <statement>
+            <p>
+                Verify that <m> u(t) = t \sin(t) + t \cos(t) </m> is a solution to the differential equation <md> u'' + u = 2 \cos(t) - 2 \sin(t). </md> Give the largest possible interval of existence for this solution.
+            </p>
+          </statement>
+    </exercise>
+
+
+</worksheet>
