@@ -330,4 +330,148 @@
 
   </worksheet>
 
+  <worksheet xml:id="exam-final">
+    <title> Final Exam </title>
+
+    <introduction>
+        <p>
+            <alert>Instructions:</alert> You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct. 
+        </p>
+        <p>
+            For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of paper. You must use the colored paper provided during the exam. In this case, please clearly label which work corresponds to each exam question. If you are unsure of how to correctly answer a question, please list any relevant procedures, theorems, or definitions you are aware of that would be necessary for completing the problem.
+        </p>
+    </introduction>
+
+    <!-- Classifying DEs -->
+    <exercise>
+        <introduction>
+            <p>
+                Consider the system of differential equations 
+                <md>
+                    <mrow> x'(t) \amp = y - 3x + 3t</mrow>
+                    <mrow> y'(t) \amp = 2x - 4t + e^{-t}</mrow>
+                </md>
+            </p>
+        </introduction>
+
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Describe the system by identifying its type, order, linearity, and homogeneity. Justify each of your descriptions. 
+                </p>
+            </statement>
+        </task>
+
+        <task workspace="0.5in">
+            <statement>
+                <p>
+                    Write the system in the form <m> \bf{u}' = A\bf{u} + \bf{f} </m>. Clearly define <m>A, \bf{u}</m>, and <m>\bf{f}</m>. 
+                </p>
+            </statement>
+        </task>
+    </exercise>
+
+    <!-- Separation of Variables -->
+    <exercise workspace="3in">
+        <statement>
+            <p>
+                Solve the IVP
+                <md>
+                    (e^{2y} - y)\cos(t) \frac{dy}{dt} = e^y \sin(2t); \hspace{10pt} y(0)=0
+                </md>
+                using separation of variables.
+            </p>
+        </statement>
+        <hint>
+            <p>
+                Recall <m> \sin(2t) = 2\sin(t) \cos(t) </m> .
+            </p>
+        </hint>
+    </exercise>
+
+    <!-- Dealer's choice 1st-order -->
+    <exercise workspace="3in">
+        <statement>
+            <p>
+                Solve the IVP
+                <md>
+                    2xy + (2y + x^2 + 1)\frac{dy}{dx} = 9x^2; \hspace{10pt} y(0)=-3
+                </md>
+                using any method.
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Slope Field -->
+    <exercise workspace="0.5in">
+        <introduction>
+            <p>
+                The slope field for the ODE <md> \frac{dy}{dt} = \cos(y)\sin(t) </md> is shown below.
+            </p>
+            <image source="slope_field_2.png" width="60%">
+                <shortdescription> A slope field whose slope changes sinusoidally in <m>y</m>. </shortdescription>
+            </image>
+        </introduction> 
+
+        <task workspace="1in">
+            <p> 
+                Identify all equilibria (that appear in the image) for the system. Classify each of them as stable, unstable, or neither. Justify your answers.
+            </p> 
+        </task>
+
+        <task>
+            <p> 
+                Sketch the trajectory of the solution to the system under the initial condition <m> y(0) = 1 </m> onto the image above.
+            </p> 
+        </task>
+    </exercise>
+
+    <!-- Dealer's choice nth-order -->
+    <exercise workspace="3in">
+        <statement>
+            <p>
+                Solve the ODE
+                <md>
+                    y'' - 9y = 54
+                </md>
+                using any method.
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Power series solutions -->
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Find a general power series solution for the ODE
+                <md>
+                    y'' - (1 + x)y = 0
+                </md>
+                centered about <m>x=0</m>.
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Laplace -->
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Solve the IVP
+                <md>
+                    \ddot{p} + p = \sin(\theta) + \theta \sin(\theta); \hspace{10pt} p(0) = p'(0) = 0
+                </md>
+                using Laplace transforms.
+            </p>
+        </statement>
+    </exercise>
+
+    <!-- Systems -->
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Consider the linear, homogeneous system of differential equations <md> \bf{u}' = A \bf{u}.</md> Suppose <m>A</m> has the eigenvalues <md> \lambda_1 = 3, \ \lambda_2 = 3, \ \lambda_3 = 5, \ \lambda_4 = 2 + 3i, \ \lambda_5 = 2 - 3i </md> with corresponding eigenvectors <m> \bf{v}_1, \ldots, \bf{v}_5 </m>. Write the general solution to the system.
+            </p>
+        </statement>
+    </exercise>
+  </worksheet>
 </section>
