@@ -342,6 +342,7 @@
         </p>
     </introduction>
 
+    <page>
     <!-- Classifying DEs -->
     <exercise>
         <introduction>
@@ -370,23 +371,20 @@
             </statement>
         </task>
     </exercise>
+    </page> 
 
+    <page>
     <!-- Separation of Variables -->
     <exercise workspace="3in">
         <statement>
             <p>
-                Solve the IVP
+                Use separation of variable to find the solution to the IVP
                 <md>
-                    (e^{2y} - y)\cos(t) \frac{dy}{dt} = e^y \sin(2t); \hspace{10pt} y(0)=0
+                    (e^{2y} + y)\cos(t) \frac{dy}{dt} = e^y \sin(2t); \hspace{10pt} y(0)=0.
                 </md>
-                using separation of variables.
+                Your solution may be defined implictly. Hint: recall <m> \sin(2t) = 2\sin(t) \cos(t) </m> .
             </p>
         </statement>
-        <hint>
-            <p>
-                Recall <m> \sin(2t) = 2\sin(t) \cos(t) </m> .
-            </p>
-        </hint>
     </exercise>
 
     <!-- Dealer's choice 1st-order -->
@@ -397,13 +395,15 @@
                 <md>
                     2xy + (2y + x^2 + 1)\frac{dy}{dx} = 9x^2; \hspace{10pt} y(0)=-3
                 </md>
-                using any method.
+                using any method. Your solution may be defined implictly.
             </p>
         </statement>
     </exercise>
+    </page>
 
+    <page>
     <!-- Slope Field -->
-    <exercise workspace="0.5in">
+    <exercise>
         <introduction>
             <p>
                 The slope field for the ODE <md> \frac{dy}{dt} = \cos(y)\sin(t) </md> is shown below.
@@ -414,20 +414,26 @@
         </introduction> 
 
         <task workspace="1in">
-            <p> 
-                Identify all equilibria (that appear in the image) for the system. Classify each of them as stable, unstable, or neither. Justify your answers.
-            </p> 
+            <statement>
+                <p>
+                    Identify all equilibria for the system and sketch them onto the graph above. Classify each of them as stable, unstable, or neither. Justify your answers.
+                </p>
+            </statement>
         </task>
 
         <task>
-            <p> 
-                Sketch the trajectory of the solution to the system under the initial condition <m> y(0) = 1 </m> onto the image above.
-            </p> 
+            <statement>
+                <p> 
+                    Sketch the trajectory of the solution to the system under the initial condition <m> y(0) = 1 </m> onto the image above.
+                </p> 
+            </statement>
         </task>
     </exercise>
+    </page>
 
+    <page>
     <!-- Dealer's choice nth-order -->
-    <exercise workspace="3in">
+    <exercise workspace="2in">
         <statement>
             <p>
                 Solve the ODE
@@ -439,39 +445,45 @@
         </statement>
     </exercise>
 
-    <!-- Power series solutions -->
-    <exercise workspace="6in">
-        <statement>
-            <p>
-                Find a general power series solution for the ODE
-                <md>
-                    y'' - (1 + x)y = 0
-                </md>
-                centered about <m>x=0</m>.
-            </p>
-        </statement>
-    </exercise>
-
-    <!-- Laplace -->
-    <exercise workspace="6in">
-        <statement>
-            <p>
-                Solve the IVP
-                <md>
-                    \ddot{p} + p = \sin(\theta) + \theta \sin(\theta); \hspace{10pt} p(0) = p'(0) = 0
-                </md>
-                using Laplace transforms.
-            </p>
-        </statement>
-    </exercise>
 
     <!-- Systems -->
-    <exercise workspace="6in">
+    <exercise workspace="0.5in">
         <statement>
             <p>
                 Consider the linear, homogeneous system of differential equations <md> \bf{u}' = A \bf{u}.</md> Suppose <m>A</m> has the eigenvalues <md> \lambda_1 = 3, \ \lambda_2 = 3, \ \lambda_3 = 5, \ \lambda_4 = 2 + 3i, \ \lambda_5 = 2 - 3i </md> with corresponding eigenvectors <m> \bf{v}_1, \ldots, \bf{v}_5 </m>. Write the general solution to the system.
             </p>
         </statement>
     </exercise>
+    </page>
+
+    <page>
+    <!-- Power series solutions -->
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Find two power series solution for the ODE
+                <md>
+                    y'' - (1 + x)y = 0
+                </md>
+                centered about <m>x=0</m>. Write the first four nonzero terms of each solution.
+            </p>
+        </statement>
+    </exercise>
+    </page>
+
+    <page>
+    <!-- Laplace -->
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                Solve the IVP
+                <md>
+                    \dot{p} + p = \theta \sin(\theta) e^\theta; \hspace{10pt} p(0) = 0
+                </md>
+                using Laplace transforms.
+            </p>
+        </statement>
+    </exercise>
+    </page>
   </worksheet>
 </section>
