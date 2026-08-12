@@ -335,7 +335,7 @@
 
     <introduction>
         <p>
-            <alert>Instructions:</alert> You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct. 
+            <alert>Instructions:</alert> You have 110 minutes to complete this exam. You may use your prep work journals as a reference on this exam provided they have been cleared with the instructor before you begin. Use of a scientific calculator is permitted. No other notes or electronic devices of any kind will be allowed on this exam. Failure to comply with this policy may result in earning no credit for any portion of this exam (up to and including all credit) as well as a report to the university for academic misconduct. There are 165 points available on this exam, but you will be scored out of 150 points.
         </p>
         <p>
             For each of the following questions, write your solutions neatly in the space provided. If you do not have enough space, you may continue your work onto a separate sheet of paper. You must use the colored paper provided during the exam. In this case, please clearly label which work corresponds to each exam question. If you are unsure of how to correctly answer a question, please list any relevant procedures, theorems, or definitions you are aware of that would be necessary for completing the problem.
@@ -347,7 +347,7 @@
     <exercise>
         <introduction>
             <p>
-                Consider the system of differential equations 
+                [19 points] Consider the system of differential equations 
                 <md>
                     <mrow> x'(t) \amp = y - 3x + 3t</mrow>
                     <mrow> y'(t) \amp = 2x - 4t + e^{-t}</mrow>
@@ -378,7 +378,7 @@
     <exercise workspace="3in">
         <statement>
             <p>
-                Use separation of variable to find the solution to the IVP
+                [22 points] Use separation of variable to find the solution to the IVP
                 <md>
                     (e^{2y} + y)\cos(t) \frac{dy}{dt} = e^y \sin(2t); \hspace{10pt} y(0)=0.
                 </md>
@@ -391,7 +391,7 @@
     <exercise workspace="3in">
         <statement>
             <p>
-                Solve the IVP
+                [24 points] Solve the IVP
                 <md>
                     2xy + (2y + x^2 + 1)\frac{dy}{dx} = 9x^2; \hspace{10pt} y(0)=-3
                 </md>
@@ -406,7 +406,7 @@
     <exercise>
         <introduction>
             <p>
-                The slope field for the ODE <md> \frac{dy}{dt} = \cos(y)\sin(t) </md> is shown below.
+                [23 points] The slope field for the ODE <md> \frac{dy}{dt} = \cos(y)\sin(t) </md> is shown below.
             </p>
             <image source="slope_field_2.png" width="60%">
                 <shortdescription> A slope field whose slope changes sinusoidally in <m>y</m>. </shortdescription>
@@ -436,7 +436,7 @@
     <exercise workspace="2in">
         <statement>
             <p>
-                Solve the ODE
+                [15 points] Solve the ODE
                 <md>
                     y'' - 9y = 54
                 </md>
@@ -450,22 +450,7 @@
     <exercise workspace="0.5in">
         <statement>
             <p>
-                Consider the linear, homogeneous system of differential equations <md> \bf{u}' = A \bf{u}.</md> Suppose <m>A</m> has the eigenvalues <md> \lambda_1 = 3, \ \lambda_2 = 3, \ \lambda_3 = 5, \ \lambda_4 = 2 + 3i, \ \lambda_5 = 2 - 3i </md> with corresponding eigenvectors <m> \bf{v}_1, \ldots, \bf{v}_5 </m>. Write the general solution to the system.
-            </p>
-        </statement>
-    </exercise>
-    </page>
-
-    <page>
-    <!-- Power series solutions -->
-    <exercise workspace="6in">
-        <statement>
-            <p>
-                Find two power series solution for the ODE
-                <md>
-                    y'' - (1 + x)y = 0
-                </md>
-                centered about <m>x=0</m>. Write the first four nonzero terms of each solution.
+                [14 points] Consider the linear, homogeneous system of differential equations <md> \bf{u}' = A \bf{u}.</md> Suppose <m>A</m> has the eigenvalues <md> \lambda_1 = 3, \ \lambda_2 = 3, \ \lambda_3 = 5, \ \lambda_4 = 2 + 3i, \ \lambda_5 = 2 - 3i </md> with corresponding eigenvectors <m> \bf{v}_1, \ldots, \bf{v}_5 </m>. Write the general solution to the system.
             </p>
         </statement>
     </exercise>
@@ -476,7 +461,7 @@
     <exercise workspace="6in">
         <statement>
             <p>
-                Solve the IVP
+                [16 points] Solve the IVP
                 <md>
                     \dot{p} + p = \theta \sin(\theta) e^\theta; \hspace{10pt} p(0) = 0
                 </md>
@@ -485,5 +470,22 @@
         </statement>
     </exercise>
     </page>
+
+    <page>
+    <!-- Power series solutions -->
+    <exercise workspace="6in">
+        <statement>
+            <p>
+                [32 points] Find two power series solution for the ODE
+                <md>
+                    y'' - (1 + x)y = 0
+                </md>
+                centered about <m>x=0</m>. Write the first four nonzero terms of each solution.
+            </p>
+        </statement>
+    </exercise>
+    </page>
+
+    
   </worksheet>
 </section>
